@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- character Table-->
+        <xs:element name="shop" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>	
+		    <xs:attribute name="name" type="xs:string"/>	
+		    <xs:attribute name="description" type="xs:string"/>	
+		    <xs:attribute name="refundNotice" type="xs:string"/>	
+		    <xs:attribute name="needLevel" type="xs:string"/>	
+		    <xs:attribute name="maxLevel" type="xs:string"/>	
+		    <xs:attribute name="needHonor" type="xs:string"/>	
+		    <xs:attribute name="maxHonor" type="xs:string"/>	
+		    <xs:attribute name="limitedType" type="xs:string"/>	
+		    <xs:attribute name="limitedCount" type="xs:string"/>	
+		    <xs:attribute name="stepGroup" type="xs:string"/>	
+		    <xs:attribute name="step" type="xs:string"/>	
+		    <xs:attribute name="stepHidden" type="xs:string"/>	
+		    <xs:attribute name="sellType" type="xs:string"/>	
+		    <xs:attribute name="price" type="xs:string"/>	
+		    <xs:attribute name="itemType" type="xs:string"/>
+		    <xs:attribute name="itemValue" type="xs:string"/>
+		    <xs:attribute name="imageType" type="xs:string"/>	
+		    <xs:attribute name="folder" type="xs:string"/>	
+		    <xs:attribute name="atlas" type="xs:string"/>	
+		    <xs:attribute name="image" type="xs:string"/>	
+		    <xs:attribute name="label" type="xs:string"/>	
+		    <xs:attribute name="functionType" type="xs:string"/>
+		    <xs:attribute name="functionValue" type="xs:string"/>
+		    <xs:attribute name="noAutoAds" type="xs:string"/>	
+		    <xs:attribute name="noAds" type="xs:string"/>	
+		    <xs:attribute name="multiple" type="xs:string"/>	
+		    <xs:attribute name="iosProductId" type="xs:string"/>
+		    <xs:attribute name="androidProductId" type="xs:string"/>
+		    <xs:attribute name="onestoreProductId" type="xs:string"/>
+		    <xs:attribute name="mailboxId" type="xs:string"/>
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

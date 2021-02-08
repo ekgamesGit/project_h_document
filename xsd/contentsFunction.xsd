@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- contentsFunction Table-->
+        <xs:element name="contentsFunction" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+ 		<xs:attribute name="id" type="xs:integer"/>
+		<xs:attribute name="functionType" type="xs:string"/>
+		<xs:attribute name="functionTargetType" type="xs:string"/>
+		<xs:attribute name="formatType" type="xs:string"/>
+		<xs:attribute name="description" type="xs:string"/>
+		<xs:attribute name="folder" type="xs:string"/>
+		<xs:attribute name="atlas" type="xs:string"/>
+		<xs:attribute name="image" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

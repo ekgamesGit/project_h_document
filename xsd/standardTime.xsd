@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- standardTime Table-->
+        <xs:element name="standardTime" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		<xs:attribute name="id" type="xs:string"/>
+		<xs:attribute name="language" type="xs:string"/>
+		<xs:attribute name="utc" type="xs:string"/>
+		<xs:attribute name="interstitialFilter" type="xs:string"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

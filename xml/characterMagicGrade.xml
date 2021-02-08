@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<characterMagicGrade characterMagicGrade="1" textColor="197,197,197"/>
+	<characterMagicGrade characterMagicGrade="2" textColor="141,192,110"/>
+	<characterMagicGrade characterMagicGrade="3" textColor="132,196,236"/>
+	<characterMagicGrade characterMagicGrade="4" textColor="192,127,246"/>
+	<characterMagicGrade characterMagicGrade="5" textColor="245,144,100"/>
+</Root>

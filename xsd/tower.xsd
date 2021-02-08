@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- tower Table-->
+        <xs:element name="tower" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>
+		    <xs:attribute name="type" type="xs:string"/>
+		    <xs:attribute name="level" type="xs:string"/>
+		    <xs:attribute name="folder" type="xs:string"/>
+		    <xs:attribute name="atlas" type="xs:string"/>
+		    <xs:attribute name="image" type="xs:string"/>
+		    <xs:attribute name="spineFolder" type="xs:string"/>
+		    <xs:attribute name="spineData" type="xs:string"/>
+		    <xs:attribute name="effectFolder" type="xs:string"/>
+		    <xs:attribute name="effectData" type="xs:string"/>
+		    <xs:attribute name="hp" type="xs:string"/>
+		    <xs:attribute name="defence" type="xs:string"/>
+		    <xs:attribute name="stoneGetValue" type="xs:string"/>
+		    <xs:attribute name="stoneMaxValue" type="xs:string"/>
+		    <xs:attribute name="size" type="xs:string"/>
+		    <xs:attribute name="scale" type="xs:string"/>
+		    <xs:attribute name="targetOrder" type="xs:string"/>
+		    <xs:attribute name="effectScale" type="xs:string"/>
+		    <xs:attribute name="damagePositionX" type="xs:string"/>
+		    <xs:attribute name="damagePositionY" type="xs:string"/>
+		    <xs:attribute name="needTeamLevel" type="xs:string"/>
+		    <xs:attribute name="needItemType" type="xs:string"/>
+		    <xs:attribute name="needItemValue" type="xs:string"/>
+
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

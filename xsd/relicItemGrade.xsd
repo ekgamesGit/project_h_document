@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- relicItemGrade Table-->
+        <xs:element name="relicItemGrade" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+ 		<xs:attribute name="id" type="xs:integer"/>
+ 		<xs:attribute name="grade" type="xs:integer"/>
+ 		<xs:attribute name="name" type="xs:integer"/>
+ 		<xs:attribute name="clearFolder" type="xs:integer"/>
+ 		<xs:attribute name="clearAtlas" type="xs:integer"/>
+ 		<xs:attribute name="clearImage" type="xs:integer"/>
+ 		<xs:attribute name="backGroundFolder" type="xs:integer"/>
+ 		<xs:attribute name="backGroundAtlas" type="xs:integer"/>
+ 		<xs:attribute name="backGroundImage" type="xs:integer"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

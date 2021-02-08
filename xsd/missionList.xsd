@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- missionList Table-->
+        <xs:element name="missionList" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+ 		<xs:attribute name="id" type="xs:integer"/>
+		<xs:attribute name="missionId" type="xs:string"/>
+		<xs:attribute name="criteriaType" type="xs:string"/>
+		<xs:attribute name="criteriaCondition" type="xs:string"/>
+		<xs:attribute name="criteriaValue" type="xs:string"/>
+		<xs:attribute name="rewardItemType" type="xs:string"/>
+		<xs:attribute name="rewardItemValue" type="xs:string"/>
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

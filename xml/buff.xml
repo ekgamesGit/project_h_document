@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<buff buffSkillId="1" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="2" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="12" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="13" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="14" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="15" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="16" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="25" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="26" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="28" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3203"/>
+	<buff buffSkillId="104" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3204"/>
+	<buff buffSkillId="105" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="106" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="111" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="112" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="113" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="204" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3201"/>
+	<buff buffSkillId="225" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3501"/>
+	<buff buffSkillId="226" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3501"/>
+	<buff buffSkillId="228" buffCheck="1" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="3501"/>
+	<buff buffSkillId="1004" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="1005" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="1006" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="1011" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="1012" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+	<buff buffSkillId="1013" buffCheck="0" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" buffEffect="0"/>
+</Root>

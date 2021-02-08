@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- eventBuff Table-->
+        <xs:element name="eventBuff" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="idx" type="xs:string"/>	
+			<xs:attribute name="groupId" type="xs:string"/>	
+		    <xs:attribute name="orderNumber" type="xs:string"/>
+			<xs:attribute name="strNameList" type="xs:string"/>
+			<xs:attribute name="type" type="xs:string"/>
+			<xs:attribute name="strValueList" type="xs:string"/>
+			<xs:attribute name="conditionType1" type="xs:string"/>
+			<xs:attribute name="strConditionValueList1" type="xs:string"/>
+			<xs:attribute name="conditionType2" type="xs:string"/>
+			<xs:attribute name="strConditionValueList2" type="xs:string"/>
+			<xs:attribute name="conditionType3" type="xs:string"/>
+			<xs:attribute name="strConditionValueList3" type="xs:string"/>
+			<xs:attribute name="conditionType4" type="xs:string"/>
+			<xs:attribute name="strConditionValueList4" type="xs:string"/>
+			<xs:attribute name="conditionType5" type="xs:string"/>
+			<xs:attribute name="strConditionValueList5" type="xs:string"/>
+			<xs:attribute name="conditionType6" type="xs:string"/>
+			<xs:attribute name="strConditionValueList6" type="xs:string"/>
+			<xs:attribute name="conditionType7" type="xs:string"/>
+			<xs:attribute name="strConditionValueList7" type="xs:string"/>
+			<xs:attribute name="conditionType8" type="xs:string"/>
+			<xs:attribute name="strConditionValueList8" type="xs:string"/>
+			<xs:attribute name="conditionType9" type="xs:string"/>
+			<xs:attribute name="strConditionValueList9" type="xs:string"/>
+			<xs:attribute name="conditionType10" type="xs:string"/>
+			<xs:attribute name="strConditionValueList10" type="xs:string"/>
+			<xs:attribute name="conditionType11" type="xs:string"/>
+			<xs:attribute name="strConditionValueList11" type="xs:string"/>
+			<xs:attribute name="conditionType12" type="xs:string"/>
+			<xs:attribute name="strConditionValueList12" type="xs:string"/>
+			<xs:attribute name="conditionType13" type="xs:string"/>
+			<xs:attribute name="strConditionValueList13" type="xs:string"/>
+			<xs:attribute name="conditionType14" type="xs:string"/>
+			<xs:attribute name="strConditionValueList14" type="xs:string"/>
+			<xs:attribute name="conditionType15" type="xs:string"/>
+			<xs:attribute name="strConditionValueList15" type="xs:string"/>
+			</xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

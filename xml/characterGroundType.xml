@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<characterGroundType id="1" name="30501" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Akeatalos"/>
+	<characterGroundType id="2" name="30502" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Grana"/>
+</Root>

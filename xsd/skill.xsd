@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- skill Table-->
+        <xs:element name="skill" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		<xs:attribute name="id" type="xs:string"/>
+		<xs:attribute name="activeTiming" type="xs:string"/>
+		<xs:attribute name="condition" type="xs:string"/>
+		<xs:attribute name="conditionValue" type="xs:string"/>
+		<xs:attribute name="priority" type="xs:string"/>
+		<xs:attribute name="activeCount" type="xs:string"/>
+		<xs:attribute name="damageCastingTime" type="xs:string"/>
+		<xs:attribute name="arrowEffectStartingPositionX" type="xs:string"/>
+		<xs:attribute name="arrowEffectStartingPositionY" type="xs:string"/>
+		<xs:attribute name="coolTimeType" type="xs:string"/>
+		<xs:attribute name="coolTime" type="xs:string"/>
+		<xs:attribute name="actionAnimation" type="xs:string"/>
+		<xs:attribute name="attackEffect" type="xs:string"/>
+		<xs:attribute name="skillFunctionID" type="xs:string"/>
+		<xs:attribute name="skillFunctionLevel" type="xs:string"/>
+		<xs:attribute name="screenShaking" type="xs:string"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- relicItem Table-->
+        <xs:element name="relicItem" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+ 		<xs:attribute name="id" type="xs:integer"/>
+ 		<xs:attribute name="grade" type="xs:integer"/>
+ 		<xs:attribute name="seed" type="xs:integer"/>
+ 		<xs:attribute name="rewardClearCount" type="xs:integer"/>
+ 		<xs:attribute name="contentsFunctionValue" type="xs:integer"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

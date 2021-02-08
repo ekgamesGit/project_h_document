@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- instantShopCategory Table-->
+        <xs:element name="instantShopCategory" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>	
+		    <xs:attribute name="condition" type="xs:string"/>	
+		    <xs:attribute name="conditionValue1" type="xs:string"/>	
+		    <xs:attribute name="conditionValue2" type="xs:string"/>	
+		    <xs:attribute name="remainTime" type="xs:string"/>	
+		    <xs:attribute name="product" type="xs:string"/>	
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

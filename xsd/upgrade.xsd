@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- upgrade Table-->
+        <xs:element name="upgrade" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>	
+		    <xs:attribute name="name" type="xs:string"/>	
+		    <xs:attribute name="folder" type="xs:string"/>	
+		    <xs:attribute name="atlas" type="xs:string"/>	
+		    <xs:attribute name="image" type="xs:string"/>	
+		    <xs:attribute name="miniFolder" type="xs:string"/>	
+		    <xs:attribute name="miniAtlas" type="xs:string"/>	
+		    <xs:attribute name="miniImage" type="xs:string"/>	
+		    <xs:attribute name="type" type="xs:string"/>
+		    <xs:attribute name="order" type="xs:string"/>
+		    <xs:attribute name="needTeamLevel" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionType" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionCondition" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionValue" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionPlusValue" type="xs:string"/>
+		    <xs:attribute name="levelupType" type="xs:string"/>
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

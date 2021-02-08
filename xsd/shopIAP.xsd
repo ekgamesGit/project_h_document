@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- shopIAP Table-->
+        <xs:element name="shopIAP" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>	
+		    <xs:attribute name="marketType" type="xs:string"/>	
+		    <xs:attribute name="productValue" type="xs:string"/>	
+		    <xs:attribute name="tier" type="xs:string"/>	
+		    <xs:attribute name="krw" type="xs:string"/>	
+		    <xs:attribute name="usd" type="xs:string"/>	
+		    <xs:attribute name="jpy" type="xs:string"/>	
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

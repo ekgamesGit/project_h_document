@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<relicItemGrade id="1" grade="1" name="30011" clearFolder="World/" clearAtlas="Prefab_World_UI" clearImage="Bronze_Medal" backGroundFolder="World/" backGroundAtlas="Prefab_World_UI" backGroundImage="Bronze_Medal"/>
+	<relicItemGrade id="2" grade="2" name="30012" clearFolder="World/" clearAtlas="Prefab_World_UI" clearImage="Silver_Medal" backGroundFolder="World/" backGroundAtlas="Prefab_World_UI" backGroundImage="Silver_Medal"/>
+	<relicItemGrade id="3" grade="3" name="30013" clearFolder="World/" clearAtlas="Prefab_World_UI" clearImage="Gold_Medal" backGroundFolder="World/" backGroundAtlas="Prefab_World_UI" backGroundImage="Gold_Medal"/>
+</Root>

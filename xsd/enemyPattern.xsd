@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- enemyPattern Table-->
+        <xs:element name="enemyPattern" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		   <xs:attribute name="id" type="xs:string"/>
+		   <xs:attribute name="enemyPatternId" type="xs:string"/>
+		   <xs:attribute name="petternActiveTimingType" type="xs:string"/>
+		   <xs:attribute name="petternActiveTimingTypeValue" type="xs:string"/>
+		   <xs:attribute name="startTime" type="xs:string"/>
+		   <xs:attribute name="endTime" type="xs:string"/>
+		   <xs:attribute name="repeat" type="xs:string"/>
+		   <xs:attribute name="interval" type="xs:string"/>
+		   <xs:attribute name="intervalGrowCount" type="xs:string"/>
+		   <xs:attribute name="intervalGrowValue" type="xs:string"/>
+		   <xs:attribute name="intervalGrowMax" type="xs:string"/>
+		   <xs:attribute name="characterGroupId" type="xs:string"/>
+		   <xs:attribute name="characterLevel" type="xs:string"/>
+		   <xs:attribute name="addSkillId" type="xs:string"/>
+		   <xs:attribute name="addSkillLevel" type="xs:string"/>
+		   <xs:attribute name="summonEnemyAmount" type="xs:string"/>
+		   <xs:attribute name="summonEnemyCooltime" type="xs:string"/>
+		   <xs:attribute name="contentsFunctionId" type="xs:string"/>
+		   <xs:attribute name="contentsFunctionCondition" type="xs:string"/>
+		   <xs:attribute name="contentsFunctionValue" type="xs:string"/>
+		   <xs:attribute name="contentsFunctionTime" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<itemGrade itemGrade="1" folder="Common/" atlas="Prefab_Common" image="icon_base_01"/>
+	<itemGrade itemGrade="2" folder="Common/" atlas="Prefab_Common" image="icon_base_02"/>
+	<itemGrade itemGrade="3" folder="Common/" atlas="Prefab_Common" image="icon_base_03"/>
+	<itemGrade itemGrade="4" folder="Common/" atlas="Prefab_Common" image="icon_base_04"/>
+	<itemGrade itemGrade="5" folder="Common/" atlas="Prefab_Common" image="icon_base_05"/>
+	<itemGrade itemGrade="6" folder="Common/" atlas="Prefab_Common" image="icon_base_06"/>
+	<itemGrade itemGrade="7" folder="Common/" atlas="Prefab_Common" image="icon_base_07" gradeImageFolder="Common/" gradeImageAtlas="Prefab_Common" gradeImageImage="icon_base_07_frame"/>
+	<itemGrade itemGrade="8" folder="Common/" atlas="Prefab_Common" image="icon_base_08" gradeImageFolder="Common/" gradeImageAtlas="Prefab_Common" gradeImageImage="icon_base_08_frame"/>
+</Root>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<shopCategory id="1" group="1" order="1" name="55701" subGroup="5" subOrder="1" subName="55701" type="1" value="3009,3008,3001,30,46,32,34,35,40,41,42,43,44,45"/>
+	<shopCategory group="1" subGroup="5" startDate="1020-11-19 00:00" endDate="2020-12-01 00:00" value="3001"/>
+	<shopCategory group="1" subGroup="5" startDate="1020-11-26 00:00" endDate="2020-12-08 00:00" value="3002"/>
+	<shopCategory group="1" subGroup="5" startDate="2020-12-24 11:00" endDate="2021-01-07 11:00" value="3004,3005"/>
+	<shopCategory group="1" subGroup="5" startDate="2021-01-07 11:00" endDate="2021-01-21 11:00" value="3006"/>
+	<shopCategory group="1" subGroup="5" startDate="1021-01-14 11:00" endDate="2021-01-28 11:00" value="3007"/>
+	<shopCategory group="1" subGroup="5" startDate="1021-01-21 11:00" endDate="2021-02-05 00:00" value="3001,3008"/>
+	<shopCategory group="1" subGroup="5" startDate="1021-02-04 11:00" endDate="2021-02-19 00:00" value="3009"/>
+	<shopCategory group="1" subGroup="5" startDate="1021-02-10 11:00" endDate="2021-02-26 00:00" value="3010"/>
+	<shopCategory id="2" group="3" order="3" name="55702" subGroup="1" subOrder="3" subName="200001" type="1" value="1,2,3,4,5"/>
+	<shopCategory id="3" group="3" order="3" name="55702" subGroup="2" subOrder="2" subName="200002" type="1" value="11,411,412,413,414"/>
+	<shopCategory id="4" group="3" order="3" name="55702" subGroup="3" subOrder="4" subName="200031" type="1" value="21,26,27,28,29"/>
+	<shopCategory id="5" group="3" order="3" name="55702" subGroup="4" subOrder="1" subName="200003" type="1" value="401,402,403,404,405,406,407,408"/>
+	<shopCategory id="11" group="4" order="21" name="55703" subGroup="1" subOrder="1" subName="55704" type="1" value="109,108,101,102,103,104,105,106,107"/>
+	<shopCategory group="4" subGroup="1" subOrder="1" startDate="1021-02-10 11:00" endDate="2021-02-15 00:00" value="108"/>
+	<shopCategory group="4" subGroup="1" subOrder="1" startDate="1021-02-10 11:00" endDate="2021-02-15 00:00" value="109"/>
+	<shopCategory id="12" group="5" order="11" name="200102" subGroup="1" subOrder="1" subName="200102" type="1" value="301,302,303,304,305,306,307,308,309,310,311,312,313"/>
+	<shopCategory id="13" group="6" order="12" name="54160" subGroup="1" subOrder="1" subName="200150" type="1" value="151,152,153,154,155,162,163,164,165"/>
+	<shopCategory id="51" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="2020-09-01 00:00" endDate="2020-09-13 23:59" type="1" value="51,52"/>
+	<shopCategory id="52" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="2020-09-14 00:00" endDate="2020-09-20 23:59" type="1" value="53,54"/>
+	<shopCategory id="53" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="2020-09-21 00:00" endDate="2020-09-27 23:59" type="1" value="55,56"/>
+	<shopCategory id="54" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="57,58"/>
+	<shopCategory id="55" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="59,60"/>
+	<shopCategory id="56" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="61,62"/>
+	<shopCategory id="57" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="63,64"/>
+	<shopCategory id="58" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="65,66"/>
+	<shopCategory id="59" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="67,68"/>
+	<shopCategory id="60" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="69,70"/>
+	<shopCategory id="61" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="71,72"/>
+	<shopCategory id="62" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="73,74"/>
+	<shopCategory id="63" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="75,76"/>
+	<shopCategory id="64" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="77,78"/>
+	<shopCategory id="65" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="79,80"/>
+	<shopCategory id="66" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="81,82"/>
+	<shopCategory id="67" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="83,84"/>
+	<shopCategory id="68" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="85,86"/>
+	<shopCategory id="69" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="86,87"/>
+	<shopCategory id="70" group="2" order="2" name="57603" subGroup="4" subOrder="3" subName="55896" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="88,89"/>
+	<shopCategory id="1001" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2001,2002"/>
+	<shopCategory id="1002" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2003,2004"/>
+	<shopCategory id="1003" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2005,2006"/>
+	<shopCategory id="1004" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2007,2008"/>
+	<shopCategory id="1005" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2009,2010"/>
+	<shopCategory id="1006" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2011,2012"/>
+	<shopCategory id="1007" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2013,2014"/>
+	<shopCategory id="1008" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2015,2016"/>
+	<shopCategory id="1009" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2017,2018"/>
+	<shopCategory id="1010" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2019,2020"/>
+	<shopCategory id="1011" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2021,2022"/>
+	<shopCategory id="1012" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2023,2024"/>
+	<shopCategory id="1013" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2025,2026"/>
+	<shopCategory id="1014" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2027,2028"/>
+	<shopCategory id="1015" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2029,2030"/>
+	<shopCategory id="1016" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2031,2032"/>
+	<shopCategory id="1017" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2033,2034"/>
+	<shopCategory id="1018" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2035,2036"/>
+	<shopCategory id="1019" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2037,2038"/>
+	<shopCategory id="1020" group="2" order="2" name="57603" subGroup="7" subOrder="1" subName="55802" startDate="1020-09-28 00:00" endDate="1020-10-04 23:59" type="1" value="2039,2040"/>
+</Root>

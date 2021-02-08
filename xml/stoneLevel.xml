@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<stoneLevel id="1" stoneID="1" level="1" upgradeValue="5" getValue="9" maxValue="200"/>
+	<stoneLevel id="2" stoneID="1" level="2" upgradeValue="7" getValue="11" maxValue="320"/>
+	<stoneLevel id="3" stoneID="1" level="3" upgradeValue="9" getValue="14" maxValue="460"/>
+	<stoneLevel id="4" stoneID="1" level="4" upgradeValue="11" getValue="18" maxValue="650"/>
+	<stoneLevel id="5" stoneID="1" level="5" upgradeValue="13" getValue="23" maxValue="870"/>
+	<stoneLevel id="6" stoneID="1" level="6" upgradeValue="15" getValue="29" maxValue="1250"/>
+	<stoneLevel id="7" stoneID="1" level="7" upgradeValue="0" getValue="37" maxValue="1800"/>
+	<stoneLevel id="11" stoneID="2" level="1" upgradeValue="5" getValue="9" maxValue="200"/>
+	<stoneLevel id="12" stoneID="2" level="2" upgradeValue="7" getValue="11" maxValue="320"/>
+	<stoneLevel id="13" stoneID="2" level="3" upgradeValue="9" getValue="14" maxValue="460"/>
+	<stoneLevel id="14" stoneID="2" level="4" upgradeValue="11" getValue="18" maxValue="650"/>
+	<stoneLevel id="15" stoneID="2" level="5" upgradeValue="13" getValue="23" maxValue="870"/>
+	<stoneLevel id="16" stoneID="2" level="6" upgradeValue="15" getValue="29" maxValue="1250"/>
+	<stoneLevel id="17" stoneID="2" level="7" upgradeValue="0" getValue="37" maxValue="1800"/>
+	<stoneLevel id="21" stoneID="3" level="1" upgradeValue="5" getValue="9" maxValue="200"/>
+	<stoneLevel id="22" stoneID="3" level="2" upgradeValue="7" getValue="11" maxValue="320"/>
+	<stoneLevel id="23" stoneID="3" level="3" upgradeValue="9" getValue="14" maxValue="460"/>
+	<stoneLevel id="24" stoneID="3" level="4" upgradeValue="11" getValue="18" maxValue="650"/>
+	<stoneLevel id="25" stoneID="3" level="5" upgradeValue="13" getValue="23" maxValue="870"/>
+	<stoneLevel id="26" stoneID="3" level="6" upgradeValue="15" getValue="29" maxValue="1250"/>
+	<stoneLevel id="27" stoneID="3" level="7" upgradeValue="0" getValue="37" maxValue="1800"/>
+	<stoneLevel id="31" stoneID="4" level="1" upgradeValue="5" getValue="9" maxValue="200"/>
+	<stoneLevel id="32" stoneID="4" level="2" upgradeValue="7" getValue="11" maxValue="320"/>
+	<stoneLevel id="33" stoneID="4" level="3" upgradeValue="9" getValue="14" maxValue="460"/>
+	<stoneLevel id="34" stoneID="4" level="4" upgradeValue="11" getValue="18" maxValue="650"/>
+	<stoneLevel id="35" stoneID="4" level="5" upgradeValue="13" getValue="23" maxValue="870"/>
+	<stoneLevel id="36" stoneID="4" level="6" upgradeValue="15" getValue="29" maxValue="1250"/>
+	<stoneLevel id="37" stoneID="4" level="7" upgradeValue="0" getValue="37" maxValue="1800"/>
+	<stoneLevel id="41" stoneID="5" level="1" upgradeValue="5" getValue="9" maxValue="200"/>
+	<stoneLevel id="42" stoneID="5" level="2" upgradeValue="7" getValue="11" maxValue="320"/>
+	<stoneLevel id="43" stoneID="5" level="3" upgradeValue="9" getValue="14" maxValue="460"/>
+	<stoneLevel id="44" stoneID="5" level="4" upgradeValue="11" getValue="18" maxValue="650"/>
+	<stoneLevel id="45" stoneID="5" level="5" upgradeValue="13" getValue="23" maxValue="870"/>
+	<stoneLevel id="46" stoneID="5" level="6" upgradeValue="15" getValue="29" maxValue="1250"/>
+	<stoneLevel id="47" stoneID="5" level="7" upgradeValue="0" getValue="37" maxValue="1800"/>
+	<stoneLevel id="51" stoneID="11" level="1" upgradeValue="5" getValue="24" maxValue="480"/>
+	<stoneLevel id="52" stoneID="11" level="2" upgradeValue="7" getValue="31" maxValue="650"/>
+	<stoneLevel id="53" stoneID="11" level="3" upgradeValue="9" getValue="40" maxValue="880"/>
+	<stoneLevel id="54" stoneID="11" level="4" upgradeValue="11" getValue="52" maxValue="1200"/>
+	<stoneLevel id="55" stoneID="11" level="5" upgradeValue="13" getValue="67" maxValue="1600"/>
+	<stoneLevel id="56" stoneID="11" level="6" upgradeValue="15" getValue="87" maxValue="2300"/>
+	<stoneLevel id="57" stoneID="11" level="7" upgradeValue="0" getValue="112" maxValue="3100"/>
+</Root>

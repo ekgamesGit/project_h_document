@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<characterAttribute id="1" name="30031" folder="Common/" atlas="Prefab_Common" image="season-1fire"/>
+	<characterAttribute id="2" name="30032" folder="Common/" atlas="Prefab_Common" image="season-3water"/>
+	<characterAttribute id="3" name="30033" folder="Common/" atlas="Prefab_Common" image="season-2wood"/>
+	<characterAttribute id="4" name="30034" folder="Common/" atlas="Prefab_Common" image="season-4sun"/>
+	<characterAttribute id="5" name="30035" folder="Common/" atlas="Prefab_Common" image="season-5moon"/>
+</Root>

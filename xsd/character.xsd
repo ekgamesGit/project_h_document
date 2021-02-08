@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- character Table-->
+        <xs:element name="character" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>	
+		    <xs:attribute name="name" type="xs:string"/>	
+		    <xs:attribute name="description" type="xs:string"/>	
+		    <xs:attribute name="fame" type="xs:string"/>
+		    <xs:attribute name="attribute" type="xs:string"/>	
+		    <xs:attribute name="feature" type="xs:string"/>
+		    <xs:attribute name="type" type="xs:string"/>
+		    <xs:attribute name="nation" type="xs:string"/>
+		    <xs:attribute name="attackType" type="xs:string"/>
+		    <xs:attribute name="levelupType" type="xs:string"/>
+		    <xs:attribute name="upgradeType" type="xs:string"/>
+		    <xs:attribute name="enchantType" type="xs:string"/>
+		    <xs:attribute name="magicType" type="xs:string"/>
+		    <xs:attribute name="spineFolder" type="xs:string"/>
+		    <xs:attribute name="spineData" type="xs:string"/>
+		    <xs:attribute name="skin" type="xs:string"/>
+		    <xs:attribute name="spineScale" type="xs:string"/>
+		    <xs:attribute name="effectScale" type="xs:string"/>
+		    <xs:attribute name="uiSpineScale" type="xs:string"/>
+		    <xs:attribute name="folder" type="xs:string"/>
+		    <xs:attribute name="atlas" type="xs:string"/>
+		    <xs:attribute name="image" type="xs:string"/>
+		    <xs:attribute name="miniFolder" type="xs:string"/>
+		    <xs:attribute name="miniAtlas" type="xs:string"/>
+		    <xs:attribute name="miniImage" type="xs:string"/>
+		    <xs:attribute name="rewardItemType" type="xs:string"/>
+		    <xs:attribute name="rewardItemValue" type="xs:string"/>
+		    <xs:attribute name="summonPrice" type="xs:string"/>
+		    <xs:attribute name="summonCooltime" type="xs:string"/>
+		    <xs:attribute name="rewardStone" type="xs:string"/>
+		    <xs:attribute name="groundType" type="xs:string"/>
+		    <xs:attribute name="groundPositionY" type="xs:string"/>
+		    <xs:attribute name="size" type="xs:string"/>
+		    <xs:attribute name="moveSpeed" type="xs:string"/>
+		    <xs:attribute name="targetOrder" type="xs:string"/>
+		    <xs:attribute name="hp" type="xs:string"/>
+		    <xs:attribute name="defence" type="xs:string"/>
+		    <xs:attribute name="attackGroundType" type="xs:string"/>
+		    <xs:attribute name="attackDistance" type="xs:string"/>
+		    <xs:attribute name="attackSpeed" type="xs:string"/>
+		    <xs:attribute name="defaultCastingTime" type="xs:string"/>
+		    <xs:attribute name="arrowEffect" type="xs:string"/>
+		    <xs:attribute name="arrowEffectStartingPositionX" type="xs:string"/>
+		    <xs:attribute name="arrowEffectStartingPositionY" type="xs:string"/>
+		    <xs:attribute name="damageEffect" type="xs:string"/>
+		    <xs:attribute name="damagePositionX" type="xs:string"/>
+		    <xs:attribute name="damagePositionY" type="xs:string"/>
+		    <xs:attribute name="attack" type="xs:string"/>
+		    <xs:attribute name="growHp" type="xs:string"/>
+		    <xs:attribute name="growDefence" type="xs:string"/>
+		    <xs:attribute name="growAttackSpeed" type="xs:string"/>
+		    <xs:attribute name="growAttack" type="xs:string"/>
+		    <xs:attribute name="skill" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionType" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionCondition" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionValue" type="xs:string"/>
+		    <xs:attribute name="tombSpineFolder" type="xs:string"/>
+		    <xs:attribute name="tombSpineData" type="xs:string"/>
+		    <xs:attribute name="spineAttackTimeScale" type="xs:string"/>
+		    <xs:attribute name="spineAttack2TimeScale" type="xs:string"/>
+		    <xs:attribute name="spineAttack3TimeScale" type="xs:string"/>
+		    <xs:attribute name="spineRunTimeScale" type="xs:string"/>
+		    <xs:attribute name="tileSpineScale" type="xs:string"/>
+		    <xs:attribute name="stageInfoSpineScale" type="xs:string"/>
+		    <xs:attribute name="bossEmergenceScale" type="xs:string"/>
+		    <xs:attribute name="eventOnly" type="xs:string"/>
+		    <xs:attribute name="bookOpen" type="xs:string"/>
+
+
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<characterFame id="1" name="30021" textColor="197,197,197" fameBgFolder="CardBG/" fameBgAtlas="Prefab_CardBG" fameBgImage="character_1_frame" fameTextFolder="Popup/Atlas/" fameTextAtlas="Fx_Gatcha_Result_atlas" fameTextImage="grade_text1" bookOpenBonus="5"/>
+	<characterFame id="2" name="30022" textColor="141,192,110" fameBgFolder="CardBG/" fameBgAtlas="Prefab_CardBG" fameBgImage="character_2_frame" fameTextFolder="Popup/Atlas/" fameTextAtlas="Fx_Gatcha_Result_atlas" fameTextImage="grade_text2" bookOpenBonus="10"/>
+	<characterFame id="3" name="30023" textColor="132,196,236" fameBgFolder="CardBG/" fameBgAtlas="Prefab_CardBG" fameBgImage="character_3_frame" fameTextFolder="Popup/Atlas/" fameTextAtlas="Fx_Gatcha_Result_atlas" fameTextImage="grade_text3" bookOpenBonus="15"/>
+	<characterFame id="4" name="30024" textColor="192,127,246" fameBgFolder="CardBG/" fameBgAtlas="Prefab_CardBG" fameBgImage="character_4_frame" fameTextFolder="Popup/Atlas/" fameTextAtlas="Fx_Gatcha_Result_atlas" fameTextImage="grade_text4" bookOpenBonus="20"/>
+	<characterFame id="5" name="30025" textColor="245,144,100" fameBgFolder="CardBG/" fameBgAtlas="Prefab_CardBG" fameBgImage="character_5_frame" fameTextFolder="Popup/Atlas/" fameTextAtlas="Fx_Gatcha_Result_atlas" fameTextImage="grade_text5" bookOpenBonus="25"/>
+	<characterFame id="6" name="30026" textColor="237,84,84" fameBgFolder="CardBG/" fameBgAtlas="Prefab_CardBG" fameBgImage="character_6_frame" fameTextFolder="Popup/Atlas/" fameTextAtlas="Fx_Gatcha_Result_atlas" fameTextImage="grade_text6" bookOpenBonus="30"/>
+</Root>

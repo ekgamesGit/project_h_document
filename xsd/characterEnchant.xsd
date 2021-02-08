@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- characterEnchant Table-->
+        <xs:element name="characterEnchant" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>
+		    <xs:attribute name="type" type="xs:string"/>
+		    <xs:attribute name="enchantLevel" type="xs:string"/>
+		    <xs:attribute name="needItemType" type="xs:string"/>
+		    <xs:attribute name="needItemContentsFunctionType" type="xs:string"/>
+		    <xs:attribute name="needItemContentsFunctionCondition" type="xs:string"/>
+		    <xs:attribute name="needItemContentsFunctionValue" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionType" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionCondition" type="xs:string"/>
+		    <xs:attribute name="contentsFunctionValue" type="xs:string"/>
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

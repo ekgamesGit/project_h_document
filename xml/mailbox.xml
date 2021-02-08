@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<mailbox id="6" addresser="43001" description="43034" time="0"/>
+	<mailbox id="7" addresser="43001" description="43014" time="168"/>
+	<mailbox id="8" addresser="43001" description="43029" time="168"/>
+	<mailbox id="201" addresser="43003" description="43019" time="168"/>
+	<mailbox id="202" addresser="43003" description="402102" time="168"/>
+	<mailbox id="203" addresser="43003" description="43021" time="168"/>
+	<mailbox id="206" addresser="43003" description="43024" time="168"/>
+	<mailbox id="301" addresser="43003" description="43025" time="168"/>
+	<mailbox id="303" addresser="43003" description="43027" time="168"/>
+	<mailbox id="401" addresser="43004" description="43028" time="0"/>
+	<mailbox id="402" addresser="43004" description="43101" time="0"/>
+	<mailbox id="403" addresser="43004" description="43102" time="0"/>
+	<mailbox id="404" addresser="43004" description="43103" time="0"/>
+	<mailbox id="405" addresser="43004" description="43104" time="0"/>
+	<mailbox id="406" addresser="43004" description="43105" time="0"/>
+	<mailbox id="407" addresser="43004" description="43106" time="0"/>
+	<mailbox id="408" addresser="43004" description="43107" time="0"/>
+	<mailbox id="409" addresser="43004" description="43108" time="0"/>
+	<mailbox id="410" addresser="43004" description="43109" time="0"/>
+	<mailbox id="411" addresser="43004" description="43110" time="0"/>
+	<mailbox id="412" addresser="43004" description="43111" time="0"/>
+	<mailbox id="413" addresser="43004" description="43112" time="0"/>
+	<mailbox id="414" addresser="43004" description="43113" time="0"/>
+	<mailbox id="415" addresser="43004" description="43114" time="0"/>
+	<mailbox id="416" addresser="43004" description="43115" time="0"/>
+	<mailbox id="417" addresser="43004" description="43116" time="0"/>
+	<mailbox id="418" addresser="43004" description="43117" time="0"/>
+	<mailbox id="419" addresser="43004" description="43118" time="0"/>
+	<mailbox id="420" addresser="43004" description="43119" time="0"/>
+	<mailbox id="421" addresser="43004" description="43120" time="0"/>
+	<mailbox id="422" addresser="43004" description="43121" time="0"/>
+	<mailbox id="423" addresser="43004" description="43122" time="0"/>
+	<mailbox id="424" addresser="43004" description="43123" time="0"/>
+	<mailbox id="425" addresser="43004" description="43124" time="0"/>
+	<mailbox id="426" addresser="43004" description="43125" time="0"/>
+	<mailbox id="427" addresser="43004" description="43126" time="0"/>
+	<mailbox id="428" addresser="43004" description="43127" time="0"/>
+	<mailbox id="429" addresser="43004" description="43128" time="0"/>
+	<mailbox id="430" addresser="43004" description="43129" time="0"/>
+	<mailbox id="431" addresser="43004" description="43130" time="0"/>
+	<mailbox id="432" addresser="43004" description="43131" time="0"/>
+	<mailbox id="999" addresser="43001" description="43034" time="0"/>
+</Root>

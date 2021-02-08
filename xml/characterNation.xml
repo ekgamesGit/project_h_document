@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<characterNation id="1" name="30201" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Akeatalos"/>
+	<characterNation id="2" name="30202" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Grana"/>
+	<characterNation id="3" name="30203" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Libeluna"/>
+	<characterNation id="4" name="30204" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Ernen Mora"/>
+	<characterNation id="5" name="30205" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Mion"/>
+	<characterNation id="6" name="30206" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Anotherworld"/>
+	<characterNation id="7" name="30207" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common2" image="Mark_Akeatalos"/>
+</Root>

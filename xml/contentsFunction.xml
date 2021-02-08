@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<contentsFunction id="1" functionType="1" functionTargetType="1" formatType="0" description="39001"/>
+	<contentsFunction id="11" functionType="11" functionTargetType="0" formatType="0" description="39002"/>
+	<contentsFunction id="12" functionType="12" functionTargetType="0" formatType="0" description="39003"/>
+	<contentsFunction id="21" functionType="21" functionTargetType="0" formatType="0" description="39004"/>
+	<contentsFunction id="22" functionType="22" functionTargetType="0" formatType="0" description="39005"/>
+	<contentsFunction id="23" functionType="23" functionTargetType="0" formatType="0" description="39006" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Item"/>
+	<contentsFunction id="24" functionType="24" functionTargetType="0" formatType="0" description="39007" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="whiteicon-time"/>
+	<contentsFunction id="25" functionType="25" functionTargetType="0" formatType="0" description="39008"/>
+	<contentsFunction id="31" functionType="31" functionTargetType="0" formatType="0" description="39009"/>
+	<contentsFunction id="32" functionType="32" functionTargetType="0" formatType="0" description="39010"/>
+	<contentsFunction id="33" functionType="33" functionTargetType="0" formatType="0" description="39011"/>
+	<contentsFunction id="41" functionType="41" functionTargetType="0" formatType="0" description="39012" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="42" functionType="42" functionTargetType="0" formatType="0" description="39013" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_HP"/>
+	<contentsFunction id="43" functionType="43" functionTargetType="0" formatType="0" description="39014" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="44" functionType="44" functionTargetType="0" formatType="0" description="39015" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_atkspd"/>
+	<contentsFunction id="45" functionType="45" functionTargetType="0" formatType="0" description="39016" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Spd"/>
+	<contentsFunction id="46" functionType="46" functionTargetType="0" formatType="0" description="39017"/>
+	<contentsFunction id="51" functionType="51" functionTargetType="0" formatType="0" description="39018" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="52" functionType="52" functionTargetType="0" formatType="0" description="39019" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="111" functionType="11" functionTargetType="0" formatType="1" description="39102"/>
+	<contentsFunction id="112" functionType="12" functionTargetType="0" formatType="1" description="39103"/>
+	<contentsFunction id="121" functionType="21" functionTargetType="0" formatType="1" description="39104"/>
+	<contentsFunction id="122" functionType="22" functionTargetType="0" formatType="1" description="39105"/>
+	<contentsFunction id="123" functionType="23" functionTargetType="0" formatType="1" description="39106" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Item"/>
+	<contentsFunction id="124" functionType="24" functionTargetType="0" formatType="1" description="39107" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="whiteicon-time"/>
+	<contentsFunction id="125" functionType="25" functionTargetType="0" formatType="1" description="39108"/>
+	<contentsFunction id="131" functionType="31" functionTargetType="0" formatType="1" description="39109"/>
+	<contentsFunction id="132" functionType="32" functionTargetType="0" formatType="1" description="39110"/>
+	<contentsFunction id="133" functionType="33" functionTargetType="0" formatType="1" description="39111"/>
+	<contentsFunction id="141" functionType="41" functionTargetType="0" formatType="1" description="39112" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="142" functionType="42" functionTargetType="0" formatType="1" description="39113" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_HP"/>
+	<contentsFunction id="143" functionType="43" functionTargetType="0" formatType="1" description="39114" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="144" functionType="44" functionTargetType="0" formatType="1" description="39115" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_atkspd"/>
+	<contentsFunction id="145" functionType="45" functionTargetType="0" formatType="1" description="39116" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Spd"/>
+	<contentsFunction id="146" functionType="46" functionTargetType="0" formatType="1" description="39117"/>
+	<contentsFunction id="151" functionType="51" functionTargetType="0" formatType="1" description="39118" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="152" functionType="52" functionTargetType="0" formatType="1" description="39119" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="211" functionType="11" functionTargetType="11" formatType="1" description="39202"/>
+	<contentsFunction id="212" functionType="12" functionTargetType="11" formatType="1" description="39203"/>
+	<contentsFunction id="221" functionType="21" functionTargetType="11" formatType="1" description="39204"/>
+	<contentsFunction id="222" functionType="22" functionTargetType="11" formatType="1" description="39205"/>
+	<contentsFunction id="223" functionType="23" functionTargetType="11" formatType="1" description="39206" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Item"/>
+	<contentsFunction id="224" functionType="24" functionTargetType="11" formatType="1" description="39207" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="whiteicon-time"/>
+	<contentsFunction id="225" functionType="25" functionTargetType="11" formatType="1" description="39208"/>
+	<contentsFunction id="231" functionType="31" functionTargetType="11" formatType="1" description="39209"/>
+	<contentsFunction id="232" functionType="32" functionTargetType="11" formatType="1" description="39210"/>
+	<contentsFunction id="233" functionType="33" functionTargetType="11" formatType="1" description="39211"/>
+	<contentsFunction id="241" functionType="41" functionTargetType="11" formatType="1" description="39212" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="242" functionType="42" functionTargetType="11" formatType="1" description="39213" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_HP"/>
+	<contentsFunction id="243" functionType="43" functionTargetType="11" formatType="1" description="39214" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="244" functionType="44" functionTargetType="11" formatType="1" description="39215" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_atkspd"/>
+	<contentsFunction id="245" functionType="45" functionTargetType="11" formatType="1" description="39216" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Spd"/>
+	<contentsFunction id="246" functionType="46" functionTargetType="11" formatType="1" description="39217"/>
+	<contentsFunction id="251" functionType="51" functionTargetType="11" formatType="1" description="39218" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="252" functionType="52" functionTargetType="11" formatType="1" description="39219" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="311" functionType="11" functionTargetType="12" formatType="1" description="39302"/>
+	<contentsFunction id="312" functionType="12" functionTargetType="12" formatType="1" description="39303"/>
+	<contentsFunction id="321" functionType="21" functionTargetType="12" formatType="1" description="39304"/>
+	<contentsFunction id="322" functionType="22" functionTargetType="12" formatType="1" description="39305"/>
+	<contentsFunction id="323" functionType="23" functionTargetType="12" formatType="1" description="39306" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Item"/>
+	<contentsFunction id="324" functionType="24" functionTargetType="12" formatType="1" description="39307" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="whiteicon-time"/>
+	<contentsFunction id="325" functionType="25" functionTargetType="12" formatType="1" description="39308"/>
+	<contentsFunction id="331" functionType="31" functionTargetType="12" formatType="1" description="39309"/>
+	<contentsFunction id="332" functionType="32" functionTargetType="12" formatType="1" description="39310"/>
+	<contentsFunction id="333" functionType="33" functionTargetType="12" formatType="1" description="39311"/>
+	<contentsFunction id="341" functionType="41" functionTargetType="12" formatType="1" description="39312" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="342" functionType="42" functionTargetType="12" formatType="1" description="39313" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_HP"/>
+	<contentsFunction id="343" functionType="43" functionTargetType="12" formatType="1" description="39314" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="344" functionType="44" functionTargetType="12" formatType="1" description="39315" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_atkspd"/>
+	<contentsFunction id="345" functionType="45" functionTargetType="12" formatType="1" description="39316" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Spd"/>
+	<contentsFunction id="346" functionType="46" functionTargetType="12" formatType="1" description="39317"/>
+	<contentsFunction id="351" functionType="51" functionTargetType="12" formatType="1" description="39318" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="352" functionType="52" functionTargetType="12" formatType="1" description="39319" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="401" functionType="41" functionTargetType="21" formatType="1" description="39401" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="402" functionType="41" functionTargetType="22" formatType="1" description="39403" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="403" functionType="41" functionTargetType="23" formatType="1" description="39401" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="404" functionType="41" functionTargetType="24" formatType="1" description="39401" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="405" functionType="41" functionTargetType="25" formatType="1" description="39401" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="406" functionType="41" functionTargetType="26" formatType="1" description="39401" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Atk"/>
+	<contentsFunction id="501" functionType="43" functionTargetType="21" formatType="1" description="39402" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="502" functionType="43" functionTargetType="22" formatType="1" description="39404" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="503" functionType="43" functionTargetType="23" formatType="1" description="39402" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="504" functionType="43" functionTargetType="24" formatType="1" description="39402" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="505" functionType="43" functionTargetType="25" formatType="1" description="39402" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="506" functionType="43" functionTargetType="26" formatType="1" description="39402" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_Def"/>
+	<contentsFunction id="601" functionType="51" functionTargetType="21" formatType="1" description="39405" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="602" functionType="51" functionTargetType="22" formatType="1" description="39407" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="603" functionType="51" functionTargetType="23" formatType="1" description="39405" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="604" functionType="51" functionTargetType="24" formatType="1" description="39405" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="605" functionType="51" functionTargetType="25" formatType="1" description="39405" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="606" functionType="51" functionTargetType="26" formatType="1" description="39405" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_weapon"/>
+	<contentsFunction id="701" functionType="52" functionTargetType="21" formatType="1" description="39406" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="702" functionType="52" functionTargetType="22" formatType="1" description="39408" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="703" functionType="52" functionTargetType="23" formatType="1" description="39406" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="704" functionType="52" functionTargetType="24" formatType="1" description="39406" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="705" functionType="52" functionTargetType="25" formatType="1" description="39406" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="706" functionType="52" functionTargetType="26" formatType="1" description="39406" folder="Popup/Atlas/" atlas="Prefab_PopupUI_Common" image="Icon_amor"/>
+	<contentsFunction id="801" functionType="23" functionTargetType="32" formatType="1" description="39409"/>
+	<contentsFunction id="802" functionType="24" functionTargetType="32" formatType="1" description="39410"/>
+	<contentsFunction id="803" functionType="23" functionTargetType="34" formatType="1" description="39411"/>
+	<contentsFunction id="804" functionType="24" functionTargetType="34" formatType="1" description="39412"/>
+	<contentsFunction id="805" functionType="41" functionTargetType="32" formatType="1" description="39413"/>
+	<contentsFunction id="806" functionType="42" functionTargetType="32" formatType="1" description="39414"/>
+	<contentsFunction id="807" functionType="43" functionTargetType="32" formatType="1" description="39415"/>
+	<contentsFunction id="808" functionType="41" functionTargetType="34" formatType="1" description="39416"/>
+	<contentsFunction id="809" functionType="42" functionTargetType="34" formatType="1" description="39417"/>
+	<contentsFunction id="810" functionType="43" functionTargetType="34" formatType="1" description="39418"/>
+</Root>

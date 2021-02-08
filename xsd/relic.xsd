@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- relic Table-->
+        <xs:element name="relic" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+ 		<xs:attribute name="id" type="xs:integer"/>
+ 		<xs:attribute name="name" type="xs:integer"/>
+ 		<xs:attribute name="folder" type="xs:integer"/>
+ 		<xs:attribute name="atlas" type="xs:integer"/>
+ 		<xs:attribute name="image" type="xs:integer"/>
+ 		<xs:attribute name="relicGroup" type="xs:integer"/>
+ 		<xs:attribute name="relicItemStartStage" type="xs:integer"/>
+ 		<xs:attribute name="relicItemEndStage" type="xs:integer"/>
+ 		<xs:attribute name="contentsFunctionType" type="xs:integer"/>
+ 		<xs:attribute name="contentsFunctionCondition" type="xs:integer"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<mission id="1" startDate="2020-09-01 00:00" endDate="3000-12-31 00:00" conditionType="1" conditionValue="0" order="52" buttonName="55671" name="55651" replay="0" stepGroup="1" step="1"/>
+	<mission id="2" startDate="2020-09-01 00:00" endDate="3000-12-31 00:00" conditionType="1" conditionValue="0" order="52" buttonName="55672" name="55652" replay="0" stepGroup="1" step="2"/>
+	<mission id="3" startDate="2020-09-01 00:00" endDate="3000-12-31 00:00" conditionType="1" conditionValue="0" order="52" buttonName="55673" name="55653" replay="0" stepGroup="1" step="3"/>
+	<mission id="4" startDate="2020-09-01 00:00" endDate="3000-12-31 00:00" conditionType="1" conditionValue="0" order="52" buttonName="55674" name="55654" replay="0" stepGroup="1" step="4"/>
+	<mission id="11" startDate="2020-10-27 00:00" endDate="2020-12-17 00:00" conditionType="1" conditionValue="0" order="8008" buttonName="55681" name="55661" replay="1"/>
+	<mission id="12" startDate="2020-12-17 00:00" endDate="3000-12-31 00:00" conditionType="1" conditionValue="0" order="51" buttonName="55681" name="55661" replay="1"/>
+	<mission id="21" startDate="2020-09-01 00:00" endDate="2020-09-01 00:00" conditionType="2" conditionValue="50" order="53" buttonName="55682" name="55662" replay="0" location="1"/>
+	<mission id="22" startDate="2020-09-01 00:00" endDate="3000-12-31 00:00" conditionType="2" conditionValue="50" order="53" buttonName="55682" name="55662" replay="0" location="1"/>
+	<mission id="31" startDate="2020-09-01 00:00" endDate="2020-10-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="32" startDate="2020-10-01 00:00" endDate="2020-11-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="33" startDate="2020-11-01 00:00" endDate="2020-12-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="34" startDate="2020-12-01 00:00" endDate="2021-01-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="35" startDate="2021-01-01 00:00" endDate="2021-02-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="36" startDate="2021-02-01 00:00" endDate="2021-03-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="37" startDate="2021-03-01 00:00" endDate="2021-04-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="38" startDate="2021-04-01 00:00" endDate="2021-05-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="39" startDate="2021-05-01 00:00" endDate="2021-06-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="40" startDate="2021-06-01 00:00" endDate="2021-07-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="41" startDate="2021-07-01 00:00" endDate="2021-08-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="42" startDate="2021-08-01 00:00" endDate="2021-09-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="43" startDate="2021-09-01 00:00" endDate="2021-10-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="44" startDate="2021-10-01 00:00" endDate="2021-11-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="45" startDate="2021-11-01 00:00" endDate="2021-12-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="46" startDate="2021-12-01 00:00" endDate="2022-01-01 00:00" conditionType="3" conditionValue="30" order="54" buttonName="55683" name="55663" replay="0"/>
+	<mission id="1001" startDate="2020-10-27 00:00" endDate="2020-11-11 00:00" conditionType="1" conditionValue="0" order="101" buttonName="403103" name="403104" replay="0"/>
+	<mission id="1002" startDate="2020-10-27 00:00" endDate="2020-12-01 00:00" conditionType="1" conditionValue="0" order="102" buttonName="403107" name="403108" replay="0"/>
+	<mission id="1003" startDate="2020-10-27 00:00" endDate="2020-12-14 00:00" conditionType="1" conditionValue="0" order="103" buttonName="403110" name="403110" replay="0"/>
+	<mission id="1004" startDate="2020-12-10 11:00" endDate="2020-12-26 00:00" conditionType="1" conditionValue="0" order="102" buttonName="403107" name="403108" replay="0"/>
+	<mission id="1005" startDate="1020-12-24 11:00" endDate="2021-01-08 00:00" conditionType="1" conditionValue="0" order="103" buttonName="403110" name="403110" replay="0"/>
+	<mission id="1006" startDate="1021-01-07 11:00" endDate="2021-01-22 00:00" conditionType="1" conditionValue="0" order="102" buttonName="403107" name="403108" replay="0"/>
+	<mission id="1007" startDate="1021-01-21 11:00" endDate="2021-02-05 00:00" conditionType="1" conditionValue="0" order="103" buttonName="403110" name="403110" replay="0"/>
+	<mission id="3001" startDate="2021-01-08 11:00" endDate="2021-01-08 00:00" conditionType="1" conditionValue="0" order="8021" buttonName="55684" name="55664" replay="1"/>
+	<mission id="3002" startDate="1021-01-28 11:00" endDate="2021-02-08 00:00" conditionType="1" conditionValue="0" order="8031" buttonName="55684" name="55664" replay="1"/>
+	<mission id="1000001" startDate="2020-10-27 00:00" endDate="2020-12-05 00:00" conditionType="1" conditionValue="0" order="999" buttonName="55683" name="55663" replay="1"/>
+	<mission id="1000002" startDate="2020-10-27 00:00" endDate="1021-01-06 00:00" conditionType="1" conditionValue="0" order="999" buttonName="55683" name="55663" replay="1"/>
+</Root>

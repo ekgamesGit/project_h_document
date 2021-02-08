@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- towerSkillLevel Table-->
+        <xs:element name="towerSkillLevel" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>
+		    <xs:attribute name="skillType" type="xs:string"/>
+		    <xs:attribute name="level" type="xs:string"/>
+		    <xs:attribute name="needTopLevel" type="xs:string"/>
+		    <xs:attribute name="needItemType" type="xs:string"/>
+		    <xs:attribute name="needItemValue" type="xs:string"/>
+		    <xs:attribute name="cooltime" type="xs:string"/>
+		    <xs:attribute name="distance" type="xs:string"/>
+		    <xs:attribute name="range" type="xs:string"/>
+		    <xs:attribute name="attack" type="xs:string"/>
+		    <xs:attribute name="knockback" type="xs:string"/>
+		    <xs:attribute name="stun" type="xs:string"/>
+		    <xs:attribute name="getStone" type="xs:string"/>
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

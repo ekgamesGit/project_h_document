@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<towerSkill id="1" type="1" folder="Supplier/" atlas="Prefab_Supplier" image="skill_01" description="8001" needTowerLevel="1" attackEffect="401" effect="312" damageCastingTime="0"/>
+	<towerSkill id="2" type="2" folder="Supplier/" atlas="Prefab_Supplier" image="skill_02" description="8002" needTowerLevel="3" attackEffect="403" effect="326" damageCastingTime="0"/>
+	<towerSkill id="3" type="3" folder="Supplier/" atlas="Prefab_Supplier" image="skill_03" description="8003" needTowerLevel="5" attackEffect="402" effect="501" damageCastingTime="0.7"/>
+	<towerSkill id="4" type="4" folder="Supplier/" atlas="Prefab_Supplier" image="skill_04" description="8004" needTowerLevel="7" attackEffect="404" effect="301" damageCastingTime="0"/>
+	<towerSkill id="5" type="5" folder="Supplier/" atlas="Prefab_Supplier" image="skill_05" description="8005" needTowerLevel="10" attackEffect="405" effect="0" damageCastingTime="1.4"/>
+</Root>

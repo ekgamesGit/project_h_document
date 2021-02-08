@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- item Table-->
+        <xs:element name="item" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		<xs:attribute name="id" type="xs:integer"/>
+		<xs:attribute name="name" type="xs:string"/>
+		<xs:attribute name="description" type="xs:string"/>
+		<xs:attribute name="type" type="xs:string"/>
+		<xs:attribute name="moneyType" type="xs:string"/>
+		<xs:attribute name="randomRewardType" type="xs:string"/>
+		<xs:attribute name="canDeleteSchedule" type="xs:string"/>
+		<xs:attribute name="folder" type="xs:string"/>
+		<xs:attribute name="atlas" type="xs:string"/>
+		<xs:attribute name="image" type="xs:string"/>
+		<xs:attribute name="roundFolder" type="xs:string"/>
+		<xs:attribute name="roundAtlas" type="xs:string"/>
+		<xs:attribute name="roundImage" type="xs:string"/>
+		<xs:attribute name="ticketFolder" type="xs:string"/>
+		<xs:attribute name="ticketAtlas" type="xs:string"/>
+		<xs:attribute name="ticketImage" type="xs:string"/>
+		<xs:attribute name="textColor" type="xs:string"/>
+		<xs:attribute name="backGroundFolder" type="xs:string"/>
+		<xs:attribute name="backGroundAtlas" type="xs:string"/>
+		<xs:attribute name="backGroundImage" type="xs:string"/>
+		<xs:attribute name="apType" type="xs:string"/>
+		<xs:attribute name="apValue" type="xs:string"/>
+		<xs:attribute name="apChargeValue" type="xs:string"/>
+		<xs:attribute name="apAutomaticStackMax" type="xs:string"/>
+		<xs:attribute name="sellItemType" type="xs:string"/>
+		<xs:attribute name="sellItemValue" type="xs:string"/>
+		<xs:attribute name="useFunctionType" type="xs:string"/>
+		<xs:attribute name="useFunctionValue" type="xs:string"/>
+		<xs:attribute name="useFunctionCondition" type="xs:string"/>
+		<xs:attribute name="linkShop" type="xs:string"/>
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

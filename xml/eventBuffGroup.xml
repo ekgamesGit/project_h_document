@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<eventBuffGroup groupId="1" isActive="1" isInvisible="0" orderNumber="1" startTime="1000-05-29 13:00" endTime="3000-05-29 13:00" strNameList="핫타임 이벤트, HotTime Event" dayOfWeek="0"/>
+	<eventBuffGroup groupId="2" isActive="1" isInvisible="0" orderNumber="1" startTime="1000-05-29 13:00" endTime="3000-05-29 13:00" strNameList="핫타임 이벤트, HotTime Event" dayOfWeek="0"/>
+</Root>

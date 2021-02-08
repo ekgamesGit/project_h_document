@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<shopIAP id="10001" marketType="1" productValue="elroi.package.1_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="10002" marketType="1" productValue="elroi.package.2_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="10003" marketType="1" productValue="elroi.package.3_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10004" marketType="1" productValue="elroi.package.4_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="10011" marketType="1" productValue="elroi.package.11_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="10012" marketType="1" productValue="elroi.package.12_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="10013" marketType="1" productValue="elroi.package.13_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10014" marketType="1" productValue="elroi.package.14_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="10101" marketType="1" productValue="elroi.package.101_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="10102" marketType="1" productValue="elroi.package.102_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10103" marketType="1" productValue="elroi.package.103_b" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="10104" marketType="1" productValue="elroi.package.104_b" tier="8" krw="9,900원" usd="USD 7.99" jpy="¥980"/>
+	<shopIAP id="10105" marketType="1" productValue="elroi.package.105_b" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="10111" marketType="1" productValue="elroi.package.111_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10112" marketType="1" productValue="elroi.package.112_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10113" marketType="1" productValue="elroi.package.113_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10114" marketType="1" productValue="elroi.package.114_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10115" marketType="1" productValue="elroi.package.115_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10401" marketType="1" productValue="elroi.package.401_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="10402" marketType="1" productValue="elroi.package.402_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="10403" marketType="1" productValue="elroi.package.403_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10404" marketType="1" productValue="elroi.package.404_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="10405" marketType="1" productValue="elroi.package.405_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="10406" marketType="1" productValue="elroi.package.406_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="10407" marketType="1" productValue="elroi.package.407_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="10408" marketType="1" productValue="elroi.package.408_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="10501" marketType="1" productValue="elroi.package.501_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="10601" marketType="1" productValue="elroi.package.601_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="10602" marketType="1" productValue="elroi.package.602_b" tier="6" krw="7,500원" usd="USD 5.99" jpy="¥730"/>
+	<shopIAP id="10603" marketType="1" productValue="elroi.package.603_b" tier="12" krw="15,000원" usd="USD 11.99" jpy="¥1,480"/>
+	<shopIAP id="11001" marketType="1" productValue="elroi.package.1001_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11002" marketType="1" productValue="elroi.package.1002_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11003" marketType="1" productValue="elroi.package.1003_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11004" marketType="1" productValue="elroi.package.1004_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11005" marketType="1" productValue="elroi.package.1005_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11006" marketType="1" productValue="elroi.package.1006_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11007" marketType="1" productValue="elroi.package.1007_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11008" marketType="1" productValue="elroi.package.1008_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11009" marketType="1" productValue="elroi.package.1009_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11010" marketType="1" productValue="elroi.package.1010_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11011" marketType="1" productValue="elroi.package.1011_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11012" marketType="1" productValue="elroi.package.1012_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11013" marketType="1" productValue="elroi.package.1013_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11014" marketType="1" productValue="elroi.package.1014_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11015" marketType="1" productValue="elroi.package.1015_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11016" marketType="1" productValue="elroi.package.1016_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11017" marketType="1" productValue="elroi.package.1017_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11018" marketType="1" productValue="elroi.package.1018_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11019" marketType="1" productValue="elroi.package.1019_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11020" marketType="1" productValue="elroi.package.1020_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11021" marketType="1" productValue="elroi.package.1021_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11022" marketType="1" productValue="elroi.package.1022_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11023" marketType="1" productValue="elroi.package.1023_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11024" marketType="1" productValue="elroi.package.1024_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11025" marketType="1" productValue="elroi.package.1025_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11026" marketType="1" productValue="elroi.package.1026_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11027" marketType="1" productValue="elroi.package.1027_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11028" marketType="1" productValue="elroi.package.1028_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11029" marketType="1" productValue="elroi.package.1029_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11030" marketType="1" productValue="elroi.package.1030_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11031" marketType="1" productValue="elroi.package.1031_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11032" marketType="1" productValue="elroi.package.1032_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11033" marketType="1" productValue="elroi.package.1033_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11034" marketType="1" productValue="elroi.package.1034_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11035" marketType="1" productValue="elroi.package.1035_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11036" marketType="1" productValue="elroi.package.1036_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11037" marketType="1" productValue="elroi.package.1037_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11038" marketType="1" productValue="elroi.package.1038_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11039" marketType="1" productValue="elroi.package.1039_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="11040" marketType="1" productValue="elroi.package.1040_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="12001" marketType="1" productValue="elroi.package.2001_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12002" marketType="1" productValue="elroi.package.2002_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12003" marketType="1" productValue="elroi.package.2003_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12004" marketType="1" productValue="elroi.package.2004_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12005" marketType="1" productValue="elroi.package.2005_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12006" marketType="1" productValue="elroi.package.2006_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12007" marketType="1" productValue="elroi.package.2007_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12008" marketType="1" productValue="elroi.package.2008_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12009" marketType="1" productValue="elroi.package.2009_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12010" marketType="1" productValue="elroi.package.2010_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12011" marketType="1" productValue="elroi.package.2011_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12012" marketType="1" productValue="elroi.package.2012_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12013" marketType="1" productValue="elroi.package.2013_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12014" marketType="1" productValue="elroi.package.2014_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12015" marketType="1" productValue="elroi.package.2015_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12016" marketType="1" productValue="elroi.package.2016_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12017" marketType="1" productValue="elroi.package.2017_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12018" marketType="1" productValue="elroi.package.2018_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12019" marketType="1" productValue="elroi.package.2019_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12020" marketType="1" productValue="elroi.package.2020_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12021" marketType="1" productValue="elroi.package.2021_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12022" marketType="1" productValue="elroi.package.2022_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12023" marketType="1" productValue="elroi.package.2023_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12024" marketType="1" productValue="elroi.package.2024_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12025" marketType="1" productValue="elroi.package.2025_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12026" marketType="1" productValue="elroi.package.2026_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12027" marketType="1" productValue="elroi.package.2027_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12028" marketType="1" productValue="elroi.package.2028_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12029" marketType="1" productValue="elroi.package.2029_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12030" marketType="1" productValue="elroi.package.2030_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12031" marketType="1" productValue="elroi.package.2031_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12032" marketType="1" productValue="elroi.package.2032_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12033" marketType="1" productValue="elroi.package.2033_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12034" marketType="1" productValue="elroi.package.2034_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12035" marketType="1" productValue="elroi.package.2035_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12036" marketType="1" productValue="elroi.package.2036_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12037" marketType="1" productValue="elroi.package.2037_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12038" marketType="1" productValue="elroi.package.2038_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12039" marketType="1" productValue="elroi.package.2039_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="12040" marketType="1" productValue="elroi.package.2040_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="20001" marketType="2" productValue="elroi.package.1_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="20002" marketType="2" productValue="elroi.package.2_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="20003" marketType="2" productValue="elroi.package.3_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20004" marketType="2" productValue="elroi.package.4_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="20011" marketType="2" productValue="elroi.package.11_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="20012" marketType="2" productValue="elroi.package.12_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="20013" marketType="2" productValue="elroi.package.13_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20014" marketType="2" productValue="elroi.package.14_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="20101" marketType="2" productValue="elroi.package.101_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="20102" marketType="2" productValue="elroi.package.102_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20103" marketType="2" productValue="elroi.package.103_b" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="20104" marketType="2" productValue="elroi.package.104_b" tier="8" krw="9,900원" usd="USD 7.99" jpy="¥980"/>
+	<shopIAP id="20105" marketType="2" productValue="elroi.package.105_b" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="20111" marketType="2" productValue="elroi.package.111_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20112" marketType="2" productValue="elroi.package.112_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20113" marketType="2" productValue="elroi.package.113_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20114" marketType="2" productValue="elroi.package.114_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20115" marketType="2" productValue="elroi.package.115_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20401" marketType="2" productValue="elroi.package.401_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="20402" marketType="2" productValue="elroi.package.402_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="20403" marketType="2" productValue="elroi.package.403_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20404" marketType="2" productValue="elroi.package.404_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="20405" marketType="2" productValue="elroi.package.405_b" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="20406" marketType="2" productValue="elroi.package.406_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="20407" marketType="2" productValue="elroi.package.407_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="20408" marketType="2" productValue="elroi.package.408_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="20501" marketType="2" productValue="elroi.package.501_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="20601" marketType="2" productValue="elroi.package.601_b" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="20602" marketType="2" productValue="elroi.package.602_b" tier="6" krw="7,500원" usd="USD 5.99" jpy="¥730"/>
+	<shopIAP id="20603" marketType="2" productValue="elroi.package.603_b" tier="12" krw="15,000원" usd="USD 11.99" jpy="¥1,480"/>
+	<shopIAP id="21001" marketType="2" productValue="elroi.package.1001_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21002" marketType="2" productValue="elroi.package.1002_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21003" marketType="2" productValue="elroi.package.1003_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21004" marketType="2" productValue="elroi.package.1004_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21005" marketType="2" productValue="elroi.package.1005_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21006" marketType="2" productValue="elroi.package.1006_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21007" marketType="2" productValue="elroi.package.1007_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21008" marketType="2" productValue="elroi.package.1008_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21009" marketType="2" productValue="elroi.package.1009_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21010" marketType="2" productValue="elroi.package.1010_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21011" marketType="2" productValue="elroi.package.1011_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21012" marketType="2" productValue="elroi.package.1012_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21013" marketType="2" productValue="elroi.package.1013_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21014" marketType="2" productValue="elroi.package.1014_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21015" marketType="2" productValue="elroi.package.1015_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21016" marketType="2" productValue="elroi.package.1016_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21017" marketType="2" productValue="elroi.package.1017_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21018" marketType="2" productValue="elroi.package.1018_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21019" marketType="2" productValue="elroi.package.1019_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21020" marketType="2" productValue="elroi.package.1020_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21021" marketType="2" productValue="elroi.package.1021_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21022" marketType="2" productValue="elroi.package.1022_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21023" marketType="2" productValue="elroi.package.1023_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21024" marketType="2" productValue="elroi.package.1024_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21025" marketType="2" productValue="elroi.package.1025_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21026" marketType="2" productValue="elroi.package.1026_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21027" marketType="2" productValue="elroi.package.1027_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21028" marketType="2" productValue="elroi.package.1028_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21029" marketType="2" productValue="elroi.package.1029_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21030" marketType="2" productValue="elroi.package.1030_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21031" marketType="2" productValue="elroi.package.1031_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21032" marketType="2" productValue="elroi.package.1032_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21033" marketType="2" productValue="elroi.package.1033_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21034" marketType="2" productValue="elroi.package.1034_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21035" marketType="2" productValue="elroi.package.1035_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21036" marketType="2" productValue="elroi.package.1036_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21037" marketType="2" productValue="elroi.package.1037_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21038" marketType="2" productValue="elroi.package.1038_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21039" marketType="2" productValue="elroi.package.1039_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="21040" marketType="2" productValue="elroi.package.1040_b" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="22001" marketType="2" productValue="elroi.package.2001_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22002" marketType="2" productValue="elroi.package.2002_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22003" marketType="2" productValue="elroi.package.2003_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22004" marketType="2" productValue="elroi.package.2004_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22005" marketType="2" productValue="elroi.package.2005_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22006" marketType="2" productValue="elroi.package.2006_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22007" marketType="2" productValue="elroi.package.2007_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22008" marketType="2" productValue="elroi.package.2008_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22009" marketType="2" productValue="elroi.package.2009_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22010" marketType="2" productValue="elroi.package.2010_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22011" marketType="2" productValue="elroi.package.2011_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22012" marketType="2" productValue="elroi.package.2012_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22013" marketType="2" productValue="elroi.package.2013_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22014" marketType="2" productValue="elroi.package.2014_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22015" marketType="2" productValue="elroi.package.2015_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22016" marketType="2" productValue="elroi.package.2016_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22017" marketType="2" productValue="elroi.package.2017_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22018" marketType="2" productValue="elroi.package.2018_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22019" marketType="2" productValue="elroi.package.2019_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22020" marketType="2" productValue="elroi.package.2020_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22021" marketType="2" productValue="elroi.package.2021_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22022" marketType="2" productValue="elroi.package.2022_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22023" marketType="2" productValue="elroi.package.2023_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22024" marketType="2" productValue="elroi.package.2024_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22025" marketType="2" productValue="elroi.package.2025_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22026" marketType="2" productValue="elroi.package.2026_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22027" marketType="2" productValue="elroi.package.2027_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22028" marketType="2" productValue="elroi.package.2028_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22029" marketType="2" productValue="elroi.package.2029_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22030" marketType="2" productValue="elroi.package.2030_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22031" marketType="2" productValue="elroi.package.2031_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22032" marketType="2" productValue="elroi.package.2032_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22033" marketType="2" productValue="elroi.package.2033_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22034" marketType="2" productValue="elroi.package.2034_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22035" marketType="2" productValue="elroi.package.2035_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22036" marketType="2" productValue="elroi.package.2036_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22037" marketType="2" productValue="elroi.package.2037_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22038" marketType="2" productValue="elroi.package.2038_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22039" marketType="2" productValue="elroi.package.2039_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="22040" marketType="2" productValue="elroi.package.2040_b" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="30101" marketType="1" productValue="elroi.package.30101.c" tier="1" krw="1,200원" usd="USD 0.99" jpy="¥120"/>
+	<shopIAP id="30102" marketType="1" productValue="elroi.package.30102.c" tier="1" krw="1,200원" usd="USD 0.99" jpy="¥120"/>
+	<shopIAP id="30103" marketType="1" productValue="elroi.package.30103.c" tier="1" krw="1,200원" usd="USD 0.99" jpy="¥120"/>
+	<shopIAP id="30104" marketType="1" productValue="elroi.package.30104.c" tier="1" krw="1,200원" usd="USD 0.99" jpy="¥120"/>
+	<shopIAP id="30201" marketType="1" productValue="elroi.package.30201.c" tier="2" krw="2,500원" usd="USD 1.99" jpy="¥250"/>
+	<shopIAP id="30202" marketType="1" productValue="elroi.package.30202.c" tier="2" krw="2,500원" usd="USD 1.99" jpy="¥250"/>
+	<shopIAP id="30203" marketType="1" productValue="elroi.package.30203.c" tier="2" krw="2,500원" usd="USD 1.99" jpy="¥250"/>
+	<shopIAP id="30204" marketType="1" productValue="elroi.package.30204.c" tier="2" krw="2,500원" usd="USD 1.99" jpy="¥250"/>
+	<shopIAP id="30301" marketType="1" productValue="elroi.package.30301.c" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="30302" marketType="1" productValue="elroi.package.30302.c" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="30303" marketType="1" productValue="elroi.package.30303.c" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="30304" marketType="1" productValue="elroi.package.30304.c" tier="3" krw="3,900원" usd="USD 2.99" jpy="¥370"/>
+	<shopIAP id="30401" marketType="1" productValue="elroi.package.30401.c" tier="4" krw="4,900원" usd="USD 3.99" jpy="¥490"/>
+	<shopIAP id="30402" marketType="1" productValue="elroi.package.30402.c" tier="4" krw="4,900원" usd="USD 3.99" jpy="¥490"/>
+	<shopIAP id="30403" marketType="1" productValue="elroi.package.30403.c" tier="4" krw="4,900원" usd="USD 3.99" jpy="¥490"/>
+	<shopIAP id="30404" marketType="1" productValue="elroi.package.30404.c" tier="4" krw="4,900원" usd="USD 3.99" jpy="¥490"/>
+	<shopIAP id="30501" marketType="1" productValue="elroi.package.30501.c" tier="5" krw="5,900원" usd="USD 4.99" jpy="¥610"/>
+	<shopIAP id="30502" marketType="1" productValue="elroi.package.30502.c" tier="5" krw="5,900원" usd="USD 4.99" jpy="¥610"/>
+	<shopIAP id="30503" marketType="1" productValue="elroi.package.30503.c" tier="5" krw="5,900원" usd="USD 4.99" jpy="¥610"/>
+	<shopIAP id="30504" marketType="1" productValue="elroi.package.30504.c" tier="5" krw="5,900원" usd="USD 4.99" jpy="¥610"/>
+	<shopIAP id="30601" marketType="1" productValue="elroi.package.30601.c" tier="6" krw="7,500원" usd="USD 5.99" jpy="¥730"/>
+	<shopIAP id="30602" marketType="1" productValue="elroi.package.30602.c" tier="6" krw="7,500원" usd="USD 5.99" jpy="¥730"/>
+	<shopIAP id="30603" marketType="1" productValue="elroi.package.30603.c" tier="6" krw="7,500원" usd="USD 5.99" jpy="¥730"/>
+	<shopIAP id="30604" marketType="1" productValue="elroi.package.30604.c" tier="6" krw="7,500원" usd="USD 5.99" jpy="¥730"/>
+	<shopIAP id="30701" marketType="1" productValue="elroi.package.30701.c" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="30702" marketType="1" productValue="elroi.package.30702.c" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="30703" marketType="1" productValue="elroi.package.30703.c" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="30704" marketType="1" productValue="elroi.package.30704.c" tier="7" krw="8,900원" usd="USD 6.99" jpy="¥860"/>
+	<shopIAP id="30801" marketType="1" productValue="elroi.package.30801.c" tier="8" krw="9,900원" usd="USD 7.99" jpy="¥980"/>
+	<shopIAP id="30802" marketType="1" productValue="elroi.package.30802.c" tier="8" krw="9,900원" usd="USD 7.99" jpy="¥980"/>
+	<shopIAP id="30803" marketType="1" productValue="elroi.package.30803.c" tier="8" krw="9,900원" usd="USD 7.99" jpy="¥980"/>
+	<shopIAP id="30804" marketType="1" productValue="elroi.package.30804.c" tier="8" krw="9,900원" usd="USD 7.99" jpy="¥980"/>
+	<shopIAP id="30901" marketType="1" productValue="elroi.package.30901.c" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="30902" marketType="1" productValue="elroi.package.30902.c" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="30903" marketType="1" productValue="elroi.package.30903.c" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="30904" marketType="1" productValue="elroi.package.30904.c" tier="9" krw="11,000원" usd="USD 8.99" jpy="¥1,100"/>
+	<shopIAP id="31001" marketType="1" productValue="elroi.package.31001.c" tier="10" krw="12,000원" usd="USD 9.99" jpy="¥1,220"/>
+	<shopIAP id="31002" marketType="1" productValue="elroi.package.31002.c" tier="10" krw="12,000원" usd="USD 9.99" jpy="¥1,220"/>
+	<shopIAP id="31003" marketType="1" productValue="elroi.package.31003.c" tier="10" krw="12,000원" usd="USD 9.99" jpy="¥1,220"/>
+	<shopIAP id="31004" marketType="1" productValue="elroi.package.31004.c" tier="10" krw="12,000원" usd="USD 9.99" jpy="¥1,220"/>
+	<shopIAP id="31101" marketType="1" productValue="elroi.package.31101.c" tier="11" krw="14,000원" usd="USD 10.99" jpy="¥1,340"/>
+	<shopIAP id="31102" marketType="1" productValue="elroi.package.31102.c" tier="11" krw="14,000원" usd="USD 10.99" jpy="¥1,340"/>
+	<shopIAP id="31103" marketType="1" productValue="elroi.package.31103.c" tier="11" krw="14,000원" usd="USD 10.99" jpy="¥1,340"/>
+	<shopIAP id="31104" marketType="1" productValue="elroi.package.31104.c" tier="11" krw="14,000원" usd="USD 10.99" jpy="¥1,340"/>
+	<shopIAP id="31201" marketType="1" productValue="elroi.package.31201.c" tier="12" krw="15,000원" usd="USD 11.99" jpy="¥1,480"/>
+	<shopIAP id="31202" marketType="1" productValue="elroi.package.31202.c" tier="12" krw="15,000원" usd="USD 11.99" jpy="¥1,480"/>
+	<shopIAP id="31203" marketType="1" productValue="elroi.package.31203.c" tier="12" krw="15,000원" usd="USD 11.99" jpy="¥1,480"/>
+	<shopIAP id="31204" marketType="1" productValue="elroi.package.31204.c" tier="12" krw="15,000원" usd="USD 11.99" jpy="¥1,480"/>
+	<shopIAP id="31301" marketType="1" productValue="elroi.package.31301.c" tier="13" krw="16,000원" usd="USD 12.99" jpy="¥1,600"/>
+	<shopIAP id="31302" marketType="1" productValue="elroi.package.31302.c" tier="13" krw="16,000원" usd="USD 12.99" jpy="¥1,600"/>
+	<shopIAP id="31303" marketType="1" productValue="elroi.package.31303.c" tier="13" krw="16,000원" usd="USD 12.99" jpy="¥1,600"/>
+	<shopIAP id="31304" marketType="1" productValue="elroi.package.31304.c" tier="13" krw="16,000원" usd="USD 12.99" jpy="¥1,600"/>
+	<shopIAP id="31401" marketType="1" productValue="elroi.package.31401.c" tier="14" krw="17,000원" usd="USD 13.99" jpy="¥1,720"/>
+	<shopIAP id="31402" marketType="1" productValue="elroi.package.31402.c" tier="14" krw="17,000원" usd="USD 13.99" jpy="¥1,720"/>
+	<shopIAP id="31403" marketType="1" productValue="elroi.package.31403.c" tier="14" krw="17,000원" usd="USD 13.99" jpy="¥1,720"/>
+	<shopIAP id="31404" marketType="1" productValue="elroi.package.31404.c" tier="14" krw="17,000원" usd="USD 13.99" jpy="¥1,720"/>
+	<shopIAP id="31501" marketType="1" productValue="elroi.package.31501.c" tier="15" krw="19,000원" usd="USD 14.99" jpy="¥1,840"/>
+	<shopIAP id="31502" marketType="1" productValue="elroi.package.31502.c" tier="15" krw="19,000원" usd="USD 14.99" jpy="¥1,840"/>
+	<shopIAP id="31503" marketType="1" productValue="elroi.package.31503.c" tier="15" krw="19,000원" usd="USD 14.99" jpy="¥1,840"/>
+	<shopIAP id="31504" marketType="1" productValue="elroi.package.31504.c" tier="15" krw="19,000원" usd="USD 14.99" jpy="¥1,840"/>
+	<shopIAP id="31601" marketType="1" productValue="elroi.package.31601.c" tier="16" krw="20,000원" usd="USD 15.99" jpy="¥1,960"/>
+	<shopIAP id="31602" marketType="1" productValue="elroi.package.31602.c" tier="16" krw="20,000원" usd="USD 15.99" jpy="¥1,960"/>
+	<shopIAP id="31603" marketType="1" productValue="elroi.package.31603.c" tier="16" krw="20,000원" usd="USD 15.99" jpy="¥1,960"/>
+	<shopIAP id="31604" marketType="1" productValue="elroi.package.31604.c" tier="16" krw="20,000원" usd="USD 15.99" jpy="¥1,960"/>
+	<shopIAP id="31701" marketType="1" productValue="elroi.package.31701.c" tier="17" krw="21,000원" usd="USD 16.99" jpy="¥2,080"/>
+	<shopIAP id="31702" marketType="1" productValue="elroi.package.31702.c" tier="17" krw="21,000원" usd="USD 16.99" jpy="¥2,080"/>
+	<shopIAP id="31703" marketType="1" productValue="elroi.package.31703.c" tier="17" krw="21,000원" usd="USD 16.99" jpy="¥2,080"/>
+	<shopIAP id="31704" marketType="1" productValue="elroi.package.31704.c" tier="17" krw="21,000원" usd="USD 16.99" jpy="¥2,080"/>
+	<shopIAP id="31801" marketType="1" productValue="elroi.package.31801.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31802" marketType="1" productValue="elroi.package.31802.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31803" marketType="1" productValue="elroi.package.31803.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31804" marketType="1" productValue="elroi.package.31804.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31805" marketType="1" productValue="elroi.package.31805.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31806" marketType="1" productValue="elroi.package.31806.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31807" marketType="1" productValue="elroi.package.31807.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31808" marketType="1" productValue="elroi.package.31808.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31809" marketType="1" productValue="elroi.package.31809.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31810" marketType="1" productValue="elroi.package.31810.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31811" marketType="1" productValue="elroi.package.31811.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31812" marketType="1" productValue="elroi.package.31812.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31813" marketType="1" productValue="elroi.package.31813.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31814" marketType="1" productValue="elroi.package.31814.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31815" marketType="1" productValue="elroi.package.31815.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31816" marketType="1" productValue="elroi.package.31816.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31817" marketType="1" productValue="elroi.package.31817.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31818" marketType="1" productValue="elroi.package.31818.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31819" marketType="1" productValue="elroi.package.31819.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31820" marketType="1" productValue="elroi.package.31820.c" tier="18" krw="22,000원" usd="USD 17.99" jpy="¥2,200"/>
+	<shopIAP id="31901" marketType="1" productValue="elroi.package.31901.c" tier="19" krw="23,000원" usd="USD 18.99" jpy="¥2,320"/>
+	<shopIAP id="31902" marketType="1" productValue="elroi.package.31902.c" tier="19" krw="23,000원" usd="USD 18.99" jpy="¥2,320"/>
+	<shopIAP id="31903" marketType="1" productValue="elroi.package.31903.c" tier="19" krw="23,000원" usd="USD 18.99" jpy="¥2,320"/>
+	<shopIAP id="31904" marketType="1" productValue="elroi.package.31904.c" tier="19" krw="23,000원" usd="USD 18.99" jpy="¥2,320"/>
+	<shopIAP id="32001" marketType="1" productValue="elroi.package.32001.c" tier="20" krw="25,000원" usd="USD 19.99" jpy="¥2,440"/>
+	<shopIAP id="32002" marketType="1" productValue="elroi.package.32002.c" tier="20" krw="25,000원" usd="USD 19.99" jpy="¥2,440"/>
+	<shopIAP id="32003" marketType="1" productValue="elroi.package.32003.c" tier="20" krw="25,000원" usd="USD 19.99" jpy="¥2,440"/>
+	<shopIAP id="32004" marketType="1" productValue="elroi.package.32004.c" tier="20" krw="25,000원" usd="USD 19.99" jpy="¥2,440"/>
+	<shopIAP id="32101" marketType="1" productValue="elroi.package.32101.c" tier="21" krw="26,000원" usd="USD 20.99"/>
+	<shopIAP id="32102" marketType="1" productValue="elroi.package.32102.c" tier="21" krw="26,000원" usd="USD 20.99"/>
+	<shopIAP id="32103" marketType="1" productValue="elroi.package.32103.c" tier="21" krw="26,000원" usd="USD 20.99"/>
+	<shopIAP id="32104" marketType="1" productValue="elroi.package.32104.c" tier="21" krw="26,000원" usd="USD 20.99"/>
+	<shopIAP id="32201" marketType="1" productValue="elroi.package.32201.c" tier="22" krw="27,000원" usd="USD 21.99"/>
+	<shopIAP id="32202" marketType="1" productValue="elroi.package.32202.c" tier="22" krw="27,000원" usd="USD 21.99"/>
+	<shopIAP id="32203" marketType="1" productValue="elroi.package.32203.c" tier="22" krw="27,000원" usd="USD 21.99"/>
+	<shopIAP id="32204" marketType="1" productValue="elroi.package.32204.c" tier="22" krw="27,000원" usd="USD 21.99"/>
+	<shopIAP id="32301" marketType="1" productValue="elroi.package.32301.c" tier="23" krw="29,000원" usd="USD 22.99"/>
+	<shopIAP id="32302" marketType="1" productValue="elroi.package.32302.c" tier="23" krw="29,000원" usd="USD 22.99"/>
+	<shopIAP id="32303" marketType="1" productValue="elroi.package.32303.c" tier="23" krw="29,000원" usd="USD 22.99"/>
+	<shopIAP id="32304" marketType="1" productValue="elroi.package.32304.c" tier="23" krw="29,000원" usd="USD 22.99"/>
+	<shopIAP id="32401" marketType="1" productValue="elroi.package.32401.c" tier="24" krw="30,000원" usd="USD 23.99"/>
+	<shopIAP id="32402" marketType="1" productValue="elroi.package.32402.c" tier="24" krw="30,000원" usd="USD 23.99"/>
+	<shopIAP id="32403" marketType="1" productValue="elroi.package.32403.c" tier="24" krw="30,000원" usd="USD 23.99"/>
+	<shopIAP id="32404" marketType="1" productValue="elroi.package.32404.c" tier="24" krw="30,000원" usd="USD 23.99"/>
+	<shopIAP id="32501" marketType="1" productValue="elroi.package.32501.c" tier="25" krw="31,000원" usd="USD 24.99"/>
+	<shopIAP id="32502" marketType="1" productValue="elroi.package.32502.c" tier="25" krw="31,000원" usd="USD 24.99"/>
+	<shopIAP id="32503" marketType="1" productValue="elroi.package.32503.c" tier="25" krw="31,000원" usd="USD 24.99"/>
+	<shopIAP id="32504" marketType="1" productValue="elroi.package.32504.c" tier="25" krw="31,000원" usd="USD 24.99"/>
+	<shopIAP id="32601" marketType="1" productValue="elroi.package.32601.c" tier="26" krw="32,000원" usd="USD 25.99"/>
+	<shopIAP id="32602" marketType="1" productValue="elroi.package.32602.c" tier="26" krw="32,000원" usd="USD 25.99"/>
+	<shopIAP id="32603" marketType="1" productValue="elroi.package.32603.c" tier="26" krw="32,000원" usd="USD 25.99"/>
+	<shopIAP id="32604" marketType="1" productValue="elroi.package.32604.c" tier="26" krw="32,000원" usd="USD 25.99"/>
+	<shopIAP id="32701" marketType="1" productValue="elroi.package.32701.c" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="32702" marketType="1" productValue="elroi.package.32702.c" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="32703" marketType="1" productValue="elroi.package.32703.c" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="32704" marketType="1" productValue="elroi.package.32704.c" tier="27" krw="33,000원" usd="USD 26.99" jpy="¥3,300"/>
+	<shopIAP id="32801" marketType="1" productValue="elroi.package.32801.c" tier="28" krw="35,000원" usd="USD 27.99"/>
+	<shopIAP id="32802" marketType="1" productValue="elroi.package.32802.c" tier="28" krw="35,000원" usd="USD 27.99"/>
+	<shopIAP id="32803" marketType="1" productValue="elroi.package.32803.c" tier="28" krw="35,000원" usd="USD 27.99"/>
+	<shopIAP id="32804" marketType="1" productValue="elroi.package.32804.c" tier="28" krw="35,000원" usd="USD 27.99"/>
+	<shopIAP id="32901" marketType="1" productValue="elroi.package.32901.c" tier="29" krw="36,000원" usd="USD 28.99"/>
+	<shopIAP id="32902" marketType="1" productValue="elroi.package.32902.c" tier="29" krw="36,000원" usd="USD 28.99"/>
+	<shopIAP id="32903" marketType="1" productValue="elroi.package.32903.c" tier="29" krw="36,000원" usd="USD 28.99"/>
+	<shopIAP id="32904" marketType="1" productValue="elroi.package.32904.c" tier="29" krw="36,000원" usd="USD 28.99"/>
+	<shopIAP id="33001" marketType="1" productValue="elroi.package.33001.c" tier="30" krw="37,000원" usd="USD 29.99"/>
+	<shopIAP id="33002" marketType="1" productValue="elroi.package.33002.c" tier="30" krw="37,000원" usd="USD 29.99"/>
+	<shopIAP id="33003" marketType="1" productValue="elroi.package.33003.c" tier="30" krw="37,000원" usd="USD 29.99"/>
+	<shopIAP id="33004" marketType="1" productValue="elroi.package.33004.c" tier="30" krw="37,000원" usd="USD 29.99"/>
+	<shopIAP id="33101" marketType="1" productValue="elroi.package.33101.c" tier="31" krw="39,000원" usd="USD 30.99"/>
+	<shopIAP id="33102" marketType="1" productValue="elroi.package.33102.c" tier="31" krw="39,000원" usd="USD 30.99"/>
+	<shopIAP id="33103" marketType="1" productValue="elroi.package.33103.c" tier="31" krw="39,000원" usd="USD 30.99"/>
+	<shopIAP id="33104" marketType="1" productValue="elroi.package.33104.c" tier="31" krw="39,000원" usd="USD 30.99"/>
+	<shopIAP id="33201" marketType="1" productValue="elroi.package.33201.c" tier="32" krw="40,000원" usd="USD 31.99"/>
+	<shopIAP id="33202" marketType="1" productValue="elroi.package.33202.c" tier="32" krw="40,000원" usd="USD 31.99"/>
+	<shopIAP id="33203" marketType="1" productValue="elroi.package.33203.c" tier="32" krw="40,000원" usd="USD 31.99"/>
+	<shopIAP id="33204" marketType="1" productValue="elroi.package.33204.c" tier="32" krw="40,000원" usd="USD 31.99"/>
+	<shopIAP id="33301" marketType="1" productValue="elroi.package.33301.c" tier="33" krw="41,000원" usd="USD 32.99"/>
+	<shopIAP id="33302" marketType="1" productValue="elroi.package.33302.c" tier="33" krw="41,000원" usd="USD 32.99"/>
+	<shopIAP id="33303" marketType="1" productValue="elroi.package.33303.c" tier="33" krw="41,000원" usd="USD 32.99"/>
+	<shopIAP id="33304" marketType="1" productValue="elroi.package.33304.c" tier="33" krw="41,000원" usd="USD 32.99"/>
+	<shopIAP id="33401" marketType="1" productValue="elroi.package.33401.c" tier="34" krw="42,000원" usd="USD 33.99"/>
+	<shopIAP id="33402" marketType="1" productValue="elroi.package.33402.c" tier="34" krw="42,000원" usd="USD 33.99"/>
+	<shopIAP id="33403" marketType="1" productValue="elroi.package.33403.c" tier="34" krw="42,000원" usd="USD 33.99"/>
+	<shopIAP id="33404" marketType="1" productValue="elroi.package.33404.c" tier="34" krw="42,000원" usd="USD 33.99"/>
+	<shopIAP id="33501" marketType="1" productValue="elroi.package.33501.c" tier="35" krw="43,000원" usd="USD 34.99"/>
+	<shopIAP id="33502" marketType="1" productValue="elroi.package.33502.c" tier="35" krw="43,000원" usd="USD 34.99"/>
+	<shopIAP id="33503" marketType="1" productValue="elroi.package.33503.c" tier="35" krw="43,000원" usd="USD 34.99"/>
+	<shopIAP id="33504" marketType="1" productValue="elroi.package.33504.c" tier="35" krw="43,000원" usd="USD 34.99"/>
+	<shopIAP id="33601" marketType="1" productValue="elroi.package.33601.c" tier="36" krw="44,000원" usd="USD 35.99"/>
+	<shopIAP id="33602" marketType="1" productValue="elroi.package.33602.c" tier="36" krw="44,000원" usd="USD 35.99"/>
+	<shopIAP id="33603" marketType="1" productValue="elroi.package.33603.c" tier="36" krw="44,000원" usd="USD 35.99"/>
+	<shopIAP id="33604" marketType="1" productValue="elroi.package.33604.c" tier="36" krw="44,000원" usd="USD 35.99"/>
+	<shopIAP id="33701" marketType="1" productValue="elroi.package.33701.c" tier="37" krw="45,000원" usd="USD 36.99"/>
+	<shopIAP id="33702" marketType="1" productValue="elroi.package.33702.c" tier="37" krw="45,000원" usd="USD 36.99"/>
+	<shopIAP id="33703" marketType="1" productValue="elroi.package.33703.c" tier="37" krw="45,000원" usd="USD 36.99"/>
+	<shopIAP id="33704" marketType="1" productValue="elroi.package.33704.c" tier="37" krw="45,000원" usd="USD 36.99"/>
+	<shopIAP id="33801" marketType="1" productValue="elroi.package.33801.c" tier="38" krw="47,000원" usd="USD 37.99"/>
+	<shopIAP id="33802" marketType="1" productValue="elroi.package.33802.c" tier="38" krw="47,000원" usd="USD 37.99"/>
+	<shopIAP id="33803" marketType="1" productValue="elroi.package.33803.c" tier="38" krw="47,000원" usd="USD 37.99"/>
+	<shopIAP id="33804" marketType="1" productValue="elroi.package.33804.c" tier="38" krw="47,000원" usd="USD 37.99"/>
+	<shopIAP id="33901" marketType="1" productValue="elroi.package.33901.c" tier="39" krw="48,000원" usd="USD 38.99"/>
+	<shopIAP id="33902" marketType="1" productValue="elroi.package.33902.c" tier="39" krw="48,000원" usd="USD 38.99"/>
+	<shopIAP id="33903" marketType="1" productValue="elroi.package.33903.c" tier="39" krw="48,000원" usd="USD 38.99"/>
+	<shopIAP id="33904" marketType="1" productValue="elroi.package.33904.c" tier="39" krw="48,000원" usd="USD 38.99"/>
+	<shopIAP id="34001" marketType="1" productValue="elroi.package.34001.c" tier="40"/>
+	<shopIAP id="34002" marketType="1" productValue="elroi.package.34002.c" tier="40"/>
+	<shopIAP id="34003" marketType="1" productValue="elroi.package.34003.c" tier="40"/>
+	<shopIAP id="34004" marketType="1" productValue="elroi.package.34004.c" tier="40"/>
+	<shopIAP id="34101" marketType="1" productValue="elroi.package.34101.c" tier="41"/>
+	<shopIAP id="34102" marketType="1" productValue="elroi.package.34102.c" tier="41"/>
+	<shopIAP id="34103" marketType="1" productValue="elroi.package.34103.c" tier="41"/>
+	<shopIAP id="34104" marketType="1" productValue="elroi.package.34104.c" tier="41"/>
+	<shopIAP id="34201" marketType="1" productValue="elroi.package.34201.c" tier="42"/>
+	<shopIAP id="34202" marketType="1" productValue="elroi.package.34202.c" tier="42"/>
+	<shopIAP id="34203" marketType="1" productValue="elroi.package.34203.c" tier="42"/>
+	<shopIAP id="34204" marketType="1" productValue="elroi.package.34204.c" tier="42"/>
+	<shopIAP id="34301" marketType="1" productValue="elroi.package.34301.c" tier="43"/>
+	<shopIAP id="34302" marketType="1" productValue="elroi.package.34302.c" tier="43"/>
+	<shopIAP id="34303" marketType="1" productValue="elroi.package.34303.c" tier="43"/>
+	<shopIAP id="34304" marketType="1" productValue="elroi.package.34304.c" tier="43"/>
+	<shopIAP id="34401" marketType="1" productValue="elroi.package.34401.c" tier="44"/>
+	<shopIAP id="34402" marketType="1" productValue="elroi.package.34402.c" tier="44"/>
+	<shopIAP id="34403" marketType="1" productValue="elroi.package.34403.c" tier="44"/>
+	<shopIAP id="34404" marketType="1" productValue="elroi.package.34404.c" tier="44"/>
+	<shopIAP id="34501" marketType="1" productValue="elroi.package.34501.c" tier="45"/>
+	<shopIAP id="34502" marketType="1" productValue="elroi.package.34502.c" tier="45"/>
+	<shopIAP id="34503" marketType="1" productValue="elroi.package.34503.c" tier="45"/>
+	<shopIAP id="34504" marketType="1" productValue="elroi.package.34504.c" tier="45"/>
+	<shopIAP id="34601" marketType="1" productValue="elroi.package.34601.c" tier="46"/>
+	<shopIAP id="34602" marketType="1" productValue="elroi.package.34602.c" tier="46"/>
+	<shopIAP id="34603" marketType="1" productValue="elroi.package.34603.c" tier="46"/>
+	<shopIAP id="34604" marketType="1" productValue="elroi.package.34604.c" tier="46"/>
+	<shopIAP id="34701" marketType="1" productValue="elroi.package.34701.c" tier="47"/>
+	<shopIAP id="34702" marketType="1" productValue="elroi.package.34702.c" tier="47"/>
+	<shopIAP id="34703" marketType="1" productValue="elroi.package.34703.c" tier="47"/>
+	<shopIAP id="34704" marketType="1" productValue="elroi.package.34704.c" tier="47"/>
+	<shopIAP id="34801" marketType="1" productValue="elroi.package.34801.c" tier="48"/>
+	<shopIAP id="34802" marketType="1" productValue="elroi.package.34802.c" tier="48"/>
+	<shopIAP id="34803" marketType="1" productValue="elroi.package.34803.c" tier="48"/>
+	<shopIAP id="34804" marketType="1" productValue="elroi.package.34804.c" tier="48"/>
+	<shopIAP id="34901" marketType="1" productValue="elroi.package.34901.c" tier="49"/>
+	<shopIAP id="34902" marketType="1" productValue="elroi.package.34902.c" tier="49"/>
+	<shopIAP id="34903" marketType="1" productValue="elroi.package.34903.c" tier="49"/>
+	<shopIAP id="34904" marketType="1" productValue="elroi.package.34904.c" tier="49"/>
+	<shopIAP id="35001" marketType="1" productValue="elroi.package.35001.c" tier="50"/>
+	<shopIAP id="35002" marketType="1" productValue="elroi.package.35002.c" tier="50"/>
+	<shopIAP id="35003" marketType="1" productValue="elroi.package.35003.c" tier="50"/>
+	<shopIAP id="35004" marketType="1" productValue="elroi.package.35004.c" tier="50"/>
+	<shopIAP id="35101" marketType="1" productValue="elroi.package.35101.c" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="35102" marketType="1" productValue="elroi.package.35102.c" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="35103" marketType="1" productValue="elroi.package.35103.c" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="35104" marketType="1" productValue="elroi.package.35104.c" tier="51" krw="69,000원" usd="USD 54.99" jpy="¥7,000"/>
+	<shopIAP id="35201" marketType="1" productValue="elroi.package.35201.c" tier="52"/>
+	<shopIAP id="35202" marketType="1" productValue="elroi.package.35202.c" tier="52"/>
+	<shopIAP id="35203" marketType="1" productValue="elroi.package.35203.c" tier="52"/>
+	<shopIAP id="35204" marketType="1" productValue="elroi.package.35204.c" tier="52"/>
+	<shopIAP id="35301" marketType="1" productValue="elroi.package.35301.c" tier="53"/>
+	<shopIAP id="35302" marketType="1" productValue="elroi.package.35302.c" tier="53"/>
+	<shopIAP id="35303" marketType="1" productValue="elroi.package.35303.c" tier="53"/>
+	<shopIAP id="35304" marketType="1" productValue="elroi.package.35304.c" tier="53"/>
+	<shopIAP id="35401" marketType="1" productValue="elroi.package.35401.c" tier="54"/>
+	<shopIAP id="35402" marketType="1" productValue="elroi.package.35402.c" tier="54"/>
+	<shopIAP id="35403" marketType="1" productValue="elroi.package.35403.c" tier="54"/>
+	<shopIAP id="35404" marketType="1" productValue="elroi.package.35404.c" tier="54"/>
+	<shopIAP id="35501" marketType="1" productValue="elroi.package.35501.c" tier="55"/>
+	<shopIAP id="35502" marketType="1" productValue="elroi.package.35502.c" tier="55"/>
+	<shopIAP id="35503" marketType="1" productValue="elroi.package.35503.c" tier="55"/>
+	<shopIAP id="35504" marketType="1" productValue="elroi.package.35504.c" tier="55"/>
+	<shopIAP id="35601" marketType="1" productValue="elroi.package.35601.c" tier="56"/>
+	<shopIAP id="35602" marketType="1" productValue="elroi.package.35602.c" tier="56"/>
+	<shopIAP id="35603" marketType="1" productValue="elroi.package.35603.c" tier="56"/>
+	<shopIAP id="35604" marketType="1" productValue="elroi.package.35604.c" tier="56"/>
+	<shopIAP id="35701" marketType="1" productValue="elroi.package.35701.c" tier="57"/>
+	<shopIAP id="35702" marketType="1" productValue="elroi.package.35702.c" tier="57"/>
+	<shopIAP id="35703" marketType="1" productValue="elroi.package.35703.c" tier="57"/>
+	<shopIAP id="35704" marketType="1" productValue="elroi.package.35704.c" tier="57"/>
+	<shopIAP id="35801" marketType="1" productValue="elroi.package.35801.c" tier="58"/>
+	<shopIAP id="35802" marketType="1" productValue="elroi.package.35802.c" tier="58"/>
+	<shopIAP id="35803" marketType="1" productValue="elroi.package.35803.c" tier="58"/>
+	<shopIAP id="35804" marketType="1" productValue="elroi.package.35804.c" tier="58"/>
+	<shopIAP id="35901" marketType="1" productValue="elroi.package.35901.c" tier="59"/>
+	<shopIAP id="35902" marketType="1" productValue="elroi.package.35902.c" tier="59"/>
+	<shopIAP id="35903" marketType="1" productValue="elroi.package.35903.c" tier="59"/>
+	<shopIAP id="35904" marketType="1" productValue="elroi.package.35904.c" tier="59"/>
+	<shopIAP id="36001" marketType="1" productValue="elroi.package.36001.c" tier="60"/>
+	<shopIAP id="36002" marketType="1" productValue="elroi.package.36002.c" tier="60"/>
+	<shopIAP id="36003" marketType="1" productValue="elroi.package.36003.c" tier="60"/>
+	<shopIAP id="36004" marketType="1" productValue="elroi.package.36004.c" tier="60"/>
+	<shopIAP id="40101" marketType="2" productValue="elroi.package.30101.c" tier="1"/>
+	<shopIAP id="40102" marketType="2" productValue="elroi.package.30102.c" tier="1"/>
+	<shopIAP id="40103" marketType="2" productValue="elroi.package.30103.c" tier="1"/>
+	<shopIAP id="40104" marketType="2" productValue="elroi.package.30104.c" tier="1"/>
+	<shopIAP id="40201" marketType="2" productValue="elroi.package.30201.c" tier="2"/>
+	<shopIAP id="40202" marketType="2" productValue="elroi.package.30202.c" tier="2"/>
+	<shopIAP id="40203" marketType="2" productValue="elroi.package.30203.c" tier="2"/>
+	<shopIAP id="40204" marketType="2" productValue="elroi.package.30204.c" tier="2"/>
+	<shopIAP id="40301" marketType="2" productValue="elroi.package.30301.c" tier="3"/>
+	<shopIAP id="40302" marketType="2" productValue="elroi.package.30302.c" tier="3"/>
+	<shopIAP id="40303" marketType="2" productValue="elroi.package.30303.c" tier="3"/>
+	<shopIAP id="40304" marketType="2" productValue="elroi.package.30304.c" tier="3"/>
+	<shopIAP id="40401" marketType="2" productValue="elroi.package.30401.c" tier="4"/>
+	<shopIAP id="40402" marketType="2" productValue="elroi.package.30402.c" tier="4"/>
+	<shopIAP id="40403" marketType="2" productValue="elroi.package.30403.c" tier="4"/>
+	<shopIAP id="40404" marketType="2" productValue="elroi.package.30404.c" tier="4"/>
+	<shopIAP id="40501" marketType="2" productValue="elroi.package.30501.c" tier="5"/>
+	<shopIAP id="40502" marketType="2" productValue="elroi.package.30502.c" tier="5"/>
+	<shopIAP id="40503" marketType="2" productValue="elroi.package.30503.c" tier="5"/>
+	<shopIAP id="40504" marketType="2" productValue="elroi.package.30504.c" tier="5"/>
+	<shopIAP id="40601" marketType="2" productValue="elroi.package.30601.c" tier="6"/>
+	<shopIAP id="40602" marketType="2" productValue="elroi.package.30602.c" tier="6"/>
+	<shopIAP id="40603" marketType="2" productValue="elroi.package.30603.c" tier="6"/>
+	<shopIAP id="40604" marketType="2" productValue="elroi.package.30604.c" tier="6"/>
+	<shopIAP id="40701" marketType="2" productValue="elroi.package.30701.c" tier="7"/>
+	<shopIAP id="40702" marketType="2" productValue="elroi.package.30702.c" tier="7"/>
+	<shopIAP id="40703" marketType="2" productValue="elroi.package.30703.c" tier="7"/>
+	<shopIAP id="40704" marketType="2" productValue="elroi.package.30704.c" tier="7"/>
+	<shopIAP id="40801" marketType="2" productValue="elroi.package.30801.c" tier="8"/>
+	<shopIAP id="40802" marketType="2" productValue="elroi.package.30802.c" tier="8"/>
+	<shopIAP id="40803" marketType="2" productValue="elroi.package.30803.c" tier="8"/>
+	<shopIAP id="40804" marketType="2" productValue="elroi.package.30804.c" tier="8"/>
+	<shopIAP id="40901" marketType="2" productValue="elroi.package.30901.c" tier="9"/>
+	<shopIAP id="40902" marketType="2" productValue="elroi.package.30902.c" tier="9"/>
+	<shopIAP id="40903" marketType="2" productValue="elroi.package.30903.c" tier="9"/>
+	<shopIAP id="40904" marketType="2" productValue="elroi.package.30904.c" tier="9"/>
+	<shopIAP id="41001" marketType="2" productValue="elroi.package.31001.c" tier="10"/>
+	<shopIAP id="41002" marketType="2" productValue="elroi.package.31002.c" tier="10"/>
+	<shopIAP id="41003" marketType="2" productValue="elroi.package.31003.c" tier="10"/>
+	<shopIAP id="41004" marketType="2" productValue="elroi.package.31004.c" tier="10"/>
+	<shopIAP id="41101" marketType="2" productValue="elroi.package.31101.c" tier="11"/>
+	<shopIAP id="41102" marketType="2" productValue="elroi.package.31102.c" tier="11"/>
+	<shopIAP id="41103" marketType="2" productValue="elroi.package.31103.c" tier="11"/>
+	<shopIAP id="41104" marketType="2" productValue="elroi.package.31104.c" tier="11"/>
+	<shopIAP id="41201" marketType="2" productValue="elroi.package.31201.c" tier="12"/>
+	<shopIAP id="41202" marketType="2" productValue="elroi.package.31202.c" tier="12"/>
+	<shopIAP id="41203" marketType="2" productValue="elroi.package.31203.c" tier="12"/>
+	<shopIAP id="41204" marketType="2" productValue="elroi.package.31204.c" tier="12"/>
+	<shopIAP id="41301" marketType="2" productValue="elroi.package.31301.c" tier="13"/>
+	<shopIAP id="41302" marketType="2" productValue="elroi.package.31302.c" tier="13"/>
+	<shopIAP id="41303" marketType="2" productValue="elroi.package.31303.c" tier="13"/>
+	<shopIAP id="41304" marketType="2" productValue="elroi.package.31304.c" tier="13"/>
+	<shopIAP id="41401" marketType="2" productValue="elroi.package.31401.c" tier="14"/>
+	<shopIAP id="41402" marketType="2" productValue="elroi.package.31402.c" tier="14"/>
+	<shopIAP id="41403" marketType="2" productValue="elroi.package.31403.c" tier="14"/>
+	<shopIAP id="41404" marketType="2" productValue="elroi.package.31404.c" tier="14"/>
+	<shopIAP id="41501" marketType="2" productValue="elroi.package.31501.c" tier="15"/>
+	<shopIAP id="41502" marketType="2" productValue="elroi.package.31502.c" tier="15"/>
+	<shopIAP id="41503" marketType="2" productValue="elroi.package.31503.c" tier="15"/>
+	<shopIAP id="41504" marketType="2" productValue="elroi.package.31504.c" tier="15"/>
+	<shopIAP id="41601" marketType="2" productValue="elroi.package.31601.c" tier="16"/>
+	<shopIAP id="41602" marketType="2" productValue="elroi.package.31602.c" tier="16"/>
+	<shopIAP id="41603" marketType="2" productValue="elroi.package.31603.c" tier="16"/>
+	<shopIAP id="41604" marketType="2" productValue="elroi.package.31604.c" tier="16"/>
+	<shopIAP id="41701" marketType="2" productValue="elroi.package.31701.c" tier="17"/>
+	<shopIAP id="41702" marketType="2" productValue="elroi.package.31702.c" tier="17"/>
+	<shopIAP id="41703" marketType="2" productValue="elroi.package.31703.c" tier="17"/>
+	<shopIAP id="41704" marketType="2" productValue="elroi.package.31704.c" tier="17"/>
+	<shopIAP id="41801" marketType="2" productValue="elroi.package.31801.c" tier="18"/>
+	<shopIAP id="41802" marketType="2" productValue="elroi.package.31802.c" tier="18"/>
+	<shopIAP id="41803" marketType="2" productValue="elroi.package.31803.c" tier="18"/>
+	<shopIAP id="41804" marketType="2" productValue="elroi.package.31804.c" tier="18"/>
+	<shopIAP id="41805" marketType="2" productValue="elroi.package.31805.c" tier="18"/>
+	<shopIAP id="41806" marketType="2" productValue="elroi.package.31806.c" tier="18"/>
+	<shopIAP id="41807" marketType="2" productValue="elroi.package.31807.c" tier="18"/>
+	<shopIAP id="41808" marketType="2" productValue="elroi.package.31808.c" tier="18"/>
+	<shopIAP id="41809" marketType="2" productValue="elroi.package.31809.c" tier="18"/>
+	<shopIAP id="41810" marketType="2" productValue="elroi.package.31810.c" tier="18"/>
+	<shopIAP id="41811" marketType="2" productValue="elroi.package.31811.c" tier="18"/>
+	<shopIAP id="41812" marketType="2" productValue="elroi.package.31812.c" tier="18"/>
+	<shopIAP id="41813" marketType="2" productValue="elroi.package.31813.c" tier="18"/>
+	<shopIAP id="41814" marketType="2" productValue="elroi.package.31814.c" tier="18"/>
+	<shopIAP id="41815" marketType="2" productValue="elroi.package.31815.c" tier="18"/>
+	<shopIAP id="41816" marketType="2" productValue="elroi.package.31816.c" tier="18"/>
+	<shopIAP id="41817" marketType="2" productValue="elroi.package.31817.c" tier="18"/>
+	<shopIAP id="41818" marketType="2" productValue="elroi.package.31818.c" tier="18"/>
+	<shopIAP id="41819" marketType="2" productValue="elroi.package.31819.c" tier="18"/>
+	<shopIAP id="41820" marketType="2" productValue="elroi.package.31820.c" tier="18"/>
+	<shopIAP id="41901" marketType="2" productValue="elroi.package.31901.c" tier="19"/>
+	<shopIAP id="41902" marketType="2" productValue="elroi.package.31902.c" tier="19"/>
+	<shopIAP id="41903" marketType="2" productValue="elroi.package.31903.c" tier="19"/>
+	<shopIAP id="41904" marketType="2" productValue="elroi.package.31904.c" tier="19"/>
+	<shopIAP id="42001" marketType="2" productValue="elroi.package.32001.c" tier="20"/>
+	<shopIAP id="42002" marketType="2" productValue="elroi.package.32002.c" tier="20"/>
+	<shopIAP id="42003" marketType="2" productValue="elroi.package.32003.c" tier="20"/>
+	<shopIAP id="42004" marketType="2" productValue="elroi.package.32004.c" tier="20"/>
+	<shopIAP id="42101" marketType="2" productValue="elroi.package.32101.c" tier="21"/>
+	<shopIAP id="42102" marketType="2" productValue="elroi.package.32102.c" tier="21"/>
+	<shopIAP id="42103" marketType="2" productValue="elroi.package.32103.c" tier="21"/>
+	<shopIAP id="42104" marketType="2" productValue="elroi.package.32104.c" tier="21"/>
+	<shopIAP id="42201" marketType="2" productValue="elroi.package.32201.c" tier="22"/>
+	<shopIAP id="42202" marketType="2" productValue="elroi.package.32202.c" tier="22"/>
+	<shopIAP id="42203" marketType="2" productValue="elroi.package.32203.c" tier="22"/>
+	<shopIAP id="42204" marketType="2" productValue="elroi.package.32204.c" tier="22"/>
+	<shopIAP id="42301" marketType="2" productValue="elroi.package.32301.c" tier="23"/>
+	<shopIAP id="42302" marketType="2" productValue="elroi.package.32302.c" tier="23"/>
+	<shopIAP id="42303" marketType="2" productValue="elroi.package.32303.c" tier="23"/>
+	<shopIAP id="42304" marketType="2" productValue="elroi.package.32304.c" tier="23"/>
+	<shopIAP id="42401" marketType="2" productValue="elroi.package.32401.c" tier="24"/>
+	<shopIAP id="42402" marketType="2" productValue="elroi.package.32402.c" tier="24"/>
+	<shopIAP id="42403" marketType="2" productValue="elroi.package.32403.c" tier="24"/>
+	<shopIAP id="42404" marketType="2" productValue="elroi.package.32404.c" tier="24"/>
+	<shopIAP id="42501" marketType="2" productValue="elroi.package.32501.c" tier="25"/>
+	<shopIAP id="42502" marketType="2" productValue="elroi.package.32502.c" tier="25"/>
+	<shopIAP id="42503" marketType="2" productValue="elroi.package.32503.c" tier="25"/>
+	<shopIAP id="42504" marketType="2" productValue="elroi.package.32504.c" tier="25"/>
+	<shopIAP id="42601" marketType="2" productValue="elroi.package.32601.c" tier="26"/>
+	<shopIAP id="42602" marketType="2" productValue="elroi.package.32602.c" tier="26"/>
+	<shopIAP id="42603" marketType="2" productValue="elroi.package.32603.c" tier="26"/>
+	<shopIAP id="42604" marketType="2" productValue="elroi.package.32604.c" tier="26"/>
+	<shopIAP id="42701" marketType="2" productValue="elroi.package.32701.c" tier="27"/>
+	<shopIAP id="42702" marketType="2" productValue="elroi.package.32702.c" tier="27"/>
+	<shopIAP id="42703" marketType="2" productValue="elroi.package.32703.c" tier="27"/>
+	<shopIAP id="42704" marketType="2" productValue="elroi.package.32704.c" tier="27"/>
+	<shopIAP id="42801" marketType="2" productValue="elroi.package.32801.c" tier="28"/>
+	<shopIAP id="42802" marketType="2" productValue="elroi.package.32802.c" tier="28"/>
+	<shopIAP id="42803" marketType="2" productValue="elroi.package.32803.c" tier="28"/>
+	<shopIAP id="42804" marketType="2" productValue="elroi.package.32804.c" tier="28"/>
+	<shopIAP id="42901" marketType="2" productValue="elroi.package.32901.c" tier="29"/>
+	<shopIAP id="42902" marketType="2" productValue="elroi.package.32902.c" tier="29"/>
+	<shopIAP id="42903" marketType="2" productValue="elroi.package.32903.c" tier="29"/>
+	<shopIAP id="42904" marketType="2" productValue="elroi.package.32904.c" tier="29"/>
+	<shopIAP id="43001" marketType="2" productValue="elroi.package.33001.c" tier="30"/>
+	<shopIAP id="43002" marketType="2" productValue="elroi.package.33002.c" tier="30"/>
+	<shopIAP id="43003" marketType="2" productValue="elroi.package.33003.c" tier="30"/>
+	<shopIAP id="43004" marketType="2" productValue="elroi.package.33004.c" tier="30"/>
+	<shopIAP id="43101" marketType="2" productValue="elroi.package.33101.c" tier="31"/>
+	<shopIAP id="43102" marketType="2" productValue="elroi.package.33102.c" tier="31"/>
+	<shopIAP id="43103" marketType="2" productValue="elroi.package.33103.c" tier="31"/>
+	<shopIAP id="43104" marketType="2" productValue="elroi.package.33104.c" tier="31"/>
+	<shopIAP id="43201" marketType="2" productValue="elroi.package.33201.c" tier="32"/>
+	<shopIAP id="43202" marketType="2" productValue="elroi.package.33202.c" tier="32"/>
+	<shopIAP id="43203" marketType="2" productValue="elroi.package.33203.c" tier="32"/>
+	<shopIAP id="43204" marketType="2" productValue="elroi.package.33204.c" tier="32"/>
+	<shopIAP id="43301" marketType="2" productValue="elroi.package.33301.c" tier="33"/>
+	<shopIAP id="43302" marketType="2" productValue="elroi.package.33302.c" tier="33"/>
+	<shopIAP id="43303" marketType="2" productValue="elroi.package.33303.c" tier="33"/>
+	<shopIAP id="43304" marketType="2" productValue="elroi.package.33304.c" tier="33"/>
+	<shopIAP id="43401" marketType="2" productValue="elroi.package.33401.c" tier="34"/>
+	<shopIAP id="43402" marketType="2" productValue="elroi.package.33402.c" tier="34"/>
+	<shopIAP id="43403" marketType="2" productValue="elroi.package.33403.c" tier="34"/>
+	<shopIAP id="43404" marketType="2" productValue="elroi.package.33404.c" tier="34"/>
+	<shopIAP id="43501" marketType="2" productValue="elroi.package.33501.c" tier="35"/>
+	<shopIAP id="43502" marketType="2" productValue="elroi.package.33502.c" tier="35"/>
+	<shopIAP id="43503" marketType="2" productValue="elroi.package.33503.c" tier="35"/>
+	<shopIAP id="43504" marketType="2" productValue="elroi.package.33504.c" tier="35"/>
+	<shopIAP id="43601" marketType="2" productValue="elroi.package.33601.c" tier="36"/>
+	<shopIAP id="43602" marketType="2" productValue="elroi.package.33602.c" tier="36"/>
+	<shopIAP id="43603" marketType="2" productValue="elroi.package.33603.c" tier="36"/>
+	<shopIAP id="43604" marketType="2" productValue="elroi.package.33604.c" tier="36"/>
+	<shopIAP id="43701" marketType="2" productValue="elroi.package.33701.c" tier="37"/>
+	<shopIAP id="43702" marketType="2" productValue="elroi.package.33702.c" tier="37"/>
+	<shopIAP id="43703" marketType="2" productValue="elroi.package.33703.c" tier="37"/>
+	<shopIAP id="43704" marketType="2" productValue="elroi.package.33704.c" tier="37"/>
+	<shopIAP id="43801" marketType="2" productValue="elroi.package.33801.c" tier="38"/>
+	<shopIAP id="43802" marketType="2" productValue="elroi.package.33802.c" tier="38"/>
+	<shopIAP id="43803" marketType="2" productValue="elroi.package.33803.c" tier="38"/>
+	<shopIAP id="43804" marketType="2" productValue="elroi.package.33804.c" tier="38"/>
+	<shopIAP id="43901" marketType="2" productValue="elroi.package.33901.c" tier="39"/>
+	<shopIAP id="43902" marketType="2" productValue="elroi.package.33902.c" tier="39"/>
+	<shopIAP id="43903" marketType="2" productValue="elroi.package.33903.c" tier="39"/>
+	<shopIAP id="43904" marketType="2" productValue="elroi.package.33904.c" tier="39"/>
+	<shopIAP id="44001" marketType="2" productValue="elroi.package.34001.c" tier="40"/>
+	<shopIAP id="44002" marketType="2" productValue="elroi.package.34002.c" tier="40"/>
+	<shopIAP id="44003" marketType="2" productValue="elroi.package.34003.c" tier="40"/>
+	<shopIAP id="44004" marketType="2" productValue="elroi.package.34004.c" tier="40"/>
+	<shopIAP id="44101" marketType="2" productValue="elroi.package.34101.c" tier="41"/>
+	<shopIAP id="44102" marketType="2" productValue="elroi.package.34102.c" tier="41"/>
+	<shopIAP id="44103" marketType="2" productValue="elroi.package.34103.c" tier="41"/>
+	<shopIAP id="44104" marketType="2" productValue="elroi.package.34104.c" tier="41"/>
+	<shopIAP id="44201" marketType="2" productValue="elroi.package.34201.c" tier="42"/>
+	<shopIAP id="44202" marketType="2" productValue="elroi.package.34202.c" tier="42"/>
+	<shopIAP id="44203" marketType="2" productValue="elroi.package.34203.c" tier="42"/>
+	<shopIAP id="44204" marketType="2" productValue="elroi.package.34204.c" tier="42"/>
+	<shopIAP id="44301" marketType="2" productValue="elroi.package.34301.c" tier="43"/>
+	<shopIAP id="44302" marketType="2" productValue="elroi.package.34302.c" tier="43"/>
+	<shopIAP id="44303" marketType="2" productValue="elroi.package.34303.c" tier="43"/>
+	<shopIAP id="44304" marketType="2" productValue="elroi.package.34304.c" tier="43"/>
+	<shopIAP id="44401" marketType="2" productValue="elroi.package.34401.c" tier="44"/>
+	<shopIAP id="44402" marketType="2" productValue="elroi.package.34402.c" tier="44"/>
+	<shopIAP id="44403" marketType="2" productValue="elroi.package.34403.c" tier="44"/>
+	<shopIAP id="44404" marketType="2" productValue="elroi.package.34404.c" tier="44"/>
+	<shopIAP id="44501" marketType="2" productValue="elroi.package.34501.c" tier="45"/>
+	<shopIAP id="44502" marketType="2" productValue="elroi.package.34502.c" tier="45"/>
+	<shopIAP id="44503" marketType="2" productValue="elroi.package.34503.c" tier="45"/>
+	<shopIAP id="44504" marketType="2" productValue="elroi.package.34504.c" tier="45"/>
+	<shopIAP id="44601" marketType="2" productValue="elroi.package.34601.c" tier="46"/>
+	<shopIAP id="44602" marketType="2" productValue="elroi.package.34602.c" tier="46"/>
+	<shopIAP id="44603" marketType="2" productValue="elroi.package.34603.c" tier="46"/>
+	<shopIAP id="44604" marketType="2" productValue="elroi.package.34604.c" tier="46"/>
+	<shopIAP id="44701" marketType="2" productValue="elroi.package.34701.c" tier="47"/>
+	<shopIAP id="44702" marketType="2" productValue="elroi.package.34702.c" tier="47"/>
+	<shopIAP id="44703" marketType="2" productValue="elroi.package.34703.c" tier="47"/>
+	<shopIAP id="44704" marketType="2" productValue="elroi.package.34704.c" tier="47"/>
+	<shopIAP id="44801" marketType="2" productValue="elroi.package.34801.c" tier="48"/>
+	<shopIAP id="44802" marketType="2" productValue="elroi.package.34802.c" tier="48"/>
+	<shopIAP id="44803" marketType="2" productValue="elroi.package.34803.c" tier="48"/>
+	<shopIAP id="44804" marketType="2" productValue="elroi.package.34804.c" tier="48"/>
+	<shopIAP id="44901" marketType="2" productValue="elroi.package.34901.c" tier="49"/>
+	<shopIAP id="44902" marketType="2" productValue="elroi.package.34902.c" tier="49"/>
+	<shopIAP id="44903" marketType="2" productValue="elroi.package.34903.c" tier="49"/>
+	<shopIAP id="44904" marketType="2" productValue="elroi.package.34904.c" tier="49"/>
+	<shopIAP id="45001" marketType="2" productValue="elroi.package.35001.c" tier="50"/>
+	<shopIAP id="45002" marketType="2" productValue="elroi.package.35002.c" tier="50"/>
+	<shopIAP id="45003" marketType="2" productValue="elroi.package.35003.c" tier="50"/>
+	<shopIAP id="45004" marketType="2" productValue="elroi.package.35004.c" tier="50"/>
+	<shopIAP id="45101" marketType="2" productValue="elroi.package.35101.c" tier="51"/>
+	<shopIAP id="45102" marketType="2" productValue="elroi.package.35102.c" tier="51"/>
+	<shopIAP id="45103" marketType="2" productValue="elroi.package.35103.c" tier="51"/>
+	<shopIAP id="45104" marketType="2" productValue="elroi.package.35104.c" tier="51"/>
+	<shopIAP id="45201" marketType="2" productValue="elroi.package.35201.c" tier="52"/>
+	<shopIAP id="45202" marketType="2" productValue="elroi.package.35202.c" tier="52"/>
+	<shopIAP id="45203" marketType="2" productValue="elroi.package.35203.c" tier="52"/>
+	<shopIAP id="45204" marketType="2" productValue="elroi.package.35204.c" tier="52"/>
+	<shopIAP id="45301" marketType="2" productValue="elroi.package.35301.c" tier="53"/>
+	<shopIAP id="45302" marketType="2" productValue="elroi.package.35302.c" tier="53"/>
+	<shopIAP id="45303" marketType="2" productValue="elroi.package.35303.c" tier="53"/>
+	<shopIAP id="45304" marketType="2" productValue="elroi.package.35304.c" tier="53"/>
+	<shopIAP id="45401" marketType="2" productValue="elroi.package.35401.c" tier="54"/>
+	<shopIAP id="45402" marketType="2" productValue="elroi.package.35402.c" tier="54"/>
+	<shopIAP id="45403" marketType="2" productValue="elroi.package.35403.c" tier="54"/>
+	<shopIAP id="45404" marketType="2" productValue="elroi.package.35404.c" tier="54"/>
+	<shopIAP id="45501" marketType="2" productValue="elroi.package.35501.c" tier="55"/>
+	<shopIAP id="45502" marketType="2" productValue="elroi.package.35502.c" tier="55"/>
+	<shopIAP id="45503" marketType="2" productValue="elroi.package.35503.c" tier="55"/>
+	<shopIAP id="45504" marketType="2" productValue="elroi.package.35504.c" tier="55"/>
+	<shopIAP id="45601" marketType="2" productValue="elroi.package.35601.c" tier="56"/>
+	<shopIAP id="45602" marketType="2" productValue="elroi.package.35602.c" tier="56"/>
+	<shopIAP id="45603" marketType="2" productValue="elroi.package.35603.c" tier="56"/>
+	<shopIAP id="45604" marketType="2" productValue="elroi.package.35604.c" tier="56"/>
+	<shopIAP id="45701" marketType="2" productValue="elroi.package.35701.c" tier="57"/>
+	<shopIAP id="45702" marketType="2" productValue="elroi.package.35702.c" tier="57"/>
+	<shopIAP id="45703" marketType="2" productValue="elroi.package.35703.c" tier="57"/>
+	<shopIAP id="45704" marketType="2" productValue="elroi.package.35704.c" tier="57"/>
+	<shopIAP id="45801" marketType="2" productValue="elroi.package.35801.c" tier="58"/>
+	<shopIAP id="45802" marketType="2" productValue="elroi.package.35802.c" tier="58"/>
+	<shopIAP id="45803" marketType="2" productValue="elroi.package.35803.c" tier="58"/>
+	<shopIAP id="45804" marketType="2" productValue="elroi.package.35804.c" tier="58"/>
+	<shopIAP id="45901" marketType="2" productValue="elroi.package.35901.c" tier="59"/>
+	<shopIAP id="45902" marketType="2" productValue="elroi.package.35902.c" tier="59"/>
+	<shopIAP id="45903" marketType="2" productValue="elroi.package.35903.c" tier="59"/>
+	<shopIAP id="45904" marketType="2" productValue="elroi.package.35904.c" tier="59"/>
+	<shopIAP id="46001" marketType="2" productValue="elroi.package.36001.c" tier="60"/>
+	<shopIAP id="46002" marketType="2" productValue="elroi.package.36002.c" tier="60"/>
+	<shopIAP id="46003" marketType="2" productValue="elroi.package.36003.c" tier="60"/>
+	<shopIAP id="46004" marketType="2" productValue="elroi.package.36004.c" tier="60"/>
+</Root>

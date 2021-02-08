@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<skillEffect id="1" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Basic" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked" position="0" shaking="0"/>
+	<skillEffect id="2" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Sword_01" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked_Sword" position="0" shaking="0"/>
+	<skillEffect id="3" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Shield" scale="0" soundFolder="Sound/SE/" soundName="Battle_AttackTanker" position="0" shaking="0"/>
+	<skillEffect id="4" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Slime" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Slime" position="0" shaking="0"/>
+	<skillEffect id="5" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Slime_Red" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Slime" position="0" shaking="0"/>
+	<skillEffect id="6" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Slime_Blue" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Slime" position="0" shaking="0"/>
+	<skillEffect id="7" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Basic" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Whip" position="0" shaking="0"/>
+	<skillEffect id="8" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Sword_02" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked_Sword" position="0" shaking="0"/>
+	<skillEffect id="9" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Sword_2Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked_Sword" position="0" shaking="0"/>
+	<skillEffect id="10" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Claw_2Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked_Sword" position="0" shaking="0"/>
+	<skillEffect id="11" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Ice" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked" position="0" shaking="0"/>
+	<skillEffect id="31" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Splash_01" scale="0" position="0" shaking="0"/>
+	<skillEffect id="33" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Splash_Ein_Skill" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Weneris_Attack" position="0" shaking="0"/>
+	<skillEffect id="34" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Splash_02" scale="0" position="0" shaking="0"/>
+	<skillEffect id="35" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Splash_Shield" scale="0" position="0" shaking="0"/>
+	<skillEffect id="51" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Basic_01" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Slice" position="0" shaking="0"/>
+	<skillEffect id="52" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Penetraion_01" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Slice" position="0" shaking="0"/>
+	<skillEffect id="81" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Water_Black" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="82" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Laser_Green" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="83" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Laser_Blue" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="84" folder="FxData/Fx2/" prefab="Fx_Hit_Magic_Electric_hit" scale="0" position="0" shaking="0"/>
+	<skillEffect id="85" folder="FxData/Fx2/" prefab="Fx_Hit_Magic_Electric_hit_Yellow" scale="0" position="0" shaking="0"/>
+	<skillEffect id="86" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Jinryong" scale="0" position="0" shaking="0"/>
+	<skillEffect id="87" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Laser_Yellow" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="88" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Forest" scale="0" position="0" shaking="0"/>
+	<skillEffect id="89" folder="FxData/Fx2/" prefab="Fx_Hit_Arrow_Water" scale="0" position="0" shaking="0"/>
+	<skillEffect id="101" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackBow" arrowSpeed="1800" arrowHeight="20" position="0" shaking="0"/>
+	<skillEffect id="102" folder="FxData/Fx2/" prefab="Prefab_BattleObjectBullet" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Gunshot" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="103" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear1" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="104" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear2" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="105" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear3" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="106" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear4" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="107" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear5" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="108" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear6" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1800" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="109" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear7" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="110" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Ada" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1800" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="111" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear8" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="112" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Pumpkin" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1000" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="113" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear9" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2000" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="114" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear10" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1800" arrowHeight="20" position="0" shaking="0"/>
+	<skillEffect id="115" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear11" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="116" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear12" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="117" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear13" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="118" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear14" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2000" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="119" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear15" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2000" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="120" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear16" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2000" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="121" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear17" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2000" arrowHeight="10" position="0" shaking="0"/>
+	<skillEffect id="122" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear18" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1800" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="123" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Octopus" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="124" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Sheep" scale="1" soundFolder="Sound/SE/" soundName="Battle_BossAttack2" arrowSpeed="1500" arrowHeight="10" position="0" shaking="0"/>
+	<skillEffect id="125" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear19" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="126" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear20" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="127" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear21" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="128" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear22" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="129" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear23" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="130" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear24" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="131" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear25" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="132" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear26" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="133" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear27" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="134" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Card" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="135" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Screen" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="136" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_ShinigSpear" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="137" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Laser" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Laser" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="138" folder="FxData/Fx2/" prefab="Prefab_BattleObjectSpear28" scale="1" arrowSpeed="1500" arrowHeight="40" position="0" shaking="0"/>
+	<skillEffect id="139" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Rudra" scale="1" arrowSpeed="1800" arrowHeight="20" position="0" shaking="0"/>
+	<skillEffect id="140" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Octopus_Splash" scale="1" arrowSpeed="1500" arrowHeight="40" position="0"/>
+	<skillEffect id="181" folder="FxData/Fx2/" prefab="Prefab_BattleObjectArrow_Penetration" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackBow" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="182" folder="FxData/Fx2/" prefab="Prefab_BattleObjectBullet_Penetration" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Gunshot" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="183" folder="FxData/Fx2/" prefab="Prefab_BattleObjectBullet2_Penetration" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Gunshot" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="201" folder="FxData/Fx2/" prefab="Fx_Magic_Fire_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Burn" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="202" folder="FxData/Fx2/" prefab="Fx_Magic_Water_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="203" folder="FxData/Fx2/" prefab="Fx_Magic_Forest_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="204" folder="FxData/Fx2/" prefab="Fx_Magic_Light_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Light_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="205" folder="FxData/Fx2/" prefab="Fx_Magic_Dark_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="206" folder="FxData/Fx2/" prefab="Fx_Magic_Poison_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="207" folder="FxData/Fx2/" prefab="Fx_Magic_Stone_Remote" scale="1" soundFolder="Sound/SE/" soundName="Battle_AttackMelee" arrowSpeed="2000" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="231" folder="FxData/Fx2/" prefab="Fx_Magic_Fire_Remote_Splash" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Burn" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="232" folder="FxData/Fx2/" prefab="Fx_Magic_Water_Remote_Splash" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="233" folder="FxData/Fx2/" prefab="Fx_Magic_Forest_Remote_Splash" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="234" folder="FxData/Fx2/" prefab="Fx_Magic_Light_Remote_Splash" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Light_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="235" folder="FxData/Fx2/" prefab="Fx_Magic_Dark_Remote_Splash" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="251" folder="FxData/Fx2/" prefab="Fx_Magic_Fire_Lightning" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_002" position="0" shaking="0"/>
+	<skillEffect id="252" folder="FxData/Fx2/" prefab="Fx_Magic_Water_Lightning" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="253" folder="FxData/Fx2/" prefab="Fx_Magic_Forest_Lightning" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Forest" position="0" shaking="0"/>
+	<skillEffect id="254" folder="FxData/Fx2/" prefab="Fx_Magic_Light_Lightning" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Light" position="0" shaking="0"/>
+	<skillEffect id="255" folder="FxData/Fx2/" prefab="Fx_Magic_Dark_Lightning" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark" position="0" shaking="0"/>
+	<skillEffect id="256" folder="FxData/Fx2/" prefab="Fx_Magic_Ice_Lightning" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_002" position="0" shaking="0"/>
+	<skillEffect id="257" folder="FxData/Fx2/" prefab="Fx_Magic_Lightning_Hit" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_002" position="0" shaking="0"/>
+	<skillEffect id="258" folder="FxData/Fx2/" prefab="Fx_Magic_Lightning_Hit_Yellow" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_002" position="0" shaking="0"/>
+	<skillEffect id="259" folder="FxData/Fx2/" prefab="Fx_Magic_Lightning_Ren_Hit" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_002" position="0" shaking="0"/>
+	<skillEffect id="301" folder="FxData/Fx2/" prefab="Fx_Magic_Fire_Hit" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_002" position="0" shaking="0"/>
+	<skillEffect id="302" folder="FxData/Fx2/" prefab="Fx_Magic_Water_Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="303" folder="FxData/Fx2/" prefab="Fx_Magic_Forest_Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Forest" position="0" shaking="0"/>
+	<skillEffect id="304" folder="FxData/Fx2/" prefab="Fx_Magic_Light_Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Light" position="0" shaking="0"/>
+	<skillEffect id="305" folder="FxData/Fx2/" prefab="Fx_Magic_Dark_Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark" position="0" shaking="0"/>
+	<skillEffect id="306" folder="FxData/Fx2/" prefab="Fx_Magic_Poison_Hit" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark" position="0" shaking="0"/>
+	<skillEffect id="401" folder="FxData/Fx2/" prefab="Fx_Tower_Arrowrain" scale="0" position="0" shaking="0"/>
+	<skillEffect id="402" folder="FxData/Fx2/" prefab="Fx_Tower_Explosion" location="3" scale="0" position="0" shaking="0"/>
+	<skillEffect id="403" folder="FxData/Fx2/" prefab="Fx_Tower_Lightning" scale="0" position="0" shaking="0"/>
+	<skillEffect id="404" folder="FxData/Fx2/" prefab="Fx_Tower_Tornado" location="1" scale="0" position="0" shaking="0"/>
+	<skillEffect id="405" folder="FxData/Fx2/" prefab="Fx_Tower_Showmethemoney" location="2" scale="0" position="0" shaking="0"/>
+	<skillEffect id="501" folder="FxData/Fx2/" prefab="Fx_Effect_Stun" scale="1" position="0" shaking="0.3"/>
+	<skillEffect id="502" folder="FxData/Fx2/" prefab="Fx_Effect_IceSlow" color="0,84,255" scale="1" position="0" shaking="0"/>
+	<skillEffect id="503" folder="FxData/Fx2/" prefab="Fx_Effect_Knockback_dust" scale="1" position="0" shaking="0"/>
+	<skillEffect id="601" folder="FxData/Fx2/" prefab="Fx_Effect_BossApear_Shockwave" scale="1" soundFolder="Sound/SE/" soundName="SE_Battle_TowerSkill_2" position="0" shaking="0"/>
+	<skillEffect id="1018" folder="FxData/Fx2/" prefab="Prefab_FX_Dot_Burn" color="255,0,0" scale="1" position="0" shaking="0"/>
+	<skillEffect id="1019" folder="FxData/Fx2/" prefab="Prefab_FX_Dot_Poison" color="50,200,50" scale="1" position="0" shaking="0"/>
+	<skillEffect id="1054" folder="FxData/Fx2/" prefab="Fx_Effect_Shield_HP" scale="1" position="0" shaking="0"/>
+	<skillEffect id="1055" folder="FxData/Fx2/" prefab="Fx_Effect_Shield_Count" scale="1" position="0" shaking="0"/>
+	<skillEffect id="2001" folder="FxData/Fx2/" prefab="Fx_Effect_Shield_Reflect" scale="1" position="0" shaking="0"/>
+	<skillEffect id="2002" folder="FxData/Fx2/" prefab="Fx_Effect_Shield_Reflect_Hit" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3001" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Use" scale="1" soundFolder="Sound/SE/" soundName="Battle_Magic_Buff" position="1" shaking="0"/>
+	<skillEffect id="3101" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Attack_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3102" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Defence_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3103" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Move_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3104" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Penet_Defence_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3105" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Fire_Resist_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3106" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Poison_Resist_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3107" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_knockback_Resist_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3108" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Stun_Resist_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3109" folder="FxData/Fx2/" prefab="Prefab_FX_Buff_Freezing_Resist_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3201" folder="FxData/Fx2/" prefab="Prefab_Fx_Ing_Buff" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3203" folder="FxData/Fx2/" prefab="Prefab_Fx_Ing_Buff_Move" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3204" folder="FxData/Fx2/" prefab="Prefab_Fx_Ing_Buff_Penetration" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3274" folder="FxData/Fx2/" prefab="Prefab_Fx_Resist_Penetration_Active" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3275" folder="FxData/Fx2/" prefab="Prefab_Fx_Resist_Fire_Active" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3276" folder="FxData/Fx2/" prefab="Prefab_Fx_Resist_Poison_Active" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3277" folder="FxData/Fx2/" prefab="Prefab_Fx_Resist_Knockback_Active" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3278" folder="FxData/Fx2/" prefab="Prefab_Fx_Resist_Stun_Active" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3279" folder="FxData/Fx2/" prefab="Prefab_Fx_Resist_Freezing_Active" scale="1" position="0" shaking="0"/>
+	<skillEffect id="3301" folder="FxData/Fx2/" prefab="Prefab_FX_Debuff_Use" scale="1" soundFolder="Sound/SE/" soundName="Battle_Magic_Debuff" position="1" shaking="0"/>
+	<skillEffect id="3401" folder="FxData/Fx2/" prefab="Prefab_FX_Debuff_Attack_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3402" folder="FxData/Fx2/" prefab="Prefab_FX_Debuff_Defence_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3403" folder="FxData/Fx2/" prefab="Prefab_FX_Debuff_Move_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3404" folder="FxData/Fx2/" prefab="Prefab_Fx_Debuff_Penetratioin_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3501" folder="FxData/Fx2/" prefab="Prefab_Fx_Ing_Debuff" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3601" folder="FxData/Fx2/" prefab="Prefab_Fx_Remove_Buff" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3602" folder="FxData/Fx2/" prefab="Prefab_Fx_Remove_Buff_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3603" folder="FxData/Fx2/" prefab="Prefab_Fx_Remove_Debuff" scale="1" position="1" shaking="0"/>
+	<skillEffect id="3604" folder="FxData/Fx2/" prefab="Prefab_Fx_Remove_Buff_Target" scale="1" position="1" shaking="0"/>
+	<skillEffect id="8001" folder="FxData/Fx2/" prefab="Fx_Boos_Marthis_Explosion_Hit" scale="1" position="0" shaking="0"/>
+	<skillEffect id="8002" folder="FxData/Fx2/" prefab="Fx_Hit_Melee_Splash_02" scale="1" soundFolder="Sound/SE/" soundName="Battle_Attacked" position="0" shaking="0"/>
+	<skillEffect id="8003" folder="FxData/Fx2/" prefab="Prefab_BattleObjectBullet" scale="0" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="8011" folder="FxData/Fx2/" prefab="Fx_Magic_Lightning_hit" scale="0" position="0" shaking="0"/>
+	<skillEffect id="8012" folder="FxData/Fx2/" prefab="Fx_Boss_Melkui_Shockwave_attack2" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Melkui_AllAttack" position="0" shaking="0"/>
+	<skillEffect id="8031" folder="FxData/Fx2/" prefab="Fx_Boss_Weneris_Penetration_Hit" scale="0" position="0" shaking="0"/>
+	<skillEffect id="8041" folder="FxData/Fx2/" prefab="Fx_Boss_Runai_Bloodsucking_Hit" scale="0" position="0" shaking="0"/>
+	<skillEffect id="8042" folder="FxData/Fx2/" prefab="Fx_Boss_Runai_Claw_Hit" scale="0" position="0" shaking="0"/>
+	<skillEffect id="8051" folder="FxData/Fx2/" prefab="Fx_Boss_Omega_Normal_attack" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Omega_NormalAttack" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="8081" folder="FxData/Fx2/" prefab="Fx_Boss_Klaudteron_Fire_attack3" scale="0" soundFolder="Sound/SE/" soundName="Battle_BossAttack2" position="0" shaking="0"/>
+	<skillEffect id="8091" folder="FxData/Fx2/" prefab="FX_Boss_Ashwood_Normal_attack" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Dark_Throw" arrowSpeed="1000" arrowHeight="100" position="0" shaking="0"/>
+	<skillEffect id="8092" folder="FxData/Fx2/" prefab="FX_Boss_Ashwood_PoisonFog_attack3" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Ashwood_DustAttack" position="0" shaking="0"/>
+	<skillEffect id="8093" folder="FxData/Fx2/" prefab="Fx_Boss_Ahswood_Laser_attack2" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Ashwood_BigLaser" position="0" shaking="0"/>
+	<skillEffect id="8101" folder="FxData/Fx2/" prefab="Fx_Magic_Lightning_Hit_Yellow" scale="0" position="0" shaking="0"/>
+	<skillEffect id="8131" folder="FxData/Fx2/" prefab="Fx_Boss_Krillkard_Breath_attack" scale="0" soundFolder="Sound/SE/" soundName="Boss_Fire_Growl_001" position="0" shaking="0"/>
+	<skillEffect id="8132" folder="FxData/Fx2/" prefab="Fx_Boss_Krillkard_Stun_attack3" scale="0" soundFolder="Sound/SE/" soundName="Battle_BossAttack3" position="0" shaking="0"/>
+	<skillEffect id="8141" folder="FxData/Fx2/" prefab="Fx_Boss_Tesra_Normal_attack" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Water" position="0" shaking="0"/>
+	<skillEffect id="8151" folder="FxData/Fx2/" prefab="Fx_Boss_Belodenobia_Bullet_attack" scale="0" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="8161" folder="FxData/Fx2/" prefab="Fx_Boss_Dellinger_Bullet_attack" scale="0" arrowSpeed="2500" arrowHeight="0" position="0" shaking="0"/>
+	<skillEffect id="9001" scale="0" soundFolder="Sound/SE/" soundName="Battle_BossAttack2" position="0" shaking="0"/>
+	<skillEffect id="9002" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attacked_Sword" position="0" shaking="0"/>
+	<skillEffect id="9003" scale="0" soundFolder="Sound/SE/" soundName="Battle_AttackTanker_Deley" position="0" shaking="0"/>
+	<skillEffect id="9004" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Gunshot" position="0" shaking="0"/>
+	<skillEffect id="9201" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Tank" position="0" shaking="0"/>
+	<skillEffect id="9202" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Machinegun" position="0" shaking="0"/>
+	<skillEffect id="9203" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Electric_Explosion" position="0" shaking="0"/>
+	<skillEffect id="9205" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Yowis_Bite" position="0" shaking="0"/>
+	<skillEffect id="9206" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Yowis_Shout" position="0" shaking="0"/>
+	<skillEffect id="9207" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Weneris_Attack" position="0" shaking="0"/>
+	<skillEffect id="9208" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Shield1" position="0" shaking="0"/>
+	<skillEffect id="9209" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Weneris_Swing" position="0" shaking="0"/>
+	<skillEffect id="9210" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Lunai_Bite" position="0" shaking="0"/>
+	<skillEffect id="9211" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Lunai_Claw" position="0" shaking="0"/>
+	<skillEffect id="9212" scale="0" soundFolder="Sound/SE/" soundName="Battle_Magic_Buff" position="0" shaking="0"/>
+	<skillEffect id="9214" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Electric_Explosion" position="0" shaking="0"/>
+	<skillEffect id="9215" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Omega_BigLaser" position="0" shaking="0"/>
+	<skillEffect id="9216" scale="0" soundFolder="Sound/SE/" soundName="Battle_BossAttack1" position="0" shaking="0"/>
+	<skillEffect id="9221" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Electric_Explosion" position="0" shaking="0"/>
+	<skillEffect id="9222" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Natrix_AllThunder" position="0" shaking="0"/>
+	<skillEffect id="9223" scale="0" soundFolder="Sound/SE/" soundName="Battle_Attack_Thunder" position="0" shaking="0"/>
+	<skillEffect id="9224" scale="0" soundFolder="Sound/SE/" soundName="Battle_BossAttack2" position="0" shaking="0"/>
+	<skillEffect id="9225" scale="0" soundFolder="Sound/SE/" soundName="Battle_Magic_Buff" position="0" shaking="0"/>
+	<skillEffect id="9229" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Tesra_Shout" position="0" shaking="0"/>
+	<skillEffect id="9230" scale="0" soundFolder="Sound/SE/" soundName="Boss_Tornado2" position="0" shaking="0"/>
+	<skillEffect id="9231" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Belodenobia_Bullet" position="0" shaking="0"/>
+	<skillEffect id="9232" scale="0" soundFolder="Sound/SE/" soundName="Boss_Sand_Attack" position="0" shaking="0"/>
+	<skillEffect id="9233" scale="0" soundFolder="Sound/SE/" soundName="Battle_AttackMagic" position="0" shaking="0"/>
+	<skillEffect id="9234" scale="0" soundFolder="Sound/SE/" soundName="Battle_Boss_Omega_BigLaser" position="0" shaking="0"/>
+</Root>

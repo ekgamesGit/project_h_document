@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<autoPlaySetting state="1" riskMinimumValue="0" riskMaximumValue="0.02" bookedAllySummonSecond="7" airMonsterRate="0.5" airAttackAvailableAllyRate="0.5" autoSkillUseRateCondition="0.6" autoTopSkillTimeCondition="1"/>
+	<autoPlaySetting state="2" riskMinimumValue="0.03" riskMaximumValue="0.06" bookedAllySummonSecond="7" airMonsterRate="0.5" airAttackAvailableAllyRate="0.5" autoSkillUseRateCondition="0.5" autoTopSkillTimeCondition="2"/>
+	<autoPlaySetting state="3" riskMinimumValue="0.061" riskMaximumValue="2" bookedAllySummonSecond="7" airMonsterRate="0.5" airAttackAvailableAllyRate="0.5" autoSkillUseRateCondition="0.4" autoTopSkillTimeCondition="3" stoneUpgradeRate="0.11"/>
+	<autoPlaySetting state="4" riskMinimumValue="2.1" riskMaximumValue="999" bookedAllySummonSecond="7" airMonsterRate="0.5" airAttackAvailableAllyRate="0.5" autoSkillUseRateCondition="0.3" autoTopSkillTimeCondition="4"/>
+</Root>

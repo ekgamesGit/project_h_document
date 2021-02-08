@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- autoPlaySetting Table-->
+        <xs:element name="autoPlaySetting" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="state" type="xs:string"/>	
+		    <xs:attribute name="riskMinimumValue" type="xs:string"/>	
+		    <xs:attribute name="riskMaximumValue" type="xs:string"/>
+		    <xs:attribute name="bookedAllySummonSecond" type="xs:string"/>
+		    <xs:attribute name="airMonsterRate" type="xs:string"/>
+		    <xs:attribute name="airAttackAvailableAllyRate" type="xs:string"/>
+		    <xs:attribute name="autoSkillUseRateCondition" type="xs:string"/>
+		    <xs:attribute name="autoTopSkillTimeCondition" type="xs:string"/>
+		    <xs:attribute name="stoneUpgradeRate" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

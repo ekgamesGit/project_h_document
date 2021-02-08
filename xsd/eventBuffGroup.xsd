@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- eventBuffGroup Table-->
+        <xs:element name="eventBuffGroup" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="groupId" type="xs:string"/>	
+			<xs:attribute name="isActive" type="xs:string"/>	
+		    <xs:attribute name="isInvisible" type="xs:string"/>
+			<xs:attribute name="orderNumber" type="xs:string"/>
+			<xs:attribute name="startTime" type="xs:string"/>
+			<xs:attribute name="endTime" type="xs:string"/>
+			<xs:attribute name="strNameList" type="xs:string"/>
+			<xs:attribute name="dayOfWeek" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

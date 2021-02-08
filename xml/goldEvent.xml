@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<goldEvent id="1" location="0" order="9000" startDate="2021-01-28 11:00" endDate="2021-02-08 00:00" name="55644" buttonName="55645" rewardTime="720" needItemType="2,2,2,2,2,2,2,2" needItemValue="0,50,100,150,200,300,400,500" bonusValue="2,3,4,5,6,8" bonusSeed="50,30,10,10,5,1"/>
+</Root>

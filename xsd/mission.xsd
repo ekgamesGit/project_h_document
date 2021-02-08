@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- mission Table-->
+        <xs:element name="mission" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+ 		<xs:attribute name="id" type="xs:integer"/>
+		<xs:attribute name="startDate" type="xs:string"/>
+		<xs:attribute name="endDate" type="xs:string"/>
+		<xs:attribute name="conditionType" type="xs:string"/>
+		<xs:attribute name="conditionValue" type="xs:string"/>
+		<xs:attribute name="order" type="xs:string"/>
+		<xs:attribute name="buttonName" type="xs:string"/>
+		<xs:attribute name="name" type="xs:string"/>
+		<xs:attribute name="replay" type="xs:string"/>
+		<xs:attribute name="stepGroup" type="xs:string"/>
+		<xs:attribute name="step" type="xs:string"/>
+		<xs:attribute name="folder" type="xs:string"/>
+		<xs:attribute name="atlas" type="xs:string"/>
+		<xs:attribute name="image" type="xs:string"/>
+		<xs:attribute name="location" type="xs:string"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

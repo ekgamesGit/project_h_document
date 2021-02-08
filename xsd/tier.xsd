@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- tier Table-->
+        <xs:element name="tier" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>	
+		    <xs:attribute name="tier" type="xs:string"/>	
+ 		    <xs:attribute name="korean" type="xs:string"/>
+	 	    <xs:attribute name="english" type="xs:string"/>
+	 	    <xs:attribute name="chinese_Simple" type="xs:string"/>
+ 		    <xs:attribute name="chinese" type="xs:string"/>
+	 	    <xs:attribute name="japanese" type="xs:string"/>
+	 	    <xs:attribute name="french" type="xs:string"/>
+ 		    <xs:attribute name="russian" type="xs:string"/>
+ 		    <xs:attribute name="portuguese" type="xs:string"/>
+	 	    <xs:attribute name="german" type="xs:string"/>
+	 	    <xs:attribute name="spanish" type="xs:string"/>
+	 	    <xs:attribute name="thai" type="xs:string"/>
+	 	    <xs:attribute name="hindi" type="xs:string"/>
+	 	    <xs:attribute name="italian" type="xs:string"/>
+	 	    <xs:attribute name="indonesian" type="xs:string"/>
+	 	    <xs:attribute name="vietnamese" type="xs:string"/>
+	 	    <xs:attribute name="turkish" type="xs:string"/>
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

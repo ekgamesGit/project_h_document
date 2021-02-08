@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<achievement id="101" category="1" order="1" criteriaType="1" criteriaValue="10" rewardItemType="102" rewardItemValue="3" stepGroup="1" step="1"/>
+	<achievement id="102" category="1" order="1" criteriaType="1" criteriaValue="15" rewardItemType="102" rewardItemValue="3" stepGroup="1" step="2"/>
+	<achievement id="103" category="1" order="1" criteriaType="1" criteriaValue="20" rewardItemType="102" rewardItemValue="4" stepGroup="1" step="3"/>
+	<achievement id="104" category="1" order="1" criteriaType="1" criteriaValue="25" rewardItemType="102" rewardItemValue="4" stepGroup="1" step="4"/>
+	<achievement id="105" category="1" order="1" criteriaType="1" criteriaValue="30" rewardItemType="102" rewardItemValue="5" stepGroup="1" step="5"/>
+	<achievement id="106" category="1" order="1" criteriaType="1" criteriaValue="40" rewardItemType="102" rewardItemValue="5" stepGroup="1" step="6"/>
+	<achievement id="107" category="1" order="1" criteriaType="1" criteriaValue="50" rewardItemType="102" rewardItemValue="6" stepGroup="1" step="7"/>
+	<achievement id="108" category="1" order="1" criteriaType="1" criteriaValue="60" rewardItemType="102" rewardItemValue="6" stepGroup="1" step="8"/>
+	<achievement id="109" category="1" order="1" criteriaType="1" criteriaValue="70" rewardItemType="102" rewardItemValue="7" stepGroup="1" step="9"/>
+	<achievement id="110" category="1" order="1" criteriaType="1" criteriaValue="80" rewardItemType="102" rewardItemValue="7" stepGroup="1" step="10"/>
+	<achievement id="201" category="1" order="2" criteriaType="3" criteriaValue="200000" rewardItemType="2" rewardItemValue="100" stepGroup="2" step="1"/>
+	<achievement id="202" category="1" order="2" criteriaType="3" criteriaValue="300000" rewardItemType="2" rewardItemValue="100" stepGroup="2" step="2"/>
+	<achievement id="203" category="1" order="2" criteriaType="3" criteriaValue="500000" rewardItemType="2" rewardItemValue="150" stepGroup="2" step="3"/>
+	<achievement id="204" category="1" order="2" criteriaType="3" criteriaValue="700000" rewardItemType="2" rewardItemValue="150" stepGroup="2" step="4"/>
+	<achievement id="205" category="1" order="2" criteriaType="3" criteriaValue="1000000" rewardItemType="2" rewardItemValue="200" stepGroup="2" step="5"/>
+	<achievement id="206" category="1" order="2" criteriaType="3" criteriaValue="2000000" rewardItemType="2" rewardItemValue="200" stepGroup="2" step="6"/>
+	<achievement id="207" category="1" order="2" criteriaType="3" criteriaValue="4000000" rewardItemType="2" rewardItemValue="250" stepGroup="2" step="7"/>
+	<achievement id="208" category="1" order="2" criteriaType="3" criteriaValue="6000000" rewardItemType="2" rewardItemValue="250" stepGroup="2" step="8"/>
+	<achievement id="209" category="1" order="2" criteriaType="3" criteriaValue="10000000" rewardItemType="2" rewardItemValue="300" stepGroup="2" step="9"/>
+	<achievement id="210" category="1" order="2" criteriaType="3" criteriaValue="30000000" rewardItemType="2" rewardItemValue="300" stepGroup="2" step="10"/>
+	<achievement id="301" category="3" order="3" criteriaType="6" criteriaValue="200" rewardItemType="2" rewardItemValue="100" stepGroup="3" step="1"/>
+	<achievement id="302" category="3" order="3" criteriaType="6" criteriaValue="300" rewardItemType="2" rewardItemValue="100" stepGroup="3" step="2"/>
+	<achievement id="303" category="3" order="3" criteriaType="6" criteriaValue="400" rewardItemType="2" rewardItemValue="150" stepGroup="3" step="3"/>
+	<achievement id="304" category="3" order="3" criteriaType="6" criteriaValue="700" rewardItemType="2" rewardItemValue="150" stepGroup="3" step="4"/>
+	<achievement id="305" category="3" order="3" criteriaType="6" criteriaValue="1000" rewardItemType="2" rewardItemValue="200" stepGroup="3" step="5"/>
+	<achievement id="306" category="3" order="3" criteriaType="6" criteriaValue="1500" rewardItemType="2" rewardItemValue="200" stepGroup="3" step="6"/>
+	<achievement id="307" category="3" order="3" criteriaType="6" criteriaValue="2000" rewardItemType="2" rewardItemValue="250" stepGroup="3" step="7"/>
+	<achievement id="308" category="3" order="3" criteriaType="6" criteriaValue="3000" rewardItemType="2" rewardItemValue="250" stepGroup="3" step="8"/>
+	<achievement id="309" category="3" order="3" criteriaType="6" criteriaValue="4000" rewardItemType="2" rewardItemValue="300" stepGroup="3" step="9"/>
+	<achievement id="310" category="3" order="3" criteriaType="6" criteriaValue="5000" rewardItemType="2" rewardItemValue="300" stepGroup="3" step="10"/>
+	<achievement id="401" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="100" rewardItemType="2" rewardItemValue="100" stepGroup="4" step="1"/>
+	<achievement id="402" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="150" rewardItemType="2" rewardItemValue="100" stepGroup="4" step="2"/>
+	<achievement id="403" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="200" rewardItemType="2" rewardItemValue="150" stepGroup="4" step="3"/>
+	<achievement id="404" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="300" rewardItemType="2" rewardItemValue="150" stepGroup="4" step="4"/>
+	<achievement id="405" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="400" rewardItemType="2" rewardItemValue="200" stepGroup="4" step="5"/>
+	<achievement id="406" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="700" rewardItemType="2" rewardItemValue="200" stepGroup="4" step="6"/>
+	<achievement id="407" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="1000" rewardItemType="2" rewardItemValue="250" stepGroup="4" step="7"/>
+	<achievement id="408" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="1500" rewardItemType="2" rewardItemValue="250" stepGroup="4" step="8"/>
+	<achievement id="409" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="2000" rewardItemType="2" rewardItemValue="300" stepGroup="4" step="9"/>
+	<achievement id="410" category="3" order="4" criteriaType="7" criteriaCondition="51" criteriaValue="3000" rewardItemType="2" rewardItemValue="300" stepGroup="4" step="10"/>
+	<achievement id="501" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="100" rewardItemType="2" rewardItemValue="100" stepGroup="5" step="1"/>
+	<achievement id="502" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="150" rewardItemType="2" rewardItemValue="100" stepGroup="5" step="2"/>
+	<achievement id="503" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="200" rewardItemType="2" rewardItemValue="150" stepGroup="5" step="3"/>
+	<achievement id="504" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="300" rewardItemType="2" rewardItemValue="150" stepGroup="5" step="4"/>
+	<achievement id="505" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="400" rewardItemType="2" rewardItemValue="200" stepGroup="5" step="5"/>
+	<achievement id="506" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="700" rewardItemType="2" rewardItemValue="200" stepGroup="5" step="6"/>
+	<achievement id="507" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="1000" rewardItemType="2" rewardItemValue="250" stepGroup="5" step="7"/>
+	<achievement id="508" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="1500" rewardItemType="2" rewardItemValue="250" stepGroup="5" step="8"/>
+	<achievement id="509" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="2000" rewardItemType="2" rewardItemValue="300" stepGroup="5" step="9"/>
+	<achievement id="510" category="3" order="5" criteriaType="7" criteriaCondition="52" criteriaValue="3000" rewardItemType="2" rewardItemValue="300" stepGroup="5" step="10"/>
+	<achievement id="601" category="1" order="6" criteriaType="9" criteriaCondition="5" criteriaValue="10" rewardItemType="101" rewardItemValue="5" stepGroup="6" step="1"/>
+	<achievement id="602" category="1" order="6" criteriaType="9" criteriaCondition="10" criteriaValue="10" rewardItemType="101" rewardItemValue="5" stepGroup="6" step="2"/>
+	<achievement id="603" category="1" order="6" criteriaType="9" criteriaCondition="15" criteriaValue="10" rewardItemType="101" rewardItemValue="7" stepGroup="6" step="3"/>
+	<achievement id="604" category="1" order="6" criteriaType="9" criteriaCondition="20" criteriaValue="10" rewardItemType="101" rewardItemValue="7" stepGroup="6" step="4"/>
+	<achievement id="605" category="1" order="6" criteriaType="9" criteriaCondition="25" criteriaValue="10" rewardItemType="101" rewardItemValue="10" stepGroup="6" step="5"/>
+	<achievement id="606" category="1" order="6" criteriaType="9" criteriaCondition="30" criteriaValue="10" rewardItemType="101" rewardItemValue="10" stepGroup="6" step="6"/>
+	<achievement id="607" category="1" order="6" criteriaType="9" criteriaCondition="35" criteriaValue="10" rewardItemType="101" rewardItemValue="12" stepGroup="6" step="7"/>
+	<achievement id="608" category="1" order="6" criteriaType="9" criteriaCondition="40" criteriaValue="10" rewardItemType="101" rewardItemValue="12" stepGroup="6" step="8"/>
+	<achievement id="609" category="1" order="6" criteriaType="9" criteriaCondition="45" criteriaValue="10" rewardItemType="101" rewardItemValue="15" stepGroup="6" step="9"/>
+	<achievement id="610" category="1" order="6" criteriaType="9" criteriaCondition="50" criteriaValue="10" rewardItemType="101" rewardItemValue="15" stepGroup="6" step="10"/>
+	<achievement id="701" category="1" order="7" criteriaType="12" criteriaCondition="3,1" criteriaValue="5" rewardItemType="1" rewardItemValue="5760" stepGroup="7" step="1"/>
+	<achievement id="702" category="1" order="7" criteriaType="12" criteriaCondition="5,1" criteriaValue="5" rewardItemType="1" rewardItemValue="7200" stepGroup="7" step="2"/>
+	<achievement id="703" category="1" order="7" criteriaType="12" criteriaCondition="10,1" criteriaValue="5" rewardItemType="1" rewardItemValue="10080" stepGroup="7" step="3"/>
+	<achievement id="704" category="1" order="7" criteriaType="12" criteriaCondition="15,1" criteriaValue="5" rewardItemType="1" rewardItemValue="11520" stepGroup="7" step="4"/>
+	<achievement id="705" category="1" order="7" criteriaType="12" criteriaCondition="20,1" criteriaValue="5" rewardItemType="1" rewardItemValue="15840" stepGroup="7" step="5"/>
+	<achievement id="706" category="1" order="7" criteriaType="12" criteriaCondition="25,1" criteriaValue="5" rewardItemType="1" rewardItemValue="23040" stepGroup="7" step="6"/>
+	<achievement id="707" category="1" order="7" criteriaType="12" criteriaCondition="30,1" criteriaValue="5" rewardItemType="1" rewardItemValue="31680" stepGroup="7" step="7"/>
+	<achievement id="708" category="1" order="7" criteriaType="12" criteriaCondition="35,1" criteriaValue="5" rewardItemType="1" rewardItemValue="46080" stepGroup="7" step="8"/>
+	<achievement id="709" category="1" order="7" criteriaType="12" criteriaCondition="40,1" criteriaValue="5" rewardItemType="1" rewardItemValue="66240" stepGroup="7" step="9"/>
+	<achievement id="710" category="1" order="7" criteriaType="12" criteriaCondition="50,1" criteriaValue="5" rewardItemType="1" rewardItemValue="80640" stepGroup="7" step="10"/>
+	<achievement id="801" category="1" order="8" criteriaType="13" criteriaCondition="3,2" criteriaValue="5" rewardItemType="1" rewardItemValue="5760" stepGroup="8" step="1"/>
+	<achievement id="802" category="1" order="8" criteriaType="13" criteriaCondition="5,2" criteriaValue="5" rewardItemType="1" rewardItemValue="7200" stepGroup="8" step="2"/>
+	<achievement id="803" category="1" order="8" criteriaType="13" criteriaCondition="10,2" criteriaValue="5" rewardItemType="1" rewardItemValue="10080" stepGroup="8" step="3"/>
+	<achievement id="804" category="1" order="8" criteriaType="13" criteriaCondition="15,2" criteriaValue="5" rewardItemType="1" rewardItemValue="11520" stepGroup="8" step="4"/>
+	<achievement id="805" category="1" order="8" criteriaType="13" criteriaCondition="20,2" criteriaValue="5" rewardItemType="1" rewardItemValue="15840" stepGroup="8" step="5"/>
+	<achievement id="806" category="1" order="8" criteriaType="13" criteriaCondition="25,2" criteriaValue="5" rewardItemType="1" rewardItemValue="23040" stepGroup="8" step="6"/>
+	<achievement id="807" category="1" order="8" criteriaType="13" criteriaCondition="30,2" criteriaValue="5" rewardItemType="1" rewardItemValue="31680" stepGroup="8" step="7"/>
+	<achievement id="808" category="1" order="8" criteriaType="13" criteriaCondition="35,2" criteriaValue="5" rewardItemType="1" rewardItemValue="46080" stepGroup="8" step="8"/>
+	<achievement id="809" category="1" order="8" criteriaType="13" criteriaCondition="40,2" criteriaValue="5" rewardItemType="1" rewardItemValue="66240" stepGroup="8" step="9"/>
+	<achievement id="810" category="1" order="8" criteriaType="13" criteriaCondition="50,2" criteriaValue="5" rewardItemType="1" rewardItemValue="80640" stepGroup="8" step="10"/>
+	<achievement id="901" category="1" order="9" criteriaType="14" criteriaCondition="3,3" criteriaValue="5" rewardItemType="1" rewardItemValue="5760" stepGroup="9" step="1"/>
+	<achievement id="902" category="1" order="9" criteriaType="14" criteriaCondition="5,3" criteriaValue="5" rewardItemType="1" rewardItemValue="7200" stepGroup="9" step="2"/>
+	<achievement id="903" category="1" order="9" criteriaType="14" criteriaCondition="10,3" criteriaValue="5" rewardItemType="1" rewardItemValue="10080" stepGroup="9" step="3"/>
+	<achievement id="904" category="1" order="9" criteriaType="14" criteriaCondition="15,3" criteriaValue="5" rewardItemType="1" rewardItemValue="11520" stepGroup="9" step="4"/>
+	<achievement id="905" category="1" order="9" criteriaType="14" criteriaCondition="20,3" criteriaValue="5" rewardItemType="1" rewardItemValue="15840" stepGroup="9" step="5"/>
+	<achievement id="906" category="1" order="9" criteriaType="14" criteriaCondition="25,3" criteriaValue="5" rewardItemType="1" rewardItemValue="23040" stepGroup="9" step="6"/>
+	<achievement id="907" category="1" order="9" criteriaType="14" criteriaCondition="30,3" criteriaValue="5" rewardItemType="1" rewardItemValue="31680" stepGroup="9" step="7"/>
+	<achievement id="908" category="1" order="9" criteriaType="14" criteriaCondition="35,3" criteriaValue="5" rewardItemType="1" rewardItemValue="46080" stepGroup="9" step="8"/>
+	<achievement id="909" category="1" order="9" criteriaType="14" criteriaCondition="40,3" criteriaValue="5" rewardItemType="1" rewardItemValue="66240" stepGroup="9" step="9"/>
+	<achievement id="910" category="1" order="9" criteriaType="14" criteriaCondition="50,3" criteriaValue="8" rewardItemType="1" rewardItemValue="80640" stepGroup="9" step="10"/>
+	<achievement id="1001" category="1" order="10" criteriaType="21" criteriaValue="10" rewardItemType="57" rewardItemValue="5" stepGroup="10" step="1"/>
+	<achievement id="1002" category="1" order="10" criteriaType="21" criteriaValue="13" rewardItemType="57" rewardItemValue="5" stepGroup="10" step="2"/>
+	<achievement id="1003" category="1" order="10" criteriaType="21" criteriaValue="15" rewardItemType="57" rewardItemValue="7" stepGroup="10" step="3"/>
+	<achievement id="1004" category="1" order="10" criteriaType="21" criteriaValue="18" rewardItemType="57" rewardItemValue="7" stepGroup="10" step="4"/>
+	<achievement id="1005" category="1" order="10" criteriaType="21" criteriaValue="20" rewardItemType="57" rewardItemValue="10" stepGroup="10" step="5"/>
+	<achievement id="1006" category="1" order="10" criteriaType="21" criteriaValue="22" rewardItemType="57" rewardItemValue="10" stepGroup="10" step="6"/>
+	<achievement id="1007" category="1" order="10" criteriaType="21" criteriaValue="24" rewardItemType="57" rewardItemValue="12" stepGroup="10" step="7"/>
+	<achievement id="1008" category="1" order="10" criteriaType="21" criteriaValue="26" rewardItemType="57" rewardItemValue="12" stepGroup="10" step="8"/>
+	<achievement id="1009" category="1" order="10" criteriaType="21" criteriaValue="28" rewardItemType="57" rewardItemValue="15" stepGroup="10" step="9"/>
+	<achievement id="1010" category="1" order="10" criteriaType="21" criteriaValue="30" rewardItemType="57" rewardItemValue="15" stepGroup="10" step="10"/>
+	<achievement id="1101" category="3" order="11" criteriaType="24" criteriaValue="2000" rewardItemType="54" rewardItemValue="5" stepGroup="11" step="1"/>
+	<achievement id="1102" category="3" order="11" criteriaType="24" criteriaValue="3000" rewardItemType="54" rewardItemValue="5" stepGroup="11" step="2"/>
+	<achievement id="1103" category="3" order="11" criteriaType="24" criteriaValue="4000" rewardItemType="54" rewardItemValue="7" stepGroup="11" step="3"/>
+	<achievement id="1104" category="3" order="11" criteriaType="24" criteriaValue="6000" rewardItemType="54" rewardItemValue="7" stepGroup="11" step="4"/>
+	<achievement id="1105" category="3" order="11" criteriaType="24" criteriaValue="8000" rewardItemType="54" rewardItemValue="10" stepGroup="11" step="5"/>
+	<achievement id="1106" category="3" order="11" criteriaType="24" criteriaValue="10000" rewardItemType="54" rewardItemValue="10" stepGroup="11" step="6"/>
+	<achievement id="1107" category="3" order="11" criteriaType="24" criteriaValue="15000" rewardItemType="54" rewardItemValue="12" stepGroup="11" step="7"/>
+	<achievement id="1108" category="3" order="11" criteriaType="24" criteriaValue="20000" rewardItemType="54" rewardItemValue="12" stepGroup="11" step="8"/>
+	<achievement id="1109" category="3" order="11" criteriaType="24" criteriaValue="25000" rewardItemType="54" rewardItemValue="15" stepGroup="11" step="9"/>
+	<achievement id="1110" category="3" order="11" criteriaType="24" criteriaValue="30000" rewardItemType="54" rewardItemValue="15" stepGroup="11" step="10"/>
+	<achievement id="1201" category="1" order="12" criteriaType="25" criteriaValue="200000" rewardItemType="51" rewardItemValue="10" stepGroup="12" step="1"/>
+	<achievement id="1202" category="1" order="12" criteriaType="25" criteriaValue="300000" rewardItemType="51" rewardItemValue="10" stepGroup="12" step="2"/>
+	<achievement id="1203" category="1" order="12" criteriaType="25" criteriaValue="500000" rewardItemType="51" rewardItemValue="15" stepGroup="12" step="3"/>
+	<achievement id="1204" category="1" order="12" criteriaType="25" criteriaValue="700000" rewardItemType="51" rewardItemValue="15" stepGroup="12" step="4"/>
+	<achievement id="1205" category="1" order="12" criteriaType="25" criteriaValue="1000000" rewardItemType="51" rewardItemValue="20" stepGroup="12" step="5"/>
+	<achievement id="1206" category="1" order="12" criteriaType="25" criteriaValue="2000000" rewardItemType="51" rewardItemValue="20" stepGroup="12" step="6"/>
+	<achievement id="1207" category="1" order="12" criteriaType="25" criteriaValue="4000000" rewardItemType="51" rewardItemValue="25" stepGroup="12" step="7"/>
+	<achievement id="1208" category="1" order="12" criteriaType="25" criteriaValue="6000000" rewardItemType="51" rewardItemValue="25" stepGroup="12" step="8"/>
+	<achievement id="1209" category="1" order="12" criteriaType="25" criteriaValue="10000000" rewardItemType="51" rewardItemValue="30" stepGroup="12" step="9"/>
+	<achievement id="1210" category="1" order="12" criteriaType="25" criteriaValue="30000000" rewardItemType="51" rewardItemValue="30" stepGroup="12" step="10"/>
+	<achievement id="1301" category="1" order="13" criteriaType="31" criteriaValue="30" rewardItemType="52" rewardItemValue="10" stepGroup="13" step="1"/>
+	<achievement id="1302" category="1" order="13" criteriaType="31" criteriaValue="60" rewardItemType="52" rewardItemValue="10" stepGroup="13" step="2"/>
+	<achievement id="1303" category="1" order="13" criteriaType="31" criteriaValue="100" rewardItemType="52" rewardItemValue="15" stepGroup="13" step="3"/>
+	<achievement id="1304" category="1" order="13" criteriaType="31" criteriaValue="150" rewardItemType="52" rewardItemValue="15" stepGroup="13" step="4"/>
+	<achievement id="1305" category="1" order="13" criteriaType="31" criteriaValue="200" rewardItemType="52" rewardItemValue="20" stepGroup="13" step="5"/>
+	<achievement id="1306" category="1" order="13" criteriaType="31" criteriaValue="300" rewardItemType="52" rewardItemValue="20" stepGroup="13" step="6"/>
+	<achievement id="1307" category="1" order="13" criteriaType="31" criteriaValue="500" rewardItemType="52" rewardItemValue="25" stepGroup="13" step="7"/>
+	<achievement id="1308" category="1" order="13" criteriaType="31" criteriaValue="1000" rewardItemType="52" rewardItemValue="25" stepGroup="13" step="8"/>
+	<achievement id="1309" category="1" order="13" criteriaType="31" criteriaValue="1500" rewardItemType="52" rewardItemValue="30" stepGroup="13" step="9"/>
+	<achievement id="1310" category="1" order="13" criteriaType="31" criteriaValue="2000" rewardItemType="52" rewardItemValue="30" stepGroup="13" step="10"/>
+	<achievement id="1401" category="2" order="14" criteriaType="32" criteriaCondition="5" criteriaValue="20" rewardItemType="2" rewardItemValue="100" stepGroup="14" step="1"/>
+	<achievement id="1402" category="2" order="14" criteriaType="32" criteriaCondition="10" criteriaValue="20" rewardItemType="2" rewardItemValue="100" stepGroup="14" step="2"/>
+	<achievement id="1403" category="2" order="14" criteriaType="32" criteriaCondition="12" criteriaValue="20" rewardItemType="2" rewardItemValue="150" stepGroup="14" step="3"/>
+	<achievement id="1404" category="2" order="14" criteriaType="32" criteriaCondition="15" criteriaValue="20" rewardItemType="2" rewardItemValue="150" stepGroup="14" step="4"/>
+	<achievement id="1405" category="2" order="14" criteriaType="32" criteriaCondition="17" criteriaValue="20" rewardItemType="2" rewardItemValue="200" stepGroup="14" step="5"/>
+	<achievement id="1406" category="2" order="14" criteriaType="32" criteriaCondition="20" criteriaValue="20" rewardItemType="2" rewardItemValue="200" stepGroup="14" step="6"/>
+	<achievement id="1407" category="2" order="14" criteriaType="32" criteriaCondition="22" criteriaValue="20" rewardItemType="2" rewardItemValue="250" stepGroup="14" step="7"/>
+	<achievement id="1408" category="2" order="14" criteriaType="32" criteriaCondition="25" criteriaValue="20" rewardItemType="2" rewardItemValue="250" stepGroup="14" step="8"/>
+	<achievement id="1409" category="2" order="14" criteriaType="32" criteriaCondition="27" criteriaValue="20" rewardItemType="2" rewardItemValue="300" stepGroup="14" step="9"/>
+	<achievement id="1410" category="2" order="14" criteriaType="32" criteriaCondition="30" criteriaValue="20" rewardItemType="2" rewardItemValue="300" stepGroup="14" step="10"/>
+	<achievement id="1501" category="2" order="15" criteriaType="36" criteriaCondition="5,1" criteriaValue="5" rewardItemType="51" rewardItemValue="10" stepGroup="15" step="1"/>
+	<achievement id="1502" category="2" order="15" criteriaType="36" criteriaCondition="10,1" criteriaValue="5" rewardItemType="51" rewardItemValue="10" stepGroup="15" step="2"/>
+	<achievement id="1503" category="2" order="15" criteriaType="36" criteriaCondition="12,1" criteriaValue="5" rewardItemType="51" rewardItemValue="15" stepGroup="15" step="3"/>
+	<achievement id="1504" category="2" order="15" criteriaType="36" criteriaCondition="15,1" criteriaValue="5" rewardItemType="51" rewardItemValue="15" stepGroup="15" step="4"/>
+	<achievement id="1505" category="2" order="15" criteriaType="36" criteriaCondition="17,1" criteriaValue="5" rewardItemType="51" rewardItemValue="20" stepGroup="15" step="5"/>
+	<achievement id="1506" category="2" order="15" criteriaType="36" criteriaCondition="20,1" criteriaValue="5" rewardItemType="51" rewardItemValue="20" stepGroup="15" step="6"/>
+	<achievement id="1507" category="2" order="15" criteriaType="36" criteriaCondition="22,1" criteriaValue="5" rewardItemType="51" rewardItemValue="25" stepGroup="15" step="7"/>
+	<achievement id="1508" category="2" order="15" criteriaType="36" criteriaCondition="25,1" criteriaValue="5" rewardItemType="51" rewardItemValue="25" stepGroup="15" step="8"/>
+	<achievement id="1509" category="2" order="15" criteriaType="36" criteriaCondition="27,1" criteriaValue="5" rewardItemType="51" rewardItemValue="30" stepGroup="15" step="9"/>
+	<achievement id="1510" category="2" order="15" criteriaType="36" criteriaCondition="30,1" criteriaValue="5" rewardItemType="51" rewardItemValue="30" stepGroup="15" step="10"/>
+	<achievement id="1601" category="2" order="16" criteriaType="36" criteriaCondition="5,2" criteriaValue="5" rewardItemType="52" rewardItemValue="10" stepGroup="16" step="1"/>
+	<achievement id="1602" category="2" order="16" criteriaType="36" criteriaCondition="10,2" criteriaValue="5" rewardItemType="52" rewardItemValue="10" stepGroup="16" step="2"/>
+	<achievement id="1603" category="2" order="16" criteriaType="36" criteriaCondition="12,2" criteriaValue="5" rewardItemType="52" rewardItemValue="15" stepGroup="16" step="3"/>
+	<achievement id="1604" category="2" order="16" criteriaType="36" criteriaCondition="15,2" criteriaValue="5" rewardItemType="52" rewardItemValue="15" stepGroup="16" step="4"/>
+	<achievement id="1605" category="2" order="16" criteriaType="36" criteriaCondition="17,2" criteriaValue="5" rewardItemType="52" rewardItemValue="20" stepGroup="16" step="5"/>
+	<achievement id="1606" category="2" order="16" criteriaType="36" criteriaCondition="20,2" criteriaValue="5" rewardItemType="52" rewardItemValue="20" stepGroup="16" step="6"/>
+	<achievement id="1607" category="2" order="16" criteriaType="36" criteriaCondition="22,2" criteriaValue="5" rewardItemType="52" rewardItemValue="25" stepGroup="16" step="7"/>
+	<achievement id="1608" category="2" order="16" criteriaType="36" criteriaCondition="25,2" criteriaValue="5" rewardItemType="52" rewardItemValue="25" stepGroup="16" step="8"/>
+	<achievement id="1609" category="2" order="16" criteriaType="36" criteriaCondition="27,2" criteriaValue="5" rewardItemType="52" rewardItemValue="30" stepGroup="16" step="9"/>
+	<achievement id="1610" category="2" order="16" criteriaType="36" criteriaCondition="30,2" criteriaValue="5" rewardItemType="52" rewardItemValue="30" stepGroup="16" step="10"/>
+	<achievement id="1701" category="2" order="17" criteriaType="36" criteriaCondition="5,3" criteriaValue="5" rewardItemType="53" rewardItemValue="5" stepGroup="17" step="1"/>
+	<achievement id="1702" category="2" order="17" criteriaType="36" criteriaCondition="10,3" criteriaValue="5" rewardItemType="53" rewardItemValue="5" stepGroup="17" step="2"/>
+	<achievement id="1703" category="2" order="17" criteriaType="36" criteriaCondition="12,3" criteriaValue="5" rewardItemType="53" rewardItemValue="7" stepGroup="17" step="3"/>
+	<achievement id="1704" category="2" order="17" criteriaType="36" criteriaCondition="15,3" criteriaValue="5" rewardItemType="53" rewardItemValue="7" stepGroup="17" step="4"/>
+	<achievement id="1705" category="2" order="17" criteriaType="36" criteriaCondition="17,3" criteriaValue="5" rewardItemType="53" rewardItemValue="10" stepGroup="17" step="5"/>
+	<achievement id="1706" category="2" order="17" criteriaType="36" criteriaCondition="20,3" criteriaValue="5" rewardItemType="53" rewardItemValue="10" stepGroup="17" step="6"/>
+	<achievement id="1707" category="2" order="17" criteriaType="36" criteriaCondition="22,3" criteriaValue="5" rewardItemType="53" rewardItemValue="12" stepGroup="17" step="7"/>
+	<achievement id="1708" category="2" order="17" criteriaType="36" criteriaCondition="25,3" criteriaValue="5" rewardItemType="53" rewardItemValue="12" stepGroup="17" step="8"/>
+	<achievement id="1709" category="2" order="17" criteriaType="36" criteriaCondition="27,3" criteriaValue="5" rewardItemType="53" rewardItemValue="15" stepGroup="17" step="9"/>
+	<achievement id="1710" category="2" order="17" criteriaType="36" criteriaCondition="30,3" criteriaValue="5" rewardItemType="53" rewardItemValue="15" stepGroup="17" step="10"/>
+	<achievement id="1801" category="2" order="18" criteriaType="36" criteriaCondition="5,4" criteriaValue="5" rewardItemType="54" rewardItemValue="5" stepGroup="18" step="1"/>
+	<achievement id="1802" category="2" order="18" criteriaType="36" criteriaCondition="10,4" criteriaValue="5" rewardItemType="54" rewardItemValue="5" stepGroup="18" step="2"/>
+	<achievement id="1803" category="2" order="18" criteriaType="36" criteriaCondition="12,4" criteriaValue="5" rewardItemType="54" rewardItemValue="7" stepGroup="18" step="3"/>
+	<achievement id="1804" category="2" order="18" criteriaType="36" criteriaCondition="15,4" criteriaValue="5" rewardItemType="54" rewardItemValue="7" stepGroup="18" step="4"/>
+	<achievement id="1805" category="2" order="18" criteriaType="36" criteriaCondition="17,4" criteriaValue="5" rewardItemType="54" rewardItemValue="10" stepGroup="18" step="5"/>
+	<achievement id="1806" category="2" order="18" criteriaType="36" criteriaCondition="20,4" criteriaValue="5" rewardItemType="54" rewardItemValue="10" stepGroup="18" step="6"/>
+	<achievement id="1807" category="2" order="18" criteriaType="36" criteriaCondition="22,4" criteriaValue="5" rewardItemType="54" rewardItemValue="12" stepGroup="18" step="7"/>
+	<achievement id="1808" category="2" order="18" criteriaType="36" criteriaCondition="25,4" criteriaValue="5" rewardItemType="54" rewardItemValue="12" stepGroup="18" step="8"/>
+	<achievement id="1809" category="2" order="18" criteriaType="36" criteriaCondition="27,4" criteriaValue="5" rewardItemType="54" rewardItemValue="15" stepGroup="18" step="9"/>
+	<achievement id="1810" category="2" order="18" criteriaType="36" criteriaCondition="30,4" criteriaValue="5" rewardItemType="54" rewardItemValue="15" stepGroup="18" step="10"/>
+	<achievement id="1901" category="2" order="19" criteriaType="36" criteriaCondition="5,5" criteriaValue="5" rewardItemType="55" rewardItemValue="2" stepGroup="19" step="1"/>
+	<achievement id="1902" category="2" order="19" criteriaType="36" criteriaCondition="10,5" criteriaValue="5" rewardItemType="55" rewardItemValue="2" stepGroup="19" step="2"/>
+	<achievement id="1903" category="2" order="19" criteriaType="36" criteriaCondition="12,5" criteriaValue="5" rewardItemType="55" rewardItemValue="3" stepGroup="19" step="3"/>
+	<achievement id="1904" category="2" order="19" criteriaType="36" criteriaCondition="15,5" criteriaValue="5" rewardItemType="55" rewardItemValue="3" stepGroup="19" step="4"/>
+	<achievement id="1905" category="2" order="19" criteriaType="36" criteriaCondition="17,5" criteriaValue="5" rewardItemType="55" rewardItemValue="4" stepGroup="19" step="5"/>
+	<achievement id="1906" category="2" order="19" criteriaType="36" criteriaCondition="20,5" criteriaValue="5" rewardItemType="55" rewardItemValue="4" stepGroup="19" step="6"/>
+	<achievement id="1907" category="2" order="19" criteriaType="36" criteriaCondition="22,5" criteriaValue="5" rewardItemType="55" rewardItemValue="5" stepGroup="19" step="7"/>
+	<achievement id="1908" category="2" order="19" criteriaType="36" criteriaCondition="25,5" criteriaValue="5" rewardItemType="55" rewardItemValue="5" stepGroup="19" step="8"/>
+	<achievement id="1909" category="2" order="19" criteriaType="36" criteriaCondition="27,5" criteriaValue="5" rewardItemType="55" rewardItemValue="6" stepGroup="19" step="9"/>
+	<achievement id="1910" category="2" order="19" criteriaType="36" criteriaCondition="30,5" criteriaValue="5" rewardItemType="55" rewardItemValue="6" stepGroup="19" step="10"/>
+	<achievement id="2001" category="2" order="20" criteriaType="50" criteriaValue="200" rewardItemType="56" rewardItemValue="2" stepGroup="20" step="1"/>
+	<achievement id="2002" category="2" order="20" criteriaType="50" criteriaValue="300" rewardItemType="56" rewardItemValue="2" stepGroup="20" step="2"/>
+	<achievement id="2003" category="2" order="20" criteriaType="50" criteriaValue="500" rewardItemType="56" rewardItemValue="3" stepGroup="20" step="3"/>
+	<achievement id="2004" category="2" order="20" criteriaType="50" criteriaValue="700" rewardItemType="56" rewardItemValue="3" stepGroup="20" step="4"/>
+	<achievement id="2005" category="2" order="20" criteriaType="50" criteriaValue="1000" rewardItemType="56" rewardItemValue="4" stepGroup="20" step="5"/>
+	<achievement id="2006" category="2" order="20" criteriaType="50" criteriaValue="1500" rewardItemType="56" rewardItemValue="4" stepGroup="20" step="6"/>
+	<achievement id="2007" category="2" order="20" criteriaType="50" criteriaValue="2000" rewardItemType="56" rewardItemValue="5" stepGroup="20" step="7"/>
+	<achievement id="2008" category="2" order="20" criteriaType="50" criteriaValue="2500" rewardItemType="56" rewardItemValue="5" stepGroup="20" step="8"/>
+	<achievement id="2009" category="2" order="20" criteriaType="50" criteriaValue="3000" rewardItemType="56" rewardItemValue="6" stepGroup="20" step="9"/>
+	<achievement id="2010" category="2" order="20" criteriaType="50" criteriaValue="4000" rewardItemType="56" rewardItemValue="6" stepGroup="20" step="10"/>
+	<achievement id="2101" category="2" order="21" criteriaType="51" criteriaValue="20" rewardItemType="57" rewardItemValue="5" stepGroup="21" step="1"/>
+	<achievement id="2102" category="2" order="21" criteriaType="51" criteriaValue="25" rewardItemType="57" rewardItemValue="5" stepGroup="21" step="2"/>
+	<achievement id="2103" category="2" order="21" criteriaType="51" criteriaValue="30" rewardItemType="57" rewardItemValue="7" stepGroup="21" step="3"/>
+	<achievement id="2104" category="2" order="21" criteriaType="51" criteriaValue="35" rewardItemType="57" rewardItemValue="7" stepGroup="21" step="4"/>
+	<achievement id="2105" category="2" order="21" criteriaType="51" criteriaValue="40" rewardItemType="57" rewardItemValue="10" stepGroup="21" step="5"/>
+	<achievement id="2106" category="2" order="21" criteriaType="51" criteriaValue="50" rewardItemType="57" rewardItemValue="10" stepGroup="21" step="6"/>
+	<achievement id="2107" category="2" order="21" criteriaType="51" criteriaValue="60" rewardItemType="57" rewardItemValue="12" stepGroup="21" step="7"/>
+	<achievement id="2108" category="2" order="21" criteriaType="51" criteriaValue="70" rewardItemType="57" rewardItemValue="12" stepGroup="21" step="8"/>
+	<achievement id="2109" category="2" order="21" criteriaType="51" criteriaValue="85" rewardItemType="57" rewardItemValue="15" stepGroup="21" step="9"/>
+	<achievement id="2110" category="2" order="21" criteriaType="51" criteriaValue="100" rewardItemType="57" rewardItemValue="15" stepGroup="21" step="10"/>
+	<achievement id="2201" category="2" order="22" criteriaType="52" criteriaValue="50" rewardItemType="102" rewardItemValue="3" stepGroup="22" step="1"/>
+	<achievement id="2202" category="2" order="22" criteriaType="52" criteriaValue="70" rewardItemType="102" rewardItemValue="3" stepGroup="22" step="2"/>
+	<achievement id="2203" category="2" order="22" criteriaType="52" criteriaValue="100" rewardItemType="102" rewardItemValue="4" stepGroup="22" step="3"/>
+	<achievement id="2204" category="2" order="22" criteriaType="52" criteriaValue="150" rewardItemType="102" rewardItemValue="4" stepGroup="22" step="4"/>
+	<achievement id="2205" category="2" order="22" criteriaType="52" criteriaValue="200" rewardItemType="102" rewardItemValue="5" stepGroup="22" step="5"/>
+	<achievement id="2206" category="2" order="22" criteriaType="52" criteriaValue="250" rewardItemType="102" rewardItemValue="5" stepGroup="22" step="6"/>
+	<achievement id="2207" category="2" order="22" criteriaType="52" criteriaValue="300" rewardItemType="102" rewardItemValue="6" stepGroup="22" step="7"/>
+	<achievement id="2208" category="2" order="22" criteriaType="52" criteriaValue="400" rewardItemType="102" rewardItemValue="6" stepGroup="22" step="8"/>
+	<achievement id="2209" category="2" order="22" criteriaType="52" criteriaValue="500" rewardItemType="102" rewardItemValue="7" stepGroup="22" step="9"/>
+	<achievement id="2210" category="2" order="22" criteriaType="52" criteriaValue="700" rewardItemType="102" rewardItemValue="7" stepGroup="22" step="10"/>
+	<achievement id="2301" category="3" order="23" criteriaType="53" criteriaValue="100" rewardItemType="101" rewardItemValue="5" stepGroup="23" step="1"/>
+	<achievement id="2302" category="3" order="23" criteriaType="53" criteriaValue="150" rewardItemType="101" rewardItemValue="5" stepGroup="23" step="2"/>
+	<achievement id="2303" category="3" order="23" criteriaType="53" criteriaValue="200" rewardItemType="101" rewardItemValue="7" stepGroup="23" step="3"/>
+	<achievement id="2304" category="3" order="23" criteriaType="53" criteriaValue="300" rewardItemType="101" rewardItemValue="7" stepGroup="23" step="4"/>
+	<achievement id="2305" category="3" order="23" criteriaType="53" criteriaValue="400" rewardItemType="101" rewardItemValue="10" stepGroup="23" step="5"/>
+	<achievement id="2306" category="3" order="23" criteriaType="53" criteriaValue="600" rewardItemType="101" rewardItemValue="10" stepGroup="23" step="6"/>
+	<achievement id="2307" category="3" order="23" criteriaType="53" criteriaValue="800" rewardItemType="101" rewardItemValue="12" stepGroup="23" step="7"/>
+	<achievement id="2308" category="3" order="23" criteriaType="53" criteriaValue="1000" rewardItemType="101" rewardItemValue="12" stepGroup="23" step="8"/>
+	<achievement id="2309" category="3" order="23" criteriaType="53" criteriaValue="1500" rewardItemType="101" rewardItemValue="15" stepGroup="23" step="9"/>
+	<achievement id="2310" category="3" order="23" criteriaType="53" criteriaValue="2000" rewardItemType="101" rewardItemValue="15" stepGroup="23" step="10"/>
+	<achievement id="2401" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="50" rewardItemType="131" rewardItemValue="1152" stepGroup="24" step="1"/>
+	<achievement id="2402" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="75" rewardItemType="131" rewardItemValue="1440" stepGroup="24" step="2"/>
+	<achievement id="2403" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="100" rewardItemType="131" rewardItemValue="2016" stepGroup="24" step="3"/>
+	<achievement id="2404" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="125" rewardItemType="131" rewardItemValue="2304" stepGroup="24" step="4"/>
+	<achievement id="2405" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="150" rewardItemType="131" rewardItemValue="3168" stepGroup="24" step="5"/>
+	<achievement id="2406" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="175" rewardItemType="131" rewardItemValue="4608" stepGroup="24" step="6"/>
+	<achievement id="2407" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="200" rewardItemType="131" rewardItemValue="6336" stepGroup="24" step="7"/>
+	<achievement id="2408" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="225" rewardItemType="131" rewardItemValue="9216" stepGroup="24" step="8"/>
+	<achievement id="2409" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="250" rewardItemType="131" rewardItemValue="13248" stepGroup="24" step="9"/>
+	<achievement id="2410" category="3" order="24" criteriaType="56" criteriaCondition="0" criteriaValue="300" rewardItemType="131" rewardItemValue="16128" stepGroup="24" step="10"/>
+	<achievement id="2501" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="10" rewardItemType="132" rewardItemValue="1152" stepGroup="25" step="1"/>
+	<achievement id="2502" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="15" rewardItemType="132" rewardItemValue="1440" stepGroup="25" step="2"/>
+	<achievement id="2503" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="20" rewardItemType="132" rewardItemValue="2016" stepGroup="25" step="3"/>
+	<achievement id="2504" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="25" rewardItemType="132" rewardItemValue="2304" stepGroup="25" step="4"/>
+	<achievement id="2505" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="30" rewardItemType="132" rewardItemValue="3168" stepGroup="25" step="5"/>
+	<achievement id="2506" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="35" rewardItemType="132" rewardItemValue="4608" stepGroup="25" step="6"/>
+	<achievement id="2507" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="40" rewardItemType="132" rewardItemValue="6336" stepGroup="25" step="7"/>
+	<achievement id="2508" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="45" rewardItemType="132" rewardItemValue="9216" stepGroup="25" step="8"/>
+	<achievement id="2509" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="50" rewardItemType="132" rewardItemValue="13248" stepGroup="25" step="9"/>
+	<achievement id="2510" category="3" order="25" criteriaType="57" criteriaCondition="1" criteriaValue="60" rewardItemType="132" rewardItemValue="16128" stepGroup="25" step="10"/>
+	<achievement id="2601" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="10" rewardItemType="133" rewardItemValue="1152" stepGroup="26" step="1"/>
+	<achievement id="2602" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="15" rewardItemType="133" rewardItemValue="1440" stepGroup="26" step="2"/>
+	<achievement id="2603" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="20" rewardItemType="133" rewardItemValue="2016" stepGroup="26" step="3"/>
+	<achievement id="2604" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="25" rewardItemType="133" rewardItemValue="2304" stepGroup="26" step="4"/>
+	<achievement id="2605" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="30" rewardItemType="133" rewardItemValue="3168" stepGroup="26" step="5"/>
+	<achievement id="2606" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="35" rewardItemType="133" rewardItemValue="4608" stepGroup="26" step="6"/>
+	<achievement id="2607" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="40" rewardItemType="133" rewardItemValue="6336" stepGroup="26" step="7"/>
+	<achievement id="2608" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="45" rewardItemType="133" rewardItemValue="9216" stepGroup="26" step="8"/>
+	<achievement id="2609" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="50" rewardItemType="133" rewardItemValue="13248" stepGroup="26" step="9"/>
+	<achievement id="2610" category="3" order="26" criteriaType="58" criteriaCondition="2" criteriaValue="60" rewardItemType="133" rewardItemValue="16128" stepGroup="26" step="10"/>
+	<achievement id="2701" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="10" rewardItemType="134" rewardItemValue="1152" stepGroup="27" step="1"/>
+	<achievement id="2702" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="15" rewardItemType="134" rewardItemValue="1440" stepGroup="27" step="2"/>
+	<achievement id="2703" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="20" rewardItemType="134" rewardItemValue="2016" stepGroup="27" step="3"/>
+	<achievement id="2704" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="25" rewardItemType="134" rewardItemValue="2304" stepGroup="27" step="4"/>
+	<achievement id="2705" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="30" rewardItemType="134" rewardItemValue="3168" stepGroup="27" step="5"/>
+	<achievement id="2706" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="35" rewardItemType="134" rewardItemValue="4608" stepGroup="27" step="6"/>
+	<achievement id="2707" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="40" rewardItemType="134" rewardItemValue="6336" stepGroup="27" step="7"/>
+	<achievement id="2708" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="45" rewardItemType="134" rewardItemValue="9216" stepGroup="27" step="8"/>
+	<achievement id="2709" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="50" rewardItemType="134" rewardItemValue="13248" stepGroup="27" step="9"/>
+	<achievement id="2710" category="3" order="27" criteriaType="59" criteriaCondition="3" criteriaValue="60" rewardItemType="134" rewardItemValue="16128" stepGroup="27" step="10"/>
+	<achievement id="2801" category="3" order="28" criteriaType="65" criteriaValue="500" rewardItemType="135" rewardItemValue="1152" stepGroup="28" step="1"/>
+	<achievement id="2802" category="3" order="28" criteriaType="65" criteriaValue="700" rewardItemType="135" rewardItemValue="1440" stepGroup="28" step="2"/>
+	<achievement id="2803" category="3" order="28" criteriaType="65" criteriaValue="1000" rewardItemType="135" rewardItemValue="2016" stepGroup="28" step="3"/>
+	<achievement id="2804" category="3" order="28" criteriaType="65" criteriaValue="1200" rewardItemType="135" rewardItemValue="2304" stepGroup="28" step="4"/>
+	<achievement id="2805" category="3" order="28" criteriaType="65" criteriaValue="1500" rewardItemType="135" rewardItemValue="3168" stepGroup="28" step="5"/>
+	<achievement id="2806" category="3" order="28" criteriaType="65" criteriaValue="2000" rewardItemType="135" rewardItemValue="4608" stepGroup="28" step="6"/>
+	<achievement id="2807" category="3" order="28" criteriaType="65" criteriaValue="2500" rewardItemType="135" rewardItemValue="6336" stepGroup="28" step="7"/>
+	<achievement id="2808" category="3" order="28" criteriaType="65" criteriaValue="3000" rewardItemType="135" rewardItemValue="9216" stepGroup="28" step="8"/>
+	<achievement id="2809" category="3" order="28" criteriaType="65" criteriaValue="4000" rewardItemType="135" rewardItemValue="13248" stepGroup="28" step="9"/>
+	<achievement id="2810" category="3" order="28" criteriaType="65" criteriaValue="5000" rewardItemType="135" rewardItemValue="16128" stepGroup="28" step="10"/>
+	<achievement id="2901" category="3" order="29" criteriaType="67" criteriaValue="1000" rewardItemType="101" rewardItemValue="5" stepGroup="29" step="1"/>
+	<achievement id="2902" category="3" order="29" criteriaType="67" criteriaValue="1500" rewardItemType="101" rewardItemValue="5" stepGroup="29" step="2"/>
+	<achievement id="2903" category="3" order="29" criteriaType="67" criteriaValue="2000" rewardItemType="101" rewardItemValue="7" stepGroup="29" step="3"/>
+	<achievement id="2904" category="3" order="29" criteriaType="67" criteriaValue="3000" rewardItemType="101" rewardItemValue="7" stepGroup="29" step="4"/>
+	<achievement id="2905" category="3" order="29" criteriaType="67" criteriaValue="5000" rewardItemType="101" rewardItemValue="10" stepGroup="29" step="5"/>
+	<achievement id="2906" category="3" order="29" criteriaType="67" criteriaValue="7000" rewardItemType="101" rewardItemValue="10" stepGroup="29" step="6"/>
+	<achievement id="2907" category="3" order="29" criteriaType="67" criteriaValue="10000" rewardItemType="101" rewardItemValue="12" stepGroup="29" step="7"/>
+	<achievement id="2908" category="3" order="29" criteriaType="67" criteriaValue="15000" rewardItemType="101" rewardItemValue="12" stepGroup="29" step="8"/>
+	<achievement id="2909" category="3" order="29" criteriaType="67" criteriaValue="20000" rewardItemType="101" rewardItemValue="15" stepGroup="29" step="9"/>
+	<achievement id="2910" category="3" order="29" criteriaType="67" criteriaValue="30000" rewardItemType="101" rewardItemValue="15" stepGroup="29" step="10"/>
+	<achievement id="3001" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="500" rewardItemType="121" rewardItemValue="1152" stepGroup="30" step="1"/>
+	<achievement id="3002" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="700" rewardItemType="121" rewardItemValue="1440" stepGroup="30" step="2"/>
+	<achievement id="3003" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="1000" rewardItemType="121" rewardItemValue="2016" stepGroup="30" step="3"/>
+	<achievement id="3004" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="1500" rewardItemType="121" rewardItemValue="2304" stepGroup="30" step="4"/>
+	<achievement id="3005" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="2000" rewardItemType="121" rewardItemValue="3168" stepGroup="30" step="5"/>
+	<achievement id="3006" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="3000" rewardItemType="121" rewardItemValue="4608" stepGroup="30" step="6"/>
+	<achievement id="3007" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="5000" rewardItemType="121" rewardItemValue="6336" stepGroup="30" step="7"/>
+	<achievement id="3008" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="7000" rewardItemType="121" rewardItemValue="9216" stepGroup="30" step="8"/>
+	<achievement id="3009" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="10000" rewardItemType="121" rewardItemValue="13248" stepGroup="30" step="9"/>
+	<achievement id="3010" category="3" order="30" criteriaType="68" criteriaCondition="1" criteriaValue="15000" rewardItemType="121" rewardItemValue="16128" stepGroup="30" step="10"/>
+	<achievement id="3101" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="500" rewardItemType="122" rewardItemValue="1152" stepGroup="31" step="1"/>
+	<achievement id="3102" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="700" rewardItemType="122" rewardItemValue="1440" stepGroup="31" step="2"/>
+	<achievement id="3103" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="1000" rewardItemType="122" rewardItemValue="2016" stepGroup="31" step="3"/>
+	<achievement id="3104" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="1500" rewardItemType="122" rewardItemValue="2304" stepGroup="31" step="4"/>
+	<achievement id="3105" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="2000" rewardItemType="122" rewardItemValue="3168" stepGroup="31" step="5"/>
+	<achievement id="3106" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="3000" rewardItemType="122" rewardItemValue="4608" stepGroup="31" step="6"/>
+	<achievement id="3107" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="5000" rewardItemType="122" rewardItemValue="6336" stepGroup="31" step="7"/>
+	<achievement id="3108" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="7000" rewardItemType="122" rewardItemValue="9216" stepGroup="31" step="8"/>
+	<achievement id="3109" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="10000" rewardItemType="122" rewardItemValue="13248" stepGroup="31" step="9"/>
+	<achievement id="3110" category="3" order="31" criteriaType="68" criteriaCondition="2" criteriaValue="15000" rewardItemType="122" rewardItemValue="16128" stepGroup="31" step="10"/>
+	<achievement id="3201" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="500" rewardItemType="123" rewardItemValue="1152" stepGroup="32" step="1"/>
+	<achievement id="3202" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="700" rewardItemType="123" rewardItemValue="1440" stepGroup="32" step="2"/>
+	<achievement id="3203" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="1000" rewardItemType="123" rewardItemValue="2016" stepGroup="32" step="3"/>
+	<achievement id="3204" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="1500" rewardItemType="123" rewardItemValue="2304" stepGroup="32" step="4"/>
+	<achievement id="3205" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="2000" rewardItemType="123" rewardItemValue="3168" stepGroup="32" step="5"/>
+	<achievement id="3206" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="3000" rewardItemType="123" rewardItemValue="4608" stepGroup="32" step="6"/>
+	<achievement id="3207" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="5000" rewardItemType="123" rewardItemValue="6336" stepGroup="32" step="7"/>
+	<achievement id="3208" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="7000" rewardItemType="123" rewardItemValue="9216" stepGroup="32" step="8"/>
+	<achievement id="3209" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="10000" rewardItemType="123" rewardItemValue="13248" stepGroup="32" step="9"/>
+	<achievement id="3210" category="3" order="32" criteriaType="68" criteriaCondition="3" criteriaValue="15000" rewardItemType="123" rewardItemValue="16128" stepGroup="32" step="10"/>
+	<achievement id="3301" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="500" rewardItemType="124" rewardItemValue="1152" stepGroup="33" step="1"/>
+	<achievement id="3302" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="700" rewardItemType="124" rewardItemValue="1440" stepGroup="33" step="2"/>
+	<achievement id="3303" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="1000" rewardItemType="124" rewardItemValue="2016" stepGroup="33" step="3"/>
+	<achievement id="3304" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="1500" rewardItemType="124" rewardItemValue="2304" stepGroup="33" step="4"/>
+	<achievement id="3305" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="2000" rewardItemType="124" rewardItemValue="3168" stepGroup="33" step="5"/>
+	<achievement id="3306" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="3000" rewardItemType="124" rewardItemValue="4608" stepGroup="33" step="6"/>
+	<achievement id="3307" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="5000" rewardItemType="124" rewardItemValue="6336" stepGroup="33" step="7"/>
+	<achievement id="3308" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="7000" rewardItemType="124" rewardItemValue="9216" stepGroup="33" step="8"/>
+	<achievement id="3309" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="10000" rewardItemType="124" rewardItemValue="13248" stepGroup="33" step="9"/>
+	<achievement id="3310" category="3" order="33" criteriaType="68" criteriaCondition="4" criteriaValue="15000" rewardItemType="124" rewardItemValue="16128" stepGroup="33" step="10"/>
+	<achievement id="3401" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="500" rewardItemType="125" rewardItemValue="1152" stepGroup="34" step="1"/>
+	<achievement id="3402" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="700" rewardItemType="125" rewardItemValue="1440" stepGroup="34" step="2"/>
+	<achievement id="3403" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="1000" rewardItemType="125" rewardItemValue="2016" stepGroup="34" step="3"/>
+	<achievement id="3404" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="1500" rewardItemType="125" rewardItemValue="2304" stepGroup="34" step="4"/>
+	<achievement id="3405" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="2000" rewardItemType="125" rewardItemValue="3168" stepGroup="34" step="5"/>
+	<achievement id="3406" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="3000" rewardItemType="125" rewardItemValue="4608" stepGroup="34" step="6"/>
+	<achievement id="3407" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="5000" rewardItemType="125" rewardItemValue="6336" stepGroup="34" step="7"/>
+	<achievement id="3408" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="7000" rewardItemType="125" rewardItemValue="9216" stepGroup="34" step="8"/>
+	<achievement id="3409" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="10000" rewardItemType="125" rewardItemValue="13248" stepGroup="34" step="9"/>
+	<achievement id="3410" category="3" order="34" criteriaType="68" criteriaCondition="5" criteriaValue="15000" rewardItemType="125" rewardItemValue="16128" stepGroup="34" step="10"/>
+	<achievement id="3501" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="500" rewardItemType="131" rewardItemValue="1152" stepGroup="35" step="1"/>
+	<achievement id="3502" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="700" rewardItemType="131" rewardItemValue="1440" stepGroup="35" step="2"/>
+	<achievement id="3503" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="1000" rewardItemType="131" rewardItemValue="2016" stepGroup="35" step="3"/>
+	<achievement id="3504" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="1500" rewardItemType="131" rewardItemValue="2304" stepGroup="35" step="4"/>
+	<achievement id="3505" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="2000" rewardItemType="131" rewardItemValue="3168" stepGroup="35" step="5"/>
+	<achievement id="3506" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="3000" rewardItemType="131" rewardItemValue="4608" stepGroup="35" step="6"/>
+	<achievement id="3507" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="5000" rewardItemType="131" rewardItemValue="6336" stepGroup="35" step="7"/>
+	<achievement id="3508" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="7000" rewardItemType="131" rewardItemValue="9216" stepGroup="35" step="8"/>
+	<achievement id="3509" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="10000" rewardItemType="131" rewardItemValue="13248" stepGroup="35" step="9"/>
+	<achievement id="3510" category="3" order="35" criteriaType="69" criteriaCondition="1" criteriaValue="15000" rewardItemType="131" rewardItemValue="16128" stepGroup="35" step="10"/>
+	<achievement id="3601" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="500" rewardItemType="132" rewardItemValue="1152" stepGroup="36" step="1"/>
+	<achievement id="3602" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="700" rewardItemType="132" rewardItemValue="1440" stepGroup="36" step="2"/>
+	<achievement id="3603" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="1000" rewardItemType="132" rewardItemValue="2016" stepGroup="36" step="3"/>
+	<achievement id="3604" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="1500" rewardItemType="132" rewardItemValue="2304" stepGroup="36" step="4"/>
+	<achievement id="3605" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="2000" rewardItemType="132" rewardItemValue="3168" stepGroup="36" step="5"/>
+	<achievement id="3606" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="3000" rewardItemType="132" rewardItemValue="4608" stepGroup="36" step="6"/>
+	<achievement id="3607" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="5000" rewardItemType="132" rewardItemValue="6336" stepGroup="36" step="7"/>
+	<achievement id="3608" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="7000" rewardItemType="132" rewardItemValue="9216" stepGroup="36" step="8"/>
+	<achievement id="3609" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="10000" rewardItemType="132" rewardItemValue="13248" stepGroup="36" step="9"/>
+	<achievement id="3610" category="3" order="36" criteriaType="69" criteriaCondition="2" criteriaValue="15000" rewardItemType="132" rewardItemValue="16128" stepGroup="36" step="10"/>
+	<achievement id="3701" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="500" rewardItemType="133" rewardItemValue="1152" stepGroup="37" step="1"/>
+	<achievement id="3702" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="700" rewardItemType="133" rewardItemValue="1440" stepGroup="37" step="2"/>
+	<achievement id="3703" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="1000" rewardItemType="133" rewardItemValue="2016" stepGroup="37" step="3"/>
+	<achievement id="3704" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="1500" rewardItemType="133" rewardItemValue="2304" stepGroup="37" step="4"/>
+	<achievement id="3705" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="2000" rewardItemType="133" rewardItemValue="3168" stepGroup="37" step="5"/>
+	<achievement id="3706" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="3000" rewardItemType="133" rewardItemValue="4608" stepGroup="37" step="6"/>
+	<achievement id="3707" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="5000" rewardItemType="133" rewardItemValue="6336" stepGroup="37" step="7"/>
+	<achievement id="3708" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="7000" rewardItemType="133" rewardItemValue="9216" stepGroup="37" step="8"/>
+	<achievement id="3709" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="10000" rewardItemType="133" rewardItemValue="13248" stepGroup="37" step="9"/>
+	<achievement id="3710" category="3" order="37" criteriaType="69" criteriaCondition="3" criteriaValue="15000" rewardItemType="133" rewardItemValue="16128" stepGroup="37" step="10"/>
+	<achievement id="3801" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="500" rewardItemType="134" rewardItemValue="1152" stepGroup="38" step="1"/>
+	<achievement id="3802" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="700" rewardItemType="134" rewardItemValue="1440" stepGroup="38" step="2"/>
+	<achievement id="3803" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="1000" rewardItemType="134" rewardItemValue="2016" stepGroup="38" step="3"/>
+	<achievement id="3804" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="1500" rewardItemType="134" rewardItemValue="2304" stepGroup="38" step="4"/>
+	<achievement id="3805" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="2000" rewardItemType="134" rewardItemValue="3168" stepGroup="38" step="5"/>
+	<achievement id="3806" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="3000" rewardItemType="134" rewardItemValue="4608" stepGroup="38" step="6"/>
+	<achievement id="3807" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="5000" rewardItemType="134" rewardItemValue="6336" stepGroup="38" step="7"/>
+	<achievement id="3808" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="7000" rewardItemType="134" rewardItemValue="9216" stepGroup="38" step="8"/>
+	<achievement id="3809" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="10000" rewardItemType="134" rewardItemValue="13248" stepGroup="38" step="9"/>
+	<achievement id="3810" category="3" order="38" criteriaType="69" criteriaCondition="4" criteriaValue="15000" rewardItemType="134" rewardItemValue="16128" stepGroup="38" step="10"/>
+	<achievement id="3901" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="500" rewardItemType="135" rewardItemValue="1152" stepGroup="39" step="1"/>
+	<achievement id="3902" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="700" rewardItemType="135" rewardItemValue="1440" stepGroup="39" step="2"/>
+	<achievement id="3903" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="1000" rewardItemType="135" rewardItemValue="2016" stepGroup="39" step="3"/>
+	<achievement id="3904" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="1500" rewardItemType="135" rewardItemValue="2304" stepGroup="39" step="4"/>
+	<achievement id="3905" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="2000" rewardItemType="135" rewardItemValue="3168" stepGroup="39" step="5"/>
+	<achievement id="3906" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="3000" rewardItemType="135" rewardItemValue="4608" stepGroup="39" step="6"/>
+	<achievement id="3907" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="5000" rewardItemType="135" rewardItemValue="6336" stepGroup="39" step="7"/>
+	<achievement id="3908" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="7000" rewardItemType="135" rewardItemValue="9216" stepGroup="39" step="8"/>
+	<achievement id="3909" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="10000" rewardItemType="135" rewardItemValue="13248" stepGroup="39" step="9"/>
+	<achievement id="3910" category="3" order="39" criteriaType="69" criteriaCondition="5" criteriaValue="15000" rewardItemType="135" rewardItemValue="16128" stepGroup="39" step="10"/>
+	<achievement id="4001" category="3" order="40" criteriaType="72" criteriaValue="1000" rewardItemType="1" rewardItemValue="5760" stepGroup="40" step="1"/>
+	<achievement id="4002" category="3" order="40" criteriaType="72" criteriaValue="1500" rewardItemType="1" rewardItemValue="7200" stepGroup="40" step="2"/>
+	<achievement id="4003" category="3" order="40" criteriaType="72" criteriaValue="2000" rewardItemType="1" rewardItemValue="10080" stepGroup="40" step="3"/>
+	<achievement id="4004" category="3" order="40" criteriaType="72" criteriaValue="3000" rewardItemType="1" rewardItemValue="11520" stepGroup="40" step="4"/>
+	<achievement id="4005" category="3" order="40" criteriaType="72" criteriaValue="5000" rewardItemType="1" rewardItemValue="15840" stepGroup="40" step="5"/>
+	<achievement id="4006" category="3" order="40" criteriaType="72" criteriaValue="10000" rewardItemType="1" rewardItemValue="23040" stepGroup="40" step="6"/>
+	<achievement id="4007" category="3" order="40" criteriaType="72" criteriaValue="20000" rewardItemType="1" rewardItemValue="31680" stepGroup="40" step="7"/>
+	<achievement id="4008" category="3" order="40" criteriaType="72" criteriaValue="40000" rewardItemType="1" rewardItemValue="46080" stepGroup="40" step="8"/>
+	<achievement id="4009" category="3" order="40" criteriaType="72" criteriaValue="70000" rewardItemType="1" rewardItemValue="66240" stepGroup="40" step="9"/>
+	<achievement id="4010" category="3" order="40" criteriaType="72" criteriaValue="100000" rewardItemType="1" rewardItemValue="80640" stepGroup="40" step="10"/>
+	<achievement id="4101" category="2" order="41" criteriaType="73" criteriaValue="40" rewardItemType="2" rewardItemValue="100" stepGroup="41" step="1"/>
+	<achievement id="4102" category="2" order="41" criteriaType="73" criteriaValue="45" rewardItemType="2" rewardItemValue="100" stepGroup="41" step="2"/>
+	<achievement id="4103" category="2" order="41" criteriaType="73" criteriaValue="50" rewardItemType="2" rewardItemValue="150" stepGroup="41" step="3"/>
+	<achievement id="4104" category="2" order="41" criteriaType="73" criteriaValue="60" rewardItemType="2" rewardItemValue="150" stepGroup="41" step="4"/>
+	<achievement id="4105" category="2" order="41" criteriaType="73" criteriaValue="70" rewardItemType="2" rewardItemValue="200" stepGroup="41" step="5"/>
+	<achievement id="4106" category="2" order="41" criteriaType="73" criteriaValue="80" rewardItemType="2" rewardItemValue="200" stepGroup="41" step="6"/>
+	<achievement id="4107" category="2" order="41" criteriaType="73" criteriaValue="100" rewardItemType="2" rewardItemValue="250" stepGroup="41" step="7"/>
+	<achievement id="4108" category="2" order="41" criteriaType="73" criteriaValue="120" rewardItemType="2" rewardItemValue="250" stepGroup="41" step="8"/>
+	<achievement id="4109" category="2" order="41" criteriaType="73" criteriaValue="140" rewardItemType="2" rewardItemValue="300" stepGroup="41" step="9"/>
+	<achievement id="4110" category="2" order="41" criteriaType="73" criteriaValue="160" rewardItemType="2" rewardItemValue="300" stepGroup="41" step="10"/>
+	<achievement id="4201" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="20" rewardItemType="121" rewardItemValue="1152" stepGroup="42" step="1"/>
+	<achievement id="4202" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="22" rewardItemType="121" rewardItemValue="1440" stepGroup="42" step="2"/>
+	<achievement id="4203" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="24" rewardItemType="121" rewardItemValue="2016" stepGroup="42" step="3"/>
+	<achievement id="4204" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="26" rewardItemType="121" rewardItemValue="2304" stepGroup="42" step="4"/>
+	<achievement id="4205" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="28" rewardItemType="121" rewardItemValue="3168" stepGroup="42" step="5"/>
+	<achievement id="4206" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="30" rewardItemType="121" rewardItemValue="4608" stepGroup="42" step="6"/>
+	<achievement id="4207" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="32" rewardItemType="121" rewardItemValue="6336" stepGroup="42" step="7"/>
+	<achievement id="4208" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="34" rewardItemType="121" rewardItemValue="9216" stepGroup="42" step="8"/>
+	<achievement id="4209" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="37" rewardItemType="121" rewardItemValue="13248" stepGroup="42" step="9"/>
+	<achievement id="4210" category="2" order="42" criteriaType="74" criteriaCondition="1" criteriaValue="40" rewardItemType="121" rewardItemValue="16128" stepGroup="42" step="10"/>
+	<achievement id="4301" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="20" rewardItemType="122" rewardItemValue="1152" stepGroup="43" step="1"/>
+	<achievement id="4302" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="22" rewardItemType="122" rewardItemValue="1440" stepGroup="43" step="2"/>
+	<achievement id="4303" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="24" rewardItemType="122" rewardItemValue="2016" stepGroup="43" step="3"/>
+	<achievement id="4304" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="26" rewardItemType="122" rewardItemValue="2304" stepGroup="43" step="4"/>
+	<achievement id="4305" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="28" rewardItemType="122" rewardItemValue="3168" stepGroup="43" step="5"/>
+	<achievement id="4306" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="30" rewardItemType="122" rewardItemValue="4608" stepGroup="43" step="6"/>
+	<achievement id="4307" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="32" rewardItemType="122" rewardItemValue="6336" stepGroup="43" step="7"/>
+	<achievement id="4308" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="34" rewardItemType="122" rewardItemValue="9216" stepGroup="43" step="8"/>
+	<achievement id="4309" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="37" rewardItemType="122" rewardItemValue="13248" stepGroup="43" step="9"/>
+	<achievement id="4310" category="2" order="43" criteriaType="74" criteriaCondition="2" criteriaValue="40" rewardItemType="122" rewardItemValue="16128" stepGroup="43" step="10"/>
+	<achievement id="4401" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="20" rewardItemType="123" rewardItemValue="1152" stepGroup="44" step="1"/>
+	<achievement id="4402" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="22" rewardItemType="123" rewardItemValue="1440" stepGroup="44" step="2"/>
+	<achievement id="4403" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="24" rewardItemType="123" rewardItemValue="2016" stepGroup="44" step="3"/>
+	<achievement id="4404" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="26" rewardItemType="123" rewardItemValue="2304" stepGroup="44" step="4"/>
+	<achievement id="4405" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="28" rewardItemType="123" rewardItemValue="3168" stepGroup="44" step="5"/>
+	<achievement id="4406" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="30" rewardItemType="123" rewardItemValue="4608" stepGroup="44" step="6"/>
+	<achievement id="4407" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="32" rewardItemType="123" rewardItemValue="6336" stepGroup="44" step="7"/>
+	<achievement id="4408" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="34" rewardItemType="123" rewardItemValue="9216" stepGroup="44" step="8"/>
+	<achievement id="4409" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="37" rewardItemType="123" rewardItemValue="13248" stepGroup="44" step="9"/>
+	<achievement id="4410" category="2" order="44" criteriaType="74" criteriaCondition="3" criteriaValue="40" rewardItemType="123" rewardItemValue="16128" stepGroup="44" step="10"/>
+	<achievement id="4501" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="20" rewardItemType="124" rewardItemValue="1152" stepGroup="45" step="1"/>
+	<achievement id="4502" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="22" rewardItemType="124" rewardItemValue="1440" stepGroup="45" step="2"/>
+	<achievement id="4503" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="24" rewardItemType="124" rewardItemValue="2016" stepGroup="45" step="3"/>
+	<achievement id="4504" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="26" rewardItemType="124" rewardItemValue="2304" stepGroup="45" step="4"/>
+	<achievement id="4505" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="28" rewardItemType="124" rewardItemValue="3168" stepGroup="45" step="5"/>
+	<achievement id="4506" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="30" rewardItemType="124" rewardItemValue="4608" stepGroup="45" step="6"/>
+	<achievement id="4507" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="32" rewardItemType="124" rewardItemValue="6336" stepGroup="45" step="7"/>
+	<achievement id="4508" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="34" rewardItemType="124" rewardItemValue="9216" stepGroup="45" step="8"/>
+	<achievement id="4509" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="37" rewardItemType="124" rewardItemValue="13248" stepGroup="45" step="9"/>
+	<achievement id="4510" category="2" order="45" criteriaType="74" criteriaCondition="4" criteriaValue="40" rewardItemType="124" rewardItemValue="16128" stepGroup="45" step="10"/>
+	<achievement id="4601" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="20" rewardItemType="125" rewardItemValue="1152" stepGroup="46" step="1"/>
+	<achievement id="4602" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="22" rewardItemType="125" rewardItemValue="1440" stepGroup="46" step="2"/>
+	<achievement id="4603" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="24" rewardItemType="125" rewardItemValue="2016" stepGroup="46" step="3"/>
+	<achievement id="4604" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="26" rewardItemType="125" rewardItemValue="2304" stepGroup="46" step="4"/>
+	<achievement id="4605" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="28" rewardItemType="125" rewardItemValue="3168" stepGroup="46" step="5"/>
+	<achievement id="4606" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="30" rewardItemType="125" rewardItemValue="4608" stepGroup="46" step="6"/>
+	<achievement id="4607" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="32" rewardItemType="125" rewardItemValue="6336" stepGroup="46" step="7"/>
+	<achievement id="4608" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="34" rewardItemType="125" rewardItemValue="9216" stepGroup="46" step="8"/>
+	<achievement id="4609" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="37" rewardItemType="125" rewardItemValue="13248" stepGroup="46" step="9"/>
+	<achievement id="4610" category="2" order="46" criteriaType="74" criteriaCondition="5" criteriaValue="40" rewardItemType="125" rewardItemValue="16128" stepGroup="46" step="10"/>
+	<achievement id="4701" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="20" rewardItemType="111" rewardItemValue="1" stepGroup="47" step="1"/>
+	<achievement id="4702" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="22" rewardItemType="111" rewardItemValue="1" stepGroup="47" step="2"/>
+	<achievement id="4703" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="24" rewardItemType="111" rewardItemValue="1" stepGroup="47" step="3"/>
+	<achievement id="4704" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="26" rewardItemType="111" rewardItemValue="2" stepGroup="47" step="4"/>
+	<achievement id="4705" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="28" rewardItemType="111" rewardItemValue="2" stepGroup="47" step="5"/>
+	<achievement id="4706" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="30" rewardItemType="111" rewardItemValue="2" stepGroup="47" step="6"/>
+	<achievement id="4707" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="32" rewardItemType="111" rewardItemValue="3" stepGroup="47" step="7"/>
+	<achievement id="4708" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="34" rewardItemType="111" rewardItemValue="3" stepGroup="47" step="8"/>
+	<achievement id="4709" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="37" rewardItemType="111" rewardItemValue="3" stepGroup="47" step="9"/>
+	<achievement id="4710" category="2" order="47" criteriaType="75" criteriaCondition="1" criteriaValue="40" rewardItemType="111" rewardItemValue="4" stepGroup="47" step="10"/>
+	<achievement id="4801" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="20" rewardItemType="112" rewardItemValue="1" stepGroup="48" step="1"/>
+	<achievement id="4802" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="22" rewardItemType="112" rewardItemValue="1" stepGroup="48" step="2"/>
+	<achievement id="4803" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="24" rewardItemType="112" rewardItemValue="1" stepGroup="48" step="3"/>
+	<achievement id="4804" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="26" rewardItemType="112" rewardItemValue="2" stepGroup="48" step="4"/>
+	<achievement id="4805" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="28" rewardItemType="112" rewardItemValue="2" stepGroup="48" step="5"/>
+	<achievement id="4806" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="30" rewardItemType="112" rewardItemValue="2" stepGroup="48" step="6"/>
+	<achievement id="4807" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="32" rewardItemType="112" rewardItemValue="3" stepGroup="48" step="7"/>
+	<achievement id="4808" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="34" rewardItemType="112" rewardItemValue="3" stepGroup="48" step="8"/>
+	<achievement id="4809" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="37" rewardItemType="112" rewardItemValue="3" stepGroup="48" step="9"/>
+	<achievement id="4810" category="2" order="48" criteriaType="75" criteriaCondition="2" criteriaValue="40" rewardItemType="112" rewardItemValue="4" stepGroup="48" step="10"/>
+	<achievement id="4901" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="20" rewardItemType="113" rewardItemValue="1" stepGroup="49" step="1"/>
+	<achievement id="4902" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="22" rewardItemType="113" rewardItemValue="1" stepGroup="49" step="2"/>
+	<achievement id="4903" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="24" rewardItemType="113" rewardItemValue="1" stepGroup="49" step="3"/>
+	<achievement id="4904" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="26" rewardItemType="113" rewardItemValue="2" stepGroup="49" step="4"/>
+	<achievement id="4905" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="28" rewardItemType="113" rewardItemValue="2" stepGroup="49" step="5"/>
+	<achievement id="4906" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="30" rewardItemType="113" rewardItemValue="2" stepGroup="49" step="6"/>
+	<achievement id="4907" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="32" rewardItemType="113" rewardItemValue="3" stepGroup="49" step="7"/>
+	<achievement id="4908" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="34" rewardItemType="113" rewardItemValue="3" stepGroup="49" step="8"/>
+	<achievement id="4909" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="37" rewardItemType="113" rewardItemValue="3" stepGroup="49" step="9"/>
+	<achievement id="4910" category="2" order="49" criteriaType="75" criteriaCondition="3" criteriaValue="40" rewardItemType="113" rewardItemValue="4" stepGroup="49" step="10"/>
+	<achievement id="5001" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="20" rewardItemType="114" rewardItemValue="1" stepGroup="50" step="1"/>
+	<achievement id="5002" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="22" rewardItemType="114" rewardItemValue="1" stepGroup="50" step="2"/>
+	<achievement id="5003" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="24" rewardItemType="114" rewardItemValue="1" stepGroup="50" step="3"/>
+	<achievement id="5004" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="26" rewardItemType="114" rewardItemValue="2" stepGroup="50" step="4"/>
+	<achievement id="5005" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="28" rewardItemType="114" rewardItemValue="2" stepGroup="50" step="5"/>
+	<achievement id="5006" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="30" rewardItemType="114" rewardItemValue="2" stepGroup="50" step="6"/>
+	<achievement id="5007" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="32" rewardItemType="114" rewardItemValue="3" stepGroup="50" step="7"/>
+	<achievement id="5008" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="34" rewardItemType="114" rewardItemValue="3" stepGroup="50" step="8"/>
+	<achievement id="5009" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="37" rewardItemType="114" rewardItemValue="3" stepGroup="50" step="9"/>
+	<achievement id="5010" category="2" order="50" criteriaType="75" criteriaCondition="4" criteriaValue="40" rewardItemType="114" rewardItemValue="4" stepGroup="50" step="10"/>
+	<achievement id="5101" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="20" rewardItemType="115" rewardItemValue="1" stepGroup="51" step="1"/>
+	<achievement id="5102" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="22" rewardItemType="115" rewardItemValue="1" stepGroup="51" step="2"/>
+	<achievement id="5103" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="24" rewardItemType="115" rewardItemValue="1" stepGroup="51" step="3"/>
+	<achievement id="5104" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="26" rewardItemType="115" rewardItemValue="2" stepGroup="51" step="4"/>
+	<achievement id="5105" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="28" rewardItemType="115" rewardItemValue="2" stepGroup="51" step="5"/>
+	<achievement id="5106" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="30" rewardItemType="115" rewardItemValue="2" stepGroup="51" step="6"/>
+	<achievement id="5107" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="32" rewardItemType="115" rewardItemValue="3" stepGroup="51" step="7"/>
+	<achievement id="5108" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="34" rewardItemType="115" rewardItemValue="3" stepGroup="51" step="8"/>
+	<achievement id="5109" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="37" rewardItemType="115" rewardItemValue="3" stepGroup="51" step="9"/>
+	<achievement id="5110" category="2" order="51" criteriaType="75" criteriaCondition="5" criteriaValue="40" rewardItemType="115" rewardItemValue="4" stepGroup="51" step="10"/>
+	<achievement id="5201" category="1" order="52" criteriaType="83" criteriaValue="10" rewardItemType="1" rewardItemValue="5760" stepGroup="52" step="1"/>
+	<achievement id="5202" category="1" order="52" criteriaType="83" criteriaValue="12" rewardItemType="1" rewardItemValue="7200" stepGroup="52" step="2"/>
+	<achievement id="5203" category="1" order="52" criteriaType="83" criteriaValue="14" rewardItemType="1" rewardItemValue="10080" stepGroup="52" step="3"/>
+	<achievement id="5204" category="1" order="52" criteriaType="83" criteriaValue="16" rewardItemType="1" rewardItemValue="11520" stepGroup="52" step="4"/>
+	<achievement id="5205" category="1" order="52" criteriaType="83" criteriaValue="18" rewardItemType="1" rewardItemValue="15840" stepGroup="52" step="5"/>
+	<achievement id="5206" category="1" order="52" criteriaType="83" criteriaValue="20" rewardItemType="1" rewardItemValue="23040" stepGroup="52" step="6"/>
+	<achievement id="5207" category="1" order="52" criteriaType="83" criteriaValue="22" rewardItemType="1" rewardItemValue="31680" stepGroup="52" step="7"/>
+	<achievement id="5208" category="1" order="52" criteriaType="83" criteriaValue="25" rewardItemType="1" rewardItemValue="46080" stepGroup="52" step="8"/>
+	<achievement id="5209" category="1" order="52" criteriaType="83" criteriaValue="27" rewardItemType="1" rewardItemValue="66240" stepGroup="52" step="9"/>
+	<achievement id="5210" category="1" order="52" criteriaType="83" criteriaValue="30" rewardItemType="1" rewardItemValue="80640" stepGroup="52" step="10"/>
+	<achievement id="5301" category="1" order="53" criteriaType="85" criteriaValue="200" rewardItemType="53" rewardItemValue="5" stepGroup="53" step="1"/>
+	<achievement id="5302" category="1" order="53" criteriaType="85" criteriaValue="250" rewardItemType="53" rewardItemValue="5" stepGroup="53" step="2"/>
+	<achievement id="5303" category="1" order="53" criteriaType="85" criteriaValue="300" rewardItemType="53" rewardItemValue="7" stepGroup="53" step="3"/>
+	<achievement id="5304" category="1" order="53" criteriaType="85" criteriaValue="400" rewardItemType="53" rewardItemValue="7" stepGroup="53" step="4"/>
+	<achievement id="5305" category="1" order="53" criteriaType="85" criteriaValue="500" rewardItemType="53" rewardItemValue="10" stepGroup="53" step="5"/>
+	<achievement id="5306" category="1" order="53" criteriaType="85" criteriaValue="600" rewardItemType="53" rewardItemValue="10" stepGroup="53" step="6"/>
+	<achievement id="5307" category="1" order="53" criteriaType="85" criteriaValue="800" rewardItemType="53" rewardItemValue="12" stepGroup="53" step="7"/>
+	<achievement id="5308" category="1" order="53" criteriaType="85" criteriaValue="1000" rewardItemType="53" rewardItemValue="12" stepGroup="53" step="8"/>
+	<achievement id="5309" category="1" order="53" criteriaType="85" criteriaValue="1500" rewardItemType="53" rewardItemValue="15" stepGroup="53" step="9"/>
+	<achievement id="5310" category="1" order="53" criteriaType="85" criteriaValue="2000" rewardItemType="53" rewardItemValue="15" stepGroup="53" step="10"/>
+	<achievement id="5401" category="1" order="54" criteriaType="87" criteriaValue="100" rewardItemType="55" rewardItemValue="2" stepGroup="54" step="1"/>
+	<achievement id="5402" category="1" order="54" criteriaType="87" criteriaValue="150" rewardItemType="55" rewardItemValue="2" stepGroup="54" step="2"/>
+	<achievement id="5403" category="1" order="54" criteriaType="87" criteriaValue="200" rewardItemType="55" rewardItemValue="3" stepGroup="54" step="3"/>
+	<achievement id="5404" category="1" order="54" criteriaType="87" criteriaValue="250" rewardItemType="55" rewardItemValue="3" stepGroup="54" step="4"/>
+	<achievement id="5405" category="1" order="54" criteriaType="87" criteriaValue="300" rewardItemType="55" rewardItemValue="4" stepGroup="54" step="5"/>
+	<achievement id="5406" category="1" order="54" criteriaType="87" criteriaValue="400" rewardItemType="55" rewardItemValue="4" stepGroup="54" step="6"/>
+	<achievement id="5407" category="1" order="54" criteriaType="87" criteriaValue="500" rewardItemType="55" rewardItemValue="5" stepGroup="54" step="7"/>
+	<achievement id="5408" category="1" order="54" criteriaType="87" criteriaValue="600" rewardItemType="55" rewardItemValue="5" stepGroup="54" step="8"/>
+	<achievement id="5409" category="1" order="54" criteriaType="87" criteriaValue="800" rewardItemType="55" rewardItemValue="6" stepGroup="54" step="9"/>
+	<achievement id="5410" category="1" order="54" criteriaType="87" criteriaValue="1000" rewardItemType="55" rewardItemValue="6" stepGroup="54" step="10"/>
+	<achievement id="5501" category="1" order="55" criteriaType="91" criteriaValue="30" rewardItemType="56" rewardItemValue="2" stepGroup="55" step="1"/>
+	<achievement id="5502" category="1" order="55" criteriaType="91" criteriaValue="35" rewardItemType="56" rewardItemValue="2" stepGroup="55" step="2"/>
+	<achievement id="5503" category="1" order="55" criteriaType="91" criteriaValue="40" rewardItemType="56" rewardItemValue="3" stepGroup="55" step="3"/>
+	<achievement id="5504" category="1" order="55" criteriaType="91" criteriaValue="45" rewardItemType="56" rewardItemValue="3" stepGroup="55" step="4"/>
+	<achievement id="5505" category="1" order="55" criteriaType="91" criteriaValue="50" rewardItemType="56" rewardItemValue="4" stepGroup="55" step="5"/>
+	<achievement id="5506" category="1" order="55" criteriaType="91" criteriaValue="60" rewardItemType="56" rewardItemValue="4" stepGroup="55" step="6"/>
+	<achievement id="5507" category="1" order="55" criteriaType="91" criteriaValue="80" rewardItemType="56" rewardItemValue="5" stepGroup="55" step="7"/>
+	<achievement id="5508" category="1" order="55" criteriaType="91" criteriaValue="100" rewardItemType="56" rewardItemValue="5" stepGroup="55" step="8"/>
+	<achievement id="5509" category="1" order="55" criteriaType="91" criteriaValue="150" rewardItemType="56" rewardItemValue="6" stepGroup="55" step="9"/>
+	<achievement id="5510" category="1" order="55" criteriaType="91" criteriaValue="200" rewardItemType="56" rewardItemValue="6" stepGroup="55" step="10"/>
+	<achievement id="5601" category="1" order="56" criteriaType="92" criteriaValue="3" rewardItemType="2" rewardItemValue="100" stepGroup="56" step="1"/>
+	<achievement id="5602" category="1" order="56" criteriaType="92" criteriaValue="5" rewardItemType="2" rewardItemValue="100" stepGroup="56" step="2"/>
+	<achievement id="5603" category="1" order="56" criteriaType="92" criteriaValue="7" rewardItemType="2" rewardItemValue="150" stepGroup="56" step="3"/>
+	<achievement id="5604" category="1" order="56" criteriaType="92" criteriaValue="10" rewardItemType="2" rewardItemValue="150" stepGroup="56" step="4"/>
+	<achievement id="5605" category="1" order="56" criteriaType="92" criteriaValue="13" rewardItemType="2" rewardItemValue="200" stepGroup="56" step="5"/>
+	<achievement id="5606" category="1" order="56" criteriaType="92" criteriaValue="16" rewardItemType="2" rewardItemValue="200" stepGroup="56" step="6"/>
+	<achievement id="5607" category="1" order="56" criteriaType="92" criteriaValue="19" rewardItemType="2" rewardItemValue="250" stepGroup="56" step="7"/>
+	<achievement id="5608" category="1" order="56" criteriaType="92" criteriaValue="22" rewardItemType="2" rewardItemValue="250" stepGroup="56" step="8"/>
+	<achievement id="5609" category="1" order="56" criteriaType="92" criteriaValue="25" rewardItemType="2" rewardItemValue="300" stepGroup="56" step="9"/>
+	<achievement id="5610" category="1" order="56" criteriaType="92" criteriaValue="30" rewardItemType="2" rewardItemValue="300" stepGroup="56" step="10"/>
+	<achievement id="5611" category="1" order="57" criteriaType="89" criteriaValue="1" rewardItemType="2" rewardItemValue="300" stepGroup="57" step="1"/>
+</Root>

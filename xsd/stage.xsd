@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- stage Table-->
+        <xs:element name="stage" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>
+		    <xs:attribute name="world" type="xs:string"/>
+		    <xs:attribute name="stage" type="xs:string"/>
+		    <xs:attribute name="openStage" type="xs:string"/>
+		    <xs:attribute name="x" type="xs:string"/>
+		    <xs:attribute name="y" type="xs:string"/>
+		    <xs:attribute name="folder" type="xs:string"/>
+		    <xs:attribute name="atlas" type="xs:string"/>
+		    <xs:attribute name="image" type="xs:string"/>
+		    <xs:attribute name="battleBG" type="xs:string"/>
+ 		    <xs:attribute name="attribute" type="xs:string"/>
+ 		    <xs:attribute name="victoryType" type="xs:string"/>
+ 		    <xs:attribute name="victoryTypeValue" type="xs:string"/>
+ 		    <xs:attribute name="getStoneVariable" type="xs:string"/>
+ 		    <xs:attribute name="summonPriceVariable" type="xs:string"/>
+ 		    <xs:attribute name="summonCooltimeVariable" type="xs:string"/>
+		    <xs:attribute name="needItemType" type="xs:string"/>
+		    <xs:attribute name="needItemValue" type="xs:string"/>
+		    <xs:attribute name="clearDiscount" type="xs:string"/>
+		    <xs:attribute name="stageSize" type="xs:string"/>
+		    <xs:attribute name="enemyTower" type="xs:string"/>
+		    <xs:attribute name="enemyTowerPlusHp" type="xs:string"/>
+		    <xs:attribute name="enemyTowerPlusDefence" type="xs:string"/>
+		    <xs:attribute name="characterGroup" type="xs:string"/>
+		    <xs:attribute name="useStoneId" type="xs:string"/>
+		    <xs:attribute name="enemyPattern" type="xs:string"/>
+		    <xs:attribute name="enemyPlusLevel" type="xs:string"/>
+		    <xs:attribute name="addSkillId" type="xs:string"/>
+		    <xs:attribute name="firstRewardItemType" type="xs:string"/>
+		    <xs:attribute name="firstRewardItemValue" type="xs:string"/>
+		    <xs:attribute name="rewardTeamExp" type="xs:string"/>
+		    <xs:attribute name="rewardItemType" type="xs:string"/>
+		    <xs:attribute name="rewardItemSeed" type="xs:string"/>
+		    <xs:attribute name="rewardItemValue" type="xs:string"/>
+		    <xs:attribute name="rewardRelicItem" type="xs:string"/>
+		    <xs:attribute name="randomRewardItemType" type="xs:string"/>
+		    <xs:attribute name="randomRewardItemValue" type="xs:string"/>
+		    <xs:attribute name="randomRewardItemSeed" type="xs:string"/>
+		    <xs:attribute name="hidden" type="xs:string"/>
+		    <xs:attribute name="closeStage" type="xs:string"/>
+		    <xs:attribute name="leaderMonster" type="xs:string"/>
+		    <xs:attribute name="loginGoldBonus" type="xs:string"/>
+  		    <xs:attribute name="startCondition" type="xs:string"/>
+  		    <xs:attribute name="startConditionValue" type="xs:string"/>
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

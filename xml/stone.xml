@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<stone id="1" name="33321" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" image="mini_fire_stone" upgradeButtonFolder="Supplier/" upgradeButtonAtlas="Prefab_Supplier" upgradeButtonImage="mybase_04"/>
+	<stone id="2" name="33322" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" image="mini_water_stone" upgradeButtonFolder="Supplier/" upgradeButtonAtlas="Prefab_Supplier" upgradeButtonImage="mybase_05"/>
+	<stone id="3" name="33323" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" image="mini_forrest_stone" upgradeButtonFolder="Supplier/" upgradeButtonAtlas="Prefab_Supplier" upgradeButtonImage="mybase_02"/>
+	<stone id="4" name="33324" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" image="mini_right_stone" upgradeButtonFolder="Supplier/" upgradeButtonAtlas="Prefab_Supplier" upgradeButtonImage="mybase_06"/>
+	<stone id="5" name="33325" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" image="mini_dark_stone" upgradeButtonFolder="Supplier/" upgradeButtonAtlas="Prefab_Supplier" upgradeButtonImage="mybase_03"/>
+	<stone id="11" name="33331" folder="Battle/Atlas/" atlas="Prefab_BattleAtlas" image="mini_gold_stone" upgradeButtonFolder="Supplier/" upgradeButtonAtlas="Prefab_Supplier" upgradeButtonImage="mybase_01"/>
+</Root>

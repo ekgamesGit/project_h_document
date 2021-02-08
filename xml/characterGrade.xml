@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<characterGrade id="1" name="30001" folder="CardBG/" atlas="Prefab_CardBG" image="fame_1" levelUpPriceValue="1"/>
+	<characterGrade id="2" name="30002" folder="CardBG/" atlas="Prefab_CardBG" image="fame_2" levelUpPriceValue="2"/>
+	<characterGrade id="3" name="30003" folder="CardBG/" atlas="Prefab_CardBG" image="fame_3" levelUpPriceValue="3"/>
+	<characterGrade id="4" name="30004" folder="CardBG/" atlas="Prefab_CardBG" image="fame_4" levelUpPriceValue="4"/>
+	<characterGrade id="5" name="30005" folder="CardBG/" atlas="Prefab_CardBG" image="fame_5" levelUpPriceValue="5"/>
+	<characterGrade id="6" name="30006" folder="CardBG/" atlas="Prefab_CardBG" image="fame_6" levelUpPriceValue="6"/>
+	<characterGrade id="7" name="30007" folder="CardBG/" atlas="Prefab_CardBG" image="fame_7" levelUpPriceValue="7"/>
+	<characterGrade id="8" name="30008" folder="CardBG/" atlas="Prefab_CardBG" image="fame_8" levelUpPriceValue="8"/>
+	<characterGrade id="9" name="30009" folder="CardBG/" atlas="Prefab_CardBG" image="fame_9" levelUpPriceValue="9"/>
+	<characterGrade id="10" name="30010" folder="CardBG/" atlas="Prefab_CardBG" image="fame_10" levelUpPriceValue="10"/>
+</Root>

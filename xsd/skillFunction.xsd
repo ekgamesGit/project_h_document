@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- skillFunction Table-->
+        <xs:element name="skillFunction" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		<xs:attribute name="skillFunctionId" type="xs:string"/>
+		<xs:attribute name="targetGroup" type="xs:string"/>
+		<xs:attribute name="targetTeam" type="xs:string"/>
+		<xs:attribute name="targetFilterType" type="xs:string"/>
+		<xs:attribute name="targetFilterValue" type="xs:string"/>
+		<xs:attribute name="targetPriorityType" type="xs:string"/>
+		<xs:attribute name="targetPriorityValue" type="xs:string"/>
+		<xs:attribute name="targetCount" type="xs:string"/>
+		<xs:attribute name="attackDistance" type="xs:string"/>
+		<xs:attribute name="range" type="xs:string"/>
+		<xs:attribute name="functionType" type="xs:string"/>
+		<xs:attribute name="buffSkillId" type="xs:string"/>
+		<xs:attribute name="value" type="xs:string"/>
+		<xs:attribute name="plusValue" type="xs:string"/>
+		<xs:attribute name="arrowEffect" type="xs:string"/>
+		<xs:attribute name="damageEffect" type="xs:string"/>
+		<xs:attribute name="actionEffect" type="xs:string"/>
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

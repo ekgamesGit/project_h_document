@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<skinLevelup id="1" type="1" level="1" plusStat="1" needItemType="1" needItemValue="200000"/>
+	<skinLevelup id="2" type="1" level="2" plusStat="2" needItemType="1" needItemValue="300000"/>
+	<skinLevelup id="3" type="1" level="3" plusStat="3" needItemType="1" needItemValue="400000"/>
+	<skinLevelup id="4" type="1" level="4" plusStat="4" needItemType="2,1" needItemValue="50,500000"/>
+	<skinLevelup id="5" type="1" level="5" plusStat="6" needItemType="2,1" needItemValue="100,600000"/>
+	<skinLevelup id="6" type="1" level="6" plusStat="8" needItemType="2,1" needItemValue="150,700000"/>
+	<skinLevelup id="7" type="1" level="7" plusStat="11" needItemType="2,1" needItemValue="200,800000"/>
+	<skinLevelup id="8" type="1" level="8" plusStat="14" needItemType="2,1" needItemValue="250,1000000"/>
+	<skinLevelup id="9" type="1" level="9" plusStat="19" needItemType="2,1" needItemValue="300,1200000"/>
+	<skinLevelup id="10" type="1" level="10" plusStat="25" needItemType="2,1" needItemValue="400,1400000"/>
+	<skinLevelup id="101" type="2" level="1" plusStat="1" needItemType="1" needItemValue="250000"/>
+	<skinLevelup id="102" type="2" level="2" plusStat="2" needItemType="1" needItemValue="500000"/>
+	<skinLevelup id="103" type="2" level="3" plusStat="3" needItemType="1" needItemValue="750000"/>
+	<skinLevelup id="104" type="2" level="4" plusStat="4" needItemType="2,1" needItemValue="100,1000000"/>
+	<skinLevelup id="105" type="2" level="5" plusStat="6" needItemType="2,1" needItemValue="150,1250000"/>
+	<skinLevelup id="106" type="2" level="6" plusStat="8" needItemType="2,1" needItemValue="200,1500000"/>
+	<skinLevelup id="107" type="2" level="7" plusStat="11" needItemType="2,1" needItemValue="300,1750000"/>
+	<skinLevelup id="108" type="2" level="8" plusStat="15" needItemType="2,1" needItemValue="400,2000000"/>
+	<skinLevelup id="109" type="2" level="9" plusStat="21" needItemType="2,1" needItemValue="550,2250000"/>
+	<skinLevelup id="110" type="2" level="10" plusStat="29" needItemType="2,1" needItemValue="700,2500000"/>
+</Root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<relicGroup id="1" type="1" name="1" worldId="1" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st01"/>
+	<relicGroup id="2" type="1" name="2" worldId="2" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st02"/>
+	<relicGroup id="3" type="1" name="3" worldId="3" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st03"/>
+	<relicGroup id="4" type="1" name="4" worldId="4" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st06"/>
+	<relicGroup id="5" type="1" name="5" worldId="5" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st05"/>
+	<relicGroup id="6" type="1" name="6" worldId="6" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st04"/>
+	<relicGroup id="7" type="1" name="7" worldId="7" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st02"/>
+	<relicGroup id="8" type="1" name="8" worldId="8" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st03"/>
+	<relicGroup id="9" type="1" name="9" worldId="9" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st06"/>
+	<relicGroup id="10" type="1" name="10" worldId="10" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st05"/>
+	<relicGroup id="11" type="1" name="11" worldId="11" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st04"/>
+	<relicGroup id="12" type="1" name="12" worldId="12" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st02"/>
+	<relicGroup id="13" type="1" name="13" worldId="13" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st03"/>
+	<relicGroup id="14" type="1" name="14" worldId="14" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st06"/>
+	<relicGroup id="15" type="1" name="15" worldId="15" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st05"/>
+	<relicGroup id="16" type="1" name="16" worldId="16" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st04"/>
+	<relicGroup id="101" type="2" name="100" worldId="101" folder="ImgEtc/" atlas="Prefab_RelicResource" image="st01"/>
+</Root>

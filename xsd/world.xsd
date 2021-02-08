@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+<!-- world Table-->
+        <xs:element name="world" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+		    <xs:attribute name="id" type="xs:string"/>
+		    <xs:attribute name="worldType" type="xs:string"/>
+		    <xs:attribute name="worldMakeType" type="xs:string"/>
+		    <xs:attribute name="name" type="xs:string"/>
+		    <xs:attribute name="startDate" type="xs:string"/>
+		    <xs:attribute name="endDate" type="xs:string"/>
+		    <xs:attribute name="openDay" type="xs:string"/>
+		    <xs:attribute name="startTime" type="xs:string"/>
+		    <xs:attribute name="endTime" type="xs:string"/>
+		    <xs:attribute name="folder" type="xs:string"/>
+		    <xs:attribute name="atlas" type="xs:string"/>
+		    <xs:attribute name="image" type="xs:string"/>
+		    <xs:attribute name="endFolder" type="xs:string"/>
+		    <xs:attribute name="endImage" type="xs:string"/>
+		    <xs:attribute name="decoFolder" type="xs:string"/>
+		    <xs:attribute name="decoImage" type="xs:string"/>
+		    <xs:attribute name="backGroundFolder" type="xs:string"/>
+		    <xs:attribute name="backGroundImage" type="xs:string"/>
+		    <xs:attribute name="x" type="xs:string"/>
+		    <xs:attribute name="y" type="xs:string"/>
+		    <xs:attribute name="effect" type="xs:string"/>
+		    <xs:attribute name="clearLimit" type="xs:string"/>
+		    <xs:attribute name="openWorld" type="xs:string"/>
+		    <xs:attribute name="rewardItemType" type="xs:string"/>
+		    <xs:attribute name="rewardItemValue" type="xs:string"/>
+		    <xs:attribute name="schedule" type="xs:string"/>
+		    <xs:attribute name="scheduleShowTime" type="xs:string"/>
+		    <xs:attribute name="majorReward" type="xs:string"/>
+
+
+
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
