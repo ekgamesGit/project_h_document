@@ -17,8 +17,6 @@
 		    <xs:attribute name="image" type="xs:string"/>
 		    <xs:attribute name="battleBG" type="xs:string"/>
  		    <xs:attribute name="attribute" type="xs:string"/>
- 		    <xs:attribute name="victoryType" type="xs:string"/>
- 		    <xs:attribute name="victoryTypeValue" type="xs:string"/>
  		    <xs:attribute name="getStoneVariable" type="xs:string"/>
  		    <xs:attribute name="summonPriceVariable" type="xs:string"/>
  		    <xs:attribute name="summonCooltimeVariable" type="xs:string"/>

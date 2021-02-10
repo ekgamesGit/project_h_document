@@ -8,8 +8,6 @@
           <xs:complexType>
 		   <xs:attribute name="id" type="xs:string"/>
 		   <xs:attribute name="enemyPatternId" type="xs:string"/>
-		   <xs:attribute name="petternActiveTimingType" type="xs:string"/>
-		   <xs:attribute name="petternActiveTimingTypeValue" type="xs:string"/>
 		   <xs:attribute name="startTime" type="xs:string"/>
 		   <xs:attribute name="endTime" type="xs:string"/>
 		   <xs:attribute name="repeat" type="xs:string"/>

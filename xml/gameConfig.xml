@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root>
-	<gameConfig configName="default_character" configValue="1,2"/>
+	<gameConfig configName="default_character" configValue="4,10"/>
 	<gameConfig configName="default_itemType" configValue="1,51,52,41"/>
 	<gameConfig configName="default_itemValue" configValue="1000,20,20,3"/>
 	<gameConfig configName="InputFilter" configValue="^[a-zA-Z0-9가-힣\u4E00-\u9FFF\uF900-\uFAFF]*$"/>
@@ -17,12 +17,12 @@
 	<gameConfig configName="storeReview_stage" configValue="15,50,100,150,200,300"/>
 	<gameConfig configName="storeReview_aosUrl" configValue="https://play.google.com/store/apps/details?id=net.ekgames.elroi"/>
 	<gameConfig configName="storeReview_iosUrl" configValue="http://apps.apple.com/app/id1455861808"/>
-	<gameConfig configName="openMenu_Tower" configValue="7,57701,Tower"/>
-	<gameConfig configName="openMenu_Upgrade" configValue="9,50510,Upgrade"/>
-	<gameConfig configName="openMenu_Gatcha" configValue="2,50508,Gatcha"/>
+	<gameConfig configName="openMenu_Tower" configValue="0,57701,Tower"/>
+	<gameConfig configName="openMenu_Upgrade" configValue="0,50510,Upgrade"/>
+	<gameConfig configName="openMenu_Gatcha" configValue="0,50508,Gatcha"/>
 	<gameConfig configName="openMenu_Event" configValue="0,50506,Event"/>
 	<gameConfig configName="openMenu_PopupShop" configValue="-1,55800,PopupShop"/>
-	<gameConfig configName="openMenu_ChangeWorld" configValue="13,45029,ChangeWorld"/>
-	<gameConfig configName="openMenu_Achievement" configValue="11,50501,Achievement"/>
+	<gameConfig configName="openMenu_ChangeWorld" configValue="0,45029,ChangeWorld"/>
+	<gameConfig configName="openMenu_Achievement" configValue="0,50501,Achievement"/>
 	<gameConfig configName="nickNameBonus" configValue="2,100"/>
 </Root>
